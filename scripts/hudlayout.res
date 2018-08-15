@@ -1151,7 +1151,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-160"
-		"ypos"					"12"
+		"ypos"					"23"
 		"ypos_minmode"				"15"
 		"ypos_lodef"				"75"
 		"wide"					"125"
