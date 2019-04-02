@@ -1725,24 +1725,14 @@
 				{
 					"0"
 					{
-						"item"		"Blue Moon Cosmetic Key"
+						"item"		"Winter 2018 Cosmetic Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Jungle Inferno Contracts Pass"
-						"show_market"	"0"
+						"item"		"Winter 2018 Cosmetic Case"
+						"show_market"	"1"
 					}
-					"2"
-					{
-						"item"		"Winter 2017 Cosmetic Key"
-						"show_market"	"0"
-					}
-					"3"
-					{
-						"item"		"Winter 2017 War Paint Key"
-						"show_market"	"0"
-					}					
 				}
 			}
 
