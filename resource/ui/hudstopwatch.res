@@ -17,7 +17,7 @@
 
 		if_comp
 		{
-			"ypos"	"20"
+			"ypos"	"15"
 		}
 
 
@@ -46,7 +46,7 @@
 
 		if_comp
 		{
-			"ypos"	"27"
+			"ypos"	"22"
 		}
 	}
 
@@ -64,7 +64,7 @@
 
 		if_comp
 		{
-			"ypos"	"11"
+			"ypos"	"6"
 		}
 
 		"TimePanelValue"
@@ -112,7 +112,7 @@
 
 		if_comp
 		{
-			"ypos"	"21"
+			"ypos"	"16"
 		}
 	}
 	"StopWatchPointsLabel"
@@ -135,7 +135,7 @@
 
 		if_comp
 		{
-			"ypos"	"24"
+			"ypos"	"19"
 		}
 	}
 
@@ -159,7 +159,7 @@
 
 		if_comp
 		{
-			"ypos"	"20"
+			"ypos"	"15"
 		}
 	}
 
@@ -187,7 +187,7 @@
 
 		if_comp
 		{
-			"ypos"	"42"
+			"ypos"	"38"
 		}
 	}
 
@@ -211,7 +211,7 @@
 
 		if_comp
 		{
-			"ypos"	"38"
+			"ypos"	"33"
 		}
 	}
 }
