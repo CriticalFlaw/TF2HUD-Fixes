@@ -8,7 +8,7 @@
 		"ypos"			"0"
 		"zpos"			"500"
 		"wide"			"f0"
-		"tall"			"480"
+		"tall"			"400"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -70,6 +70,7 @@
 			{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
+				"inventory_image_type"	"1"
 			}
 			
 			"use_item_sounds"	"1"
@@ -148,7 +149,7 @@
 		"ControlName"		"TextEntry"
 		"fieldName"		"NameFilterTextEntry"
 		"xpos"		"c+205"
-		"ypos"		"15"
+		"ypos"		"17"
 		"zpos"		"2"
 		"wide"		"90"
 		"tall"		"19"
