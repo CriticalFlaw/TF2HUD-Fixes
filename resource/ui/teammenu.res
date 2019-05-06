@@ -67,7 +67,7 @@
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton0"
-		"xpos"			"c-27"
+		"xpos"			"c-29"
 		"ypos"			"101"
 		"zpos"			"3"
 		"wide"			"124"
@@ -95,7 +95,7 @@
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton1"
-		"xpos"			"c160"
+		"xpos"			"c159"
 		"ypos"			"101"
 		"zpos"			"3"
 		"wide"			"124"
@@ -123,7 +123,7 @@
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton2"
-		"xpos"			"c-285"
+		"xpos"			"c-290"
 		"ypos"			"101"
 		"zpos"			"3"
 		"wide"			"124"
@@ -149,7 +149,7 @@
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton3"
-		"xpos"			"c-138"
+		"xpos"			"c-140"
 		"ypos"			"232"
 		"zpos"			"3"
 		"wide"			"82"
