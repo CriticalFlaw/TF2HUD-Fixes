@@ -15,6 +15,7 @@
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
+			"inventory_image_type"	"1"
 		}
 	}
 	"modelpanel1"
@@ -32,6 +33,7 @@
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
+			"inventory_image_type"	"1"
 		}
 	}
 	"modelpanel2"
@@ -49,6 +51,7 @@
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
+			"inventory_image_type"	"1"
 		}
 	}
 	"modelpanel3"
@@ -66,6 +69,7 @@
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
+			"inventory_image_type"	"1"
 		}
 	}
 	"modelpanel4"
@@ -83,6 +87,7 @@
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
+			"inventory_image_type"	"1"
 		}
 	}
 	"modelpanel5"
@@ -100,6 +105,7 @@
 		{
 			"use_item_rendertarget" "0"
 			"allow_rot"				"0"
+			"inventory_image_type"	"1"
 		}
 	}
 }

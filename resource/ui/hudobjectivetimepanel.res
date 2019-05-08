@@ -63,7 +63,7 @@
 		"xpos"			"16"
 		"xpos_hidef"	"0"
 		"xpos_lodef"	"0"
-		"ypos"			"34"
+		"ypos"			"33"
 		"ypos_minmode"	"24"
 		"ypos_hidef"	"41"
 		"ypos_lodef"	"41"

@@ -149,7 +149,7 @@
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton3"
-		"xpos"			"c-138"
+		"xpos"			"c-140"
 		"ypos"			"232"
 		"zpos"			"3"
 		"wide"			"82"
@@ -272,7 +272,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
-		"font"			"MenuSmallestFont"
+		"font"			"CapPlayerFontSmall"
 		"font_lodef"	"MenuSmallFont"
 		"fgcolor"		"white"
 	}

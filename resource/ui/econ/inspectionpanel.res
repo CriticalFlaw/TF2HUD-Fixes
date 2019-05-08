@@ -33,7 +33,7 @@
 		"mouseinputenabled"	"0"
 		"proportionaltoparent"	"1"
 
-		"text_ypos"		"15"
+		"text_ypos"		"20"
 		"text_center"	"0"
 		"paint_icon_hide" "1"
 		"model_hide"	"1"
