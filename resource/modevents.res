@@ -1884,6 +1884,9 @@
 	"ping_updated"
 	{}
 
+	"mmstats_updated"
+	{}
+
 	"player_next_map_vote_change"
 	{
 		"map_index"	"byte"	// what they voted for
