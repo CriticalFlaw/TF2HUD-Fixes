@@ -6,7 +6,7 @@
 		"fieldName"				"HudTournament"
 				
 		"xpos"					"c-125"
-		"ypos"					"20"
+		"ypos"					"0"
 		"wide"					"250"
 		"tall"					"480"
 		"proportionaltoparent"	"1"
@@ -61,11 +61,6 @@
 			"team2_player_base_y"			"66"
 			"team2_player_delta_x"			"52"
 			"team2_player_base_offset_x"	"5"
-		}
-		
-		if_match
-		{
-			"ypos"	"20"
 		}
 
 		"ModeImage"
