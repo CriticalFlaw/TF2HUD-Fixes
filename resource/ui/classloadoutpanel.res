@@ -64,7 +64,6 @@
 			{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
-				"inventory_image_type"	"1"
 			}
 		}
 
@@ -134,7 +133,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		">>"
 		"textAlignment"	"west"
-		"xpos"			"c-60"
+		"xpos"			"c-150"
 		"ypos"			"20"
 		"zpos"			"1"
 		"wide"			"20"
@@ -152,7 +151,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#TF_Taunt"
 		"textAlignment"	"west"
-		"xpos"			"c-45"
+		"xpos"			"c-130"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"240"

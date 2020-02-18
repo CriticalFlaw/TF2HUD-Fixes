@@ -961,8 +961,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CloseButton"
-		"xpos"			"c238"
-		"ypos"			"55"
+		"xpos"			"c250"
+		"ypos"			"38"
 		"zpos"			"20"
 		"wide"			"20"
 		"tall"			"20"
@@ -1016,8 +1016,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"NextItemButton"
-		"xpos"			"c155"
-		"ypos"			"80"
+		"xpos"			"c165"
+		"ypos"			"70"
 		"zpos"			"100"
 		"wide"			"100"
 		"tall"			"20"
@@ -1041,8 +1041,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowExplanationsButton1"
-		"xpos"			"c238"
-		"ypos"			"80"
+		"xpos"			"c250"
+		"ypos"			"70"
 		"zpos"			"100"
 		"wide"			"20"
 		"tall"			"20"

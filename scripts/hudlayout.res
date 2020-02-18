@@ -347,7 +347,6 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"0"
-		"xpos_minmode" "40"
 		"ypos"		"0"
 		"zpos"		"1"
 		"wide"		"f0"

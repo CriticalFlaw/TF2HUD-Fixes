@@ -70,7 +70,6 @@
 			{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
-				"inventory_image_type"	"1"
 			}
 			
 			"use_item_sounds"	"1"
@@ -149,7 +148,7 @@
 		"ControlName"		"TextEntry"
 		"fieldName"		"NameFilterTextEntry"
 		"xpos"		"c+205"
-		"ypos"		"17"
+		"ypos"		"15"
 		"zpos"		"2"
 		"wide"		"90"
 		"tall"		"19"

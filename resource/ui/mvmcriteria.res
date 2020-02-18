@@ -276,7 +276,7 @@
 		{
 			"ControlName"	"CCyclingAdContainerPanel"
 			"fieldName"		"SquadSurplusTicketAd"
-			"xpos"			"85"
+			"xpos"			"73"
 			"ypos"			"30"
 			"zpos"			"0"
 			"wide"			"70"

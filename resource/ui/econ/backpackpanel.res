@@ -122,7 +122,6 @@
 			{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
-				"inventory_image_type"	"1"
 			}
 
 			"New"
@@ -161,7 +160,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		">>"
 		"textAlignment"	"west"
-		"xpos"			"c-295"
+		"xpos"			"c-300"
 		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"20"
@@ -548,7 +547,7 @@
 		"ypos"			"15"
 		"zpos"			"100"
 		"wide"			"20"
-		"tall"			"19"
+		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
