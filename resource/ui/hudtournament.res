@@ -62,6 +62,11 @@
 			"team2_player_delta_x"			"52"
 			"team2_player_base_offset_x"	"5"
 		}
+		
+		if_match
+		{
+			"ypos"	"20"
+		}
 
 		"ModeImage"
 		{

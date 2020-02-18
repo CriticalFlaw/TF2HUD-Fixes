@@ -8,7 +8,7 @@
 		"xpos"			"r162"	[$WIN32]
 		"ypos"			"r92"	[$WIN32]
 		"xpos_minmode"	"r115"	[$WIN32]
-		"ypos_minmode"	"r79"	[$WIN32]
+		"ypos_minmode"	"r78"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"
@@ -42,7 +42,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"25"
-		"ypos"					"25"
+		"ypos"					"27"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -85,7 +85,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"25"
-		"ypos"					"8"
+		"ypos"					"10"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
