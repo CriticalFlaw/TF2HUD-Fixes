@@ -1,23 +1,48 @@
-# TF2HUDFix
+## Community HUD Fixes for Team Fortress 2
 
-Minor fixes to the default Team Fortress 2 UI, to be sent to Valve
+A collection of fixes and minor improvements to the default Team Fortress 2 HUD.
 
-### Pending
-- [Killstreak counter is overlapped by the Mann vs. Machine money counter in minmode](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/ce783fd83502684a771184902ee0fe2af6880979) ([#2262](https://github.com/ValveSoftware/Source-1-Games/issues/2262), [#2410](https://github.com/ValveSoftware/Source-1-Games/issues/2410))  ([Comparison](https://imgur.com/a/L7kWxEM))
-- [Diamondback counter is overlapped by the cloak meter in minmode](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/89a861ec9612bfb6350a05fde2c1d8371046263a) ([#2444](https://github.com/ValveSoftware/Source-1-Games/issues/2444)) ([Comparison](https://imgur.com/a/b2Dapo5))
-- [Tournament setup panel is overlapped by the team status display](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/afd1a90767176ff2808430993bc562d3b6659168) ([Comparison](https://imgur.com/a/4zb8hxz))
-- [Thermal Thruster meter is overlapped](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/a3b9a7277bb0c34dd66cae8b5185f28022cfa693) [by the Mann vs. Machine canteen](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/0582a3846f1d50c3920b6f252d727bd53b6da708) ([Comparison](https://imgur.com/a/I9JOBZ6))
-- [Backpack label is not displaying properly when applying a tool to an item](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/a415752579e665ff2a56f722ef283fabc1138a6f) ([Comparison](https://imgur.com/a/2HyBycb))
-- [Tooltips are cutoff by the footer on the Item Selection screen](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/083dc2435b78fd8bf6bf29689e217d4130f21ed0) (Fixed by [FlaminSarge](https://github.com/FlaminSarge)) ([Comparison](https://imgur.com/a/eidyxJW))
-- [Passive attributes are not visible on the Loadouts screen](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/253bbbf283f051b76cfec8f217b5457687f03bd1) ([Comparison](https://imgur.com/a/0YboLte))
-- [Replay page header and footer do not match other pages](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/501b3a40908033b7242a5bae8bf6e5973f617e11) ([Comparison](https://imgur.com/a/VgaGdPJ))
-- [Demoman Charge Meter is misaligned and missing a label in minmode](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/bb4532041a7081b7849a34fa500d1c6540c4e58b) ([Comparison](https://imgur.com/a/hMZ5lZI))
-- [Stopwatch by overlapped by the player panels in Tournament Spectator mode](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/456b9efab9ef7bdb1c0c31217d1c3ff410dc7cdd) ([Comparison](https://imgur.com/a/91wrouC))
+---
 
-### Miscellenaous 
-- [Updated](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/755e0ab6c87810cfffc6406ad4a04c5155d0e6f8) [Armory](https://imgur.com/a/4eT4x3h), [Class Select](https://imgur.com/a/o0pDzNr), [Team Select](https://imgur.com/a/69P1q4N), [Unboxing](https://imgur.com/a/BJQPE0z), [Stats](https://imgur.com/a/UDfdH3I), [MvM Mann Up](https://imgur.com/a/OsJPpcQ) and [Upgrade](https://imgur.com/a/WeR8vXl) panels
-- [Backpack, Loadout and Item Selection pages now use higher quality item images](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/755e0ab6c87810cfffc6406ad4a04c5155d0e6f8)
-- [Removed unused style and paint labels seen in the map stamp preview panel](https://github.com/CriticalFlaw/TF2-HUD-Fix/commit/6b7c7dce26c678b657313dcd7da61c7fc16fccd2) ([Comparison](https://imgur.com/a/48nTYaa))
+### [Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2001454366)
+- Backpack label is not displaying properly when applying a tool to an item. ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731768053/69568F41D8F9398A56D488C5A5A8B3C6B979120D/))
+- Tooltips are cutoff by the footer on the Item Selection screen. (Fixed by [FlaminSarge](https://github.com/FlaminSarge)) ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731768284/54831DFF321D72167B8DD03608ED1AEEB467C9C6/))
+- Passive attributes are not visible on the Loadouts screen. ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731768506/FFA14CDDC829838BE35F594D9721EDE4B42FA148/))
+- Replay page header and footer do not match other pages. ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731768697/AED0B3D8C3837B890A1CE72011BBA56729E66FEA/))
+- Removed unused style and paint labels seen when previewing a map stamp in the Mann Co. Store. ([Comparison](https://imgur.com/a/48nTYaa))
+- Corrected the zpos value for the main menu FooterLine, from -5- to -50.
+- Recolored Steam Workshop panel footers to match the panel body color.
+- Inlined the Best Moments panel in with the Performance Report.
+
+#### Updated Files 
+- resource/ui/econ/store/v2/storepreviewitempanel_maps.res
+- resource/ui/replaybrowser/mainpanel.res
+- resource/ui/econ/backpackpanel.res
+- resource/ui/classloadoutpanel.res
+- resource/ui/itemselectionpanel.res
+- resource/ui/mainmenuoverride.res
+
+---
+
+### [GamePlay](https://steamcommunity.com/sharedfiles/filedetails/?id=2001457353)
+- Diamondback counter is overlapped by the cloak meter in minmode. ([#2444](https://github.com/ValveSoftware/Source-1-Games/issues/2444)) ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731766307/3FBF97C4674F1D1896A120DCDA9261C183EEBA61/))
+- Thermal Thruster meter is overlapped by the canteen counter in Mann vs. Machine. (Comparison: [standard](https://steamuserimages-a.akamaihd.net/ugc/776245734731833044/85BB0621FEF5A8C86EAE2CB7324A265BFECAA7AE/), [minmode](https://steamuserimages-a.akamaihd.net/ugc/776245734731832860/189008546C627A93EF89F4131CA31BFCD7648286/))
+- Killstreak counter is overlapped by the money counter in Mann vs. Machine (minmode). ([#2262](https://github.com/ValveSoftware/Source-1-Games/issues/2262), [#2410](https://github.com/ValveSoftware/Source-1-Games/issues/2410))  ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731766546/B744ADCEA958B00732121D445A3A7DDF0E2E35F5/))
+- Killstreak counter is overlapped by the Spy's disguise status panel. ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731832575/147D38B92AE9277229EFE77094E19082F8241F2D/))
+- Demoman Charge Meter is misaligned and missing a label in minmode. ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731766948/E81EFBB206567D41518990DB4C856EF5A20F7F65/))
+- Visual issues with the team status panel in Tournament Spectator. ([Comparison](https://imgur.com/a/4zb8hxz))
+
+#### Updated Files 
+- resource/ui/classselection.res
+- resource/ui/huddemomanpipes.res
+- resource/ui/huditemeffectmeter_spy.res
+- resource/ui/hudmannssmachinestatus.res
+- resource/ui/hudrocketpack.res
+- resource/ui/spectatortournament.res
+- resource/ui/spectatortournamentguihealth.res
+- scripts/hudlayout.res
+
+---
 
 ### Added in the [March 26, 2019 Patch](http://www.teamfortress.com/post.php?id=49481)
 - [Advanced Options tooltips are blank](https://github.com/CriticalFlaw/TF2HUDFix/commit/57660ec51cb9bfc2041ec13187ca1c11d6fa070f) ([#2340](https://github.com/ValveSoftware/Source-1-Games/issues/2340)) ([Comparison](https://i.imgur.com/DTEFKCU.png))
