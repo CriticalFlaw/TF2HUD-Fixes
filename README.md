@@ -30,7 +30,7 @@ A collection of fixes and minor improvements to the default Team Fortress 2 HUD.
 - Killstreak counter is overlapped by the money counter in Mann vs. Machine (minmode). ([#2262](https://github.com/ValveSoftware/Source-1-Games/issues/2262), [#2410](https://github.com/ValveSoftware/Source-1-Games/issues/2410))  ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731766546/B744ADCEA958B00732121D445A3A7DDF0E2E35F5/))
 - Killstreak counter is overlapped by the Spy's disguise status panel. ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731832575/147D38B92AE9277229EFE77094E19082F8241F2D/))
 - Demoman Charge Meter is misaligned and missing a label in minmode. ([#2918](https://github.com/ValveSoftware/Source-1-Games/issues/2918)) ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731766948/E81EFBB206567D41518990DB4C856EF5A20F7F65/))
-- Visual issues with the team status panel in Tournament Spectator. ([Comparison](https://imgur.com/a/4zb8hxz))
+- Visual issues with the team status panel in Tournament Spectator. ([#2631](https://github.com/ValveSoftware/Source-1-Games/issues/2631)) ([Comparison](https://imgur.com/a/4zb8hxz))
 
 #### Updated Files 
 - resource/ui/classselection.res
