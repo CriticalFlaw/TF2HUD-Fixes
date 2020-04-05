@@ -13,6 +13,8 @@ A collection of fixes and minor improvements to the default Team Fortress 2 HUD.
 - Corrected the zpos value for the main menu FooterLine, from -5- to -50.
 - Recolored Steam Workshop panel footers to match the panel body color.
 - Inlined the Best Moments panel in with the Performance Report.
+- Made microphone meter in options menu texture functional.
+- Made commentary menu not use mipmapped textures.
 
 #### Updated Files 
 - resource/ui/econ/store/v2/storepreviewitempanel_maps.res
@@ -21,6 +23,11 @@ A collection of fixes and minor improvements to the default Team Fortress 2 HUD.
 - resource/ui/classloadoutpanel.res
 - resource/ui/itemselectionpanel.res
 - resource/ui/mainmenuoverride.res
+- materials/vgui/resource/mic_meter_dead.vtf
+- materials/vgui/resource/mic_meter_live.vtf
+- materials/vgui/chapters/chapter1.vtf
+- materials/vgui/chapters/chapter2.vtf
+- materials/vgui/chapters/chapter3.vtf
 
 ---
 
