@@ -8,7 +8,7 @@
 		"xpos"			"r162"	[$WIN32]
 		"ypos"			"r92"	[$WIN32]
 		"xpos_minmode"	"r115"	[$WIN32]
-		"ypos_minmode"	"r78"	[$WIN32]
+		"ypos_minmode"	"r80"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"

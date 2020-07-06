@@ -262,7 +262,7 @@
 		"fieldName"		"PassiveAttribsLabel"
 		"font"			"ItemFontAttribLarge"
 		"xpos"			"c-135"
-		"ypos"			"130"
+		"ypos"			"c-115"
 		"zpos"			"0"	
 		"wide"			"270"
 		"tall"			"240"
