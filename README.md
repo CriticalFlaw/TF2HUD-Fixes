@@ -2,7 +2,7 @@
 
 A collection of fixes and minor improvements to the default Team Fortress 2 HUD.
 
-Submitted to the Steam Workshop for Valve's consideration: https://steamcommunity.com/workshop/filedetails/?id=2153598398
+Submitted to the Steam Workshop: https://steamcommunity.com/workshop/filedetails/?id=2153598398
 
 ---
 
