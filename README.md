@@ -1,10 +1,8 @@
 ![alt text](https://i.imgur.com/cY2bhRp.png)
 
-A collection of fixes and minor improvements to the default Team Fortress 2 HUD.
+A compilation of bug fixes and minor tweaks to the default Team Fortress 2 HUD.
 
-Submitted as part of the TF2 Community Fix-Up Pack: https://steamcommunity.com/workshop/filedetails/?id=2156577890
-
-Collection of just the HUD fixes has also been submitted: https://steamcommunity.com/workshop/filedetails/?id=2153598398
+Submitted to the [Steam Workshop as a collection](https://steamcommunity.com/workshop/filedetails/?id=2153598398) and as part of the [TF2 Community Fix-Up Pack](https://steamcommunity.com/workshop/filedetails/?id=2156577890).
 
 ---
 
