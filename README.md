@@ -27,8 +27,8 @@ Submitted to the [Steam Workshop as a collection](https://steamcommunity.com/wor
 - Fixed the Scout and Soldier labels not changing color when hovered on the select class page. ([Comparison](https://imgur.com/a/o0pDzNr))
 - Fixed the Diamondback counter overlapping the Spy's cloak meter in minmode. ([#2444](https://github.com/ValveSoftware/Source-1-Games/issues/2444)) ([Comparison](https://imgur.com/a/b2Dapo5))
 - Fixed the Thermal Thruster meter overlapping the canteen counter in Mann vs. Machine. ([#2921](https://github.com/ValveSoftware/Source-1-Games/issues/2921)) ([Comparison](https://imgur.com/a/I9JOBZ6))
-- Fixed the killstreak counter overlapping the Spy's disguise panel and money counter in Mann vs. Machine. ([#2262](https://github.com/ValveSoftware/Source-1-Games/issues/2262), [#2410](https://github.com/ValveSoftware/Source-1-Games/issues/2410)) ([Comparison](https://imgur.com/a/L7kWxEM))
-- Fixed the wave status label not appearing in Mann vs. Machine while in minmode. ([#2779](https://github.com/ValveSoftware/Source-1-Games/issues/2779))
+- Fixed the killstreak counter overlapping the disguise panel and cash counter in Mann vs. Machine. ([#2262](https://github.com/ValveSoftware/Source-1-Games/issues/2262), [#2410](https://github.com/ValveSoftware/Source-1-Games/issues/2410)) ([Comparison](https://imgur.com/a/L7kWxEM))
+- Fixed the wave status label not appearing in Mann vs. Machine while in minmode. ([#2779](https://github.com/ValveSoftware/Source-1-Games/issues/2779)) ([Comparison](https://imgur.com/a/2uW1Wf7))
 - Visual tweaks to the Tournament Spectator. ([#2631](https://github.com/ValveSoftware/Source-1-Games/issues/2631)) ([Comparison](https://imgur.com/a/91wrouC))
 
 ---
