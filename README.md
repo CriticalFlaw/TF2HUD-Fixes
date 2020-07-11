@@ -11,6 +11,7 @@ Submitted to the [Steam Workshop as a collection](https://steamcommunity.com/wor
 ### [Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2001454366)
 - Corrected the zpos value of the main menu FooterLine, from -5- to -50.
 - Fixed the Backpack label not displaying properly when applying a tool to an item. ([#2920](https://github.com/ValveSoftware/Source-1-Games/issues/2920)) ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731768053/69568F41D8F9398A56D488C5A5A8B3C6B979120D/))
+- Fixed Mann Co. Catalog item attributes overlapping RichText portion. ([#3298](https://github.com/ValveSoftware/Source-1-Games/issues/3298)) ([Comparison](https://imgur.com/a/Gmp9HIL))
 - Fixed the Promotional Codes button overlapping with the news panel. ([#2904](https://github.com/ValveSoftware/Source-1-Games/issues/2904))
 - Fixed tooltips being cutoff by the footer on the Item Selection screen. (Fixed by [FlaminSarge](https://github.com/FlaminSarge)) ([Comparison](https://steamuserimages-a.akamaihd.net/ugc/776245734731768284/54831DFF321D72167B8DD03608ED1AEEB467C9C6/))
 - Inlined the Best Moments panel in with the Performance Report.
