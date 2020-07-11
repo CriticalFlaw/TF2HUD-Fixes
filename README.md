@@ -16,7 +16,7 @@ Submitted to the [Steam Workshop as a collection](https://steamcommunity.com/wor
 - Fixed tooltips being cutoff by the footer on the Item Selection screen. (Fixed by [FlaminSarge](https://github.com/FlaminSarge)) ([Comparison](https://imgur.com/a/eidyxJW))
 - Inlined the Best Moments panel in with the Performance Report. ([Comparison](https://imgur.com/a/UDfdH3I))
 - Recolored Steam Workshop panel footers to match the panel body color.
-- Removed unused style and paint labels seen when viewing stamps in the Mann Co. Store. ([Comparison](https://imgur.com/a/48nTYaa))
+- Removed unused style and paint labels seen when viewing stamps in the Mann Co. Store. ([Comparison](https://imgur.com/a/ygSihfP))
 - Restored the Passive Attributes label on the Loadout screen. ([#2919](https://github.com/ValveSoftware/Source-1-Games/issues/2919)) ([Comparison](https://imgur.com/a/0YboLte))
 - Updated the Replay page header and footer to match other pages. ([Comparison](https://imgur.com/a/VgaGdPJ))
 
