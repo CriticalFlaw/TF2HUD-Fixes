@@ -14,6 +14,7 @@ Submitted to the [Steam Workshop as a collection](https://steamcommunity.com/wor
 - Fixed Mann Co. Catalog item attributes overlapping RichText portion. ([#3298](https://github.com/ValveSoftware/Source-1-Games/issues/3298)) ([Comparison](https://imgur.com/a/Gmp9HIL))
 - Fixed the Promotional Codes button overlapping with the news panel. ([#2904](https://github.com/ValveSoftware/Source-1-Games/issues/2904))
 - Fixed tooltips being cutoff by the footer on the Item Selection screen. (Fixed by [FlaminSarge](https://github.com/FlaminSarge)) ([Comparison](https://imgur.com/a/eidyxJW))
+- Fixed the heading on the Item Testing page being overlapped by the Matchmaking Dashboard
 - Inlined the Best Moments panel in with the Performance Report. ([Comparison](https://imgur.com/a/UDfdH3I))
 - Recolored Steam Workshop panel footers to match the panel body color.
 - Removed unused style and paint labels seen when viewing stamps in the Mann Co. Store. ([Comparison](https://imgur.com/a/ygSihfP))
