@@ -497,15 +497,6 @@
 		"tall"	 "480"
 	}
 
-	HudTrain
-	{
-		"fieldName" "HudTrain"
-		"visible" "1"
-		"enabled" "1"
-		"wide"	 "640"
-		"tall"	 "480"
-	}
-
 	HudMOTD
 	{
 		"fieldName" "HudMOTD"
@@ -795,16 +786,6 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"icon_space"			"2"
-	}
-	
-	HUDAutoAim
-	{
-
-	}	
-	
-	HudHDRDemo
-	{
-
 	}
 
 	WinPanel
