@@ -2,14 +2,9 @@
 {		
 	HudSpellMenu
 	{
-		"xpos"			"130"
-
-		"if_killstreak_visible"
-		{
-			"xpos"			"160"
-		}
+		"xpos"			"150"
 	}
-			
+	
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"
