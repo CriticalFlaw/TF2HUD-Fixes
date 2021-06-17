@@ -1,6 +1,15 @@
-![alt text](https://i.imgur.com/cY2bhRp.png)
-
-A compilation of bug fixes and minor tweaks to the default Team Fortress 2 HUD. This mod has been submitted to the [Steam Workshop](https://steamcommunity.com/workshop/filedetails/?id=2153598398) for Valve's consideration as a whole and a-la-carte. Part of the [TF2 Community Fix-Up Pack](https://steamcommunity.com/workshop/filedetails/?id=2156577890).
+![image](https://i.imgur.com/cY2bhRp.png)
+<p align="center">
+  <p align="center">
+    A compilation of bug fixes and minor tweaks to the default Team Fortress 2 HUD.
+    <br />
+    This mod has been submitted to the Steam Workshop for Valve's consideration as a whole and a-la-carte.
+    <br />
+    <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Workshop Submission</a>
+    ·
+    <a href="https://steamcommunity.com/workshop/filedetails/?id=2156577890">TF2 Community Fix-Up Pack</a>
+  </p>
+</p>
 
 ### Notable Changes Include:
 - Restored the passive attributes label on the Loadout screen.
