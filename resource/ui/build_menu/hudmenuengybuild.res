@@ -1,4 +1,4 @@
-"Resource/UI/build_menu/HudMenuEngyDestroy.res"
+"Resource/UI/build_menu/HudMenuEngyBuild.res"
 {
 	"MainBackground"
 	{
@@ -28,10 +28,10 @@
 		"fillcolor"		"255 222 208 255"
 	}
 
-	"DestroyIcon"
+	"BuildIcon"
 	{
 		"ControlName"	"CIconPanel"
-		"fieldName"		"DestroyIcon"
+		"fieldName"		"BuildIcon"
 		"xpos"			"15"
 		"ypos"			"-2"
 		"zpos"			"1"
@@ -40,8 +40,44 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"icon"			"ico_demolish"
+		"icon"			"ico_build"
 		"iconColor"		"255 255 255 255"
+	}
+
+	"BuildIconShadow"
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"BuildIconShadow"
+		"xpos"			"16"
+		"ypos"			"-1"
+		"zpos"			"0"
+		"wide"			"48"
+		"tall"			"48"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"icon"			"ico_build"
+		"iconColor"		"0 0 0 255"
+	}
+
+	"TitleLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"TitleLabel"
+		"font"			"HudFontGiantBold"
+		"xpos"			"68"			// align me to the left edge of the first selection
+		"ypos"			"5"
+		"zpos"			"2"
+		"wide"			"300"
+		"tall"			"38"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#Hud_menu_build_title"
+		"textAlignment"	"Left"
+		"dulltext"		"0"
+		"brighttext"	"0"
 	}
 
 	"TitleLabelDropshadow"
@@ -59,29 +95,9 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"#Hud_menu_demolish_title"
+		"labelText"		"#Hud_menu_build_title"
 		"textAlignment"	"Left"
 		"dulltext"		"1"
-		"brighttext"	"0"
-	}
-
-	"TitleLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"TitleLabel"
-		"font"			"HudFontGiantBold"
-		"xpos"			"68"			// align me to the left edge of the first selection
-		"ypos"			"5"
-		"zpos"			"2"
-		"wide"			"300"
-		"tall"			"38"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"#Hud_menu_demolish_title"
-		"textAlignment"	"Left"
-		"dulltext"		"0"
 		"brighttext"	"0"
 	}
 
@@ -107,145 +123,193 @@
 
 	"active_item_1"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"active_item_1"
 		"xpos"			"25"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"0"
+		"visible"		"1"
 	}
 
 	"active_item_2"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"active_item_2"
 		"xpos"			"125"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"0"
+		"visible"		"1"
 	}
 
 	"active_item_3"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"active_item_3"
 		"xpos"			"225"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"0"
+		"visible"		"1"
 	}
 
 	"active_item_4"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"active_item_4"
 		"xpos"			"325"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"0"
+		"visible"		"1"
 	}
 
-	"inactive_item_1"
+	"already_built_item_1"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
-		"fieldName"		"inactive_item_1"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"already_built_item_1"
 		"xpos"			"25"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		"visible"		"0"
 	}
 
-	"inactive_item_2"
+	"already_built_item_2"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
-		"fieldName"		"inactive_item_2"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"already_built_item_2"
 		"xpos"			"125"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		"visible"		"0"
 	}
 
-	"inactive_item_3"
+	"already_built_item_3"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
-		"fieldName"		"inactive_item_3"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"already_built_item_3"
 		"xpos"			"225"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		"visible"		"0"
 	}
 
-	"inactive_item_4"
+	"already_built_item_4"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
-		"fieldName"		"inactive_item_4"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"already_built_item_4"
 		"xpos"			"325"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		"visible"		"0"
+	}
+
+	"cant_afford_item_1"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"cant_afford_item_1"
+		"xpos"			"25"
+		"ypos"			"47"
+		"zpos"			"1"
+		"wide"			"100"
+		"tall"			"124"
+		"visible"		"0"
+	}
+
+	"cant_afford_item_2"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"cant_afford_item_2"
+		"xpos"			"125"
+		"ypos"			"47"
+		"zpos"			"1"
+		"wide"			"100"
+		"tall"			"124"
+		"visible"		"0"
+	}
+
+	"cant_afford_item_3"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"cant_afford_item_3"
+		"xpos"			"225"
+		"ypos"			"47"
+		"zpos"			"1"
+		"wide"			"100"
+		"tall"			"124"
+		"visible"		"0"
+	}
+
+	"cant_afford_item_4"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"cant_afford_item_4"
+		"xpos"			"325"
+		"ypos"			"47"
+		"zpos"			"1"
+		"wide"			"100"
+		"tall"			"124"
+		"visible"		"0"
 	}
 
 	"unavailable_item_1"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"unavailable_item_1"
 		"xpos"			"25"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		"visible"		"0"
 	}
 
 	"unavailable_item_2"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"unavailable_item_2"
 		"xpos"			"125"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		"visible"		"0"
 	}
 
 	"unavailable_item_3"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"unavailable_item_3"
 		"xpos"			"225"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		"visible"		"0"
 	}
 
 	"unavailable_item_4"
 	{
-		"ControlName"	"CEngyDestroyMenuItem"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"unavailable_item_4"
 		"xpos"			"325"
 		"ypos"			"47"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"124"
-		"visible"		"1"
+		"visible"		"0"
 	}
 }

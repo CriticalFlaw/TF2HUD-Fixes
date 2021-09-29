@@ -1,0 +1,23 @@
+//==========================================================================================================================
+// CROSSHAIR ANIMATION
+//--------------------------------------------------------------------------------------------------------------------------
+event DamagedPlayer
+{
+	Animate CustomCrosshair		FgColor     "Hitmarker"			Linear 	0.0 	0.00001
+	Animate CustomCrosshair		FgColor     "Crosshair"		Linear 	0.10 	0.10001
+}
+
+//==========================================================================================================================
+// SPY DISGUISE
+//--------------------------------------------------------------------------------------------------------------------------
+event HudSpyDisguiseFadeIn
+{
+	RunEvent HudSpyDisguiseChanged		0.0
+	Animate PlayerStatusSpyImage		Alpha		"255"				Linear 0.9	0.1
+}
+
+event HudSpyDisguiseFadeOut
+{
+	RunEvent HudSpyDisguiseChanged		0.0
+	Animate PlayerStatusSpyImage		Alpha		"0"					Linear 0.9	0.1
+}
