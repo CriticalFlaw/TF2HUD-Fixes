@@ -195,7 +195,7 @@
 				"enabled"		"1"
 				"fgcolor_override" "86 78 68 255"
 			}
-			
+
 			"SteamWorkshopItem0"
 			{
 				"ControlName"	"CSteamWorkshopItemPanel"
@@ -243,7 +243,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 			}
-		
+
 			"PrevPageButton"
 			{
 				"ControlName"	"CExButton"
@@ -266,8 +266,8 @@
 				"Command"		"prevpage"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
-			}		
-			
+			}
+
 			"CurPageLabel"
 			{
 				"ControlName"	"CExLabel"
@@ -286,7 +286,7 @@
 				"enabled"		"1"
 				"fgcolor_override" "200 80 60 255"
 			}
-			
+
 			"NextPageButton"
 			{
 				"ControlName"	"CExButton"
@@ -309,8 +309,8 @@
 				"Command"		"nextpage"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
-			}	
-		
+			}
+
 			"ViewPublishedButton"
 			{
 				"ControlName"	"CExButton"
@@ -335,7 +335,7 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 			}
-		
+
 			"EditButton"
 			{
 				"ControlName"	"CExImageButton"
@@ -358,10 +358,10 @@
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
-				
+
 				"labelText"		"#TF_SteamWorkshop_Edit"
 				"command"		"edit"
-				
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -378,7 +378,7 @@
 					"enabled"		"1"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_edit"
-				}		
+				}
 			}
 
 			"ViewButton"
@@ -403,10 +403,10 @@
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
-				
+
 				"labelText"		"#TF_SteamWorkshop_View"
-				"command"		"view"				
-				
+				"command"		"view"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -423,7 +423,7 @@
 					"enabled"		"1"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_view"
-				}		
+				}
 			}
 
 			"DeleteButton"
@@ -448,10 +448,10 @@
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
-				
+
 				"labelText"		"#TF_SteamWorkshop_Delete"
 				"command"		"delete_item"
-				
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -468,7 +468,7 @@
 					"enabled"		"1"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_delete"
-				}		
+				}
 			}
 		}
 
@@ -555,7 +555,7 @@
 			"defaultFgColor_override" "46 43 42 255"
 			"armedFgColor_override" "235 226 202 255"
 			"depressedFgColor_override" "46 43 42 255"
-		}		
+		}
 
 		"LearnMore2Button"
 		{
@@ -627,6 +627,6 @@
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-		}			
+		}
 	}
 }

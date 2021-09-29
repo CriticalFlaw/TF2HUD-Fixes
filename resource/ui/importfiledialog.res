@@ -45,7 +45,7 @@
 		"tall"			"400"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"workshop_sandvich_top"
+		"image"			"workshop_blue_top"
 		"scaleImage"	"1"
 	}
 
@@ -62,10 +62,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"0 0 0 255"
 	}
 
-	"Title"	
+	"Title"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"Title"
@@ -314,7 +314,7 @@
 		"labelText"		"Perforce"
 		"Font"			"HudFontSmallest"
 		"textAlignment"	"west"
-		"xpos"			"245" 
+		"xpos"			"245"
 		"ypos"			"85"
 		"wide"			"80"
 		"tall"			"20"
@@ -334,7 +334,7 @@
 		"labelText"		"Partner"
 		"Font"			"HudFontSmallest"
 		"textAlignment"	"west"
-		"xpos"			"325" 
+		"xpos"			"325"
 		"ypos"			"85"
 		"wide"			"80"
 		"tall"			"20"
@@ -359,7 +359,7 @@
 		"tall"			"122"
 		"paintbackground" "0"
 		"border"				"SteamWorkshopBorder"
-				
+
 		"ButtonIconClear"
 		{
 			"ControlName"	"CExImageButton"
@@ -375,10 +375,10 @@
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"west"
-				
+
 			"labelText"		""
-			"command"		"ClearIcon"				
-				
+			"command"		"ClearIcon"
+
 			"image_drawcolor"	"235 226 202 255"
 			"image_disabledcolor" "0 0 0 255"
 
@@ -393,7 +393,7 @@
 				"tall"			"13"
 				"scaleImage"	"1"
 				"image"			"glyph_close_X"
-			}		
+			}
 		}
 
 		"ButtonIconBrowse"
@@ -411,10 +411,10 @@
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallestBold"
 			"textAlignment"	"west"
-				
+
 			"labelText"		""
-			"command"		"BrowseIcon"					
-				
+			"command"		"BrowseIcon"
+
 			"image_drawcolor"	"235 226 202 255"
 			"image_disabledcolor" "0 0 0 255"
 
@@ -429,7 +429,7 @@
 				"tall"			"13"
 				"scaleImage"	"1"
 				"image"			"glyph_workshop_view"
-			}		
+			}
 		}
 
 		"Icon"
@@ -441,7 +441,7 @@
 			"zpos"			"1"
 			"wide"			"190"
 			"tall"			"122"
-		}	
+		}
 
 		"IconLabel"
 		{
@@ -465,7 +465,7 @@
 			"font"		"HudFontSmallestBold"
 		}
 	}
-	
+
 	"ClassModelsPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -758,7 +758,7 @@
 			"labelText"		""
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"18"
 			"wide"			"150"
 			"tall"			"20"
@@ -780,7 +780,7 @@
 			"labelText"		""
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"38"
 			"wide"			"150"
 			"tall"			"20"
@@ -802,7 +802,7 @@
 			"labelText"		""
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"58"
 			"wide"			"150"
 			"tall"			"20"
@@ -824,7 +824,7 @@
 			"labelText"		""
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"78"
 			"wide"			"150"
 			"tall"			"20"
@@ -846,7 +846,7 @@
 			"labelText"		""
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"98"
 			"wide"			"150"
 			"tall"			"20"
@@ -868,7 +868,7 @@
 			"labelText"		""
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"118"
 			"wide"			"150"
 			"tall"			"20"
@@ -890,7 +890,7 @@
 			"labelText"		""
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"138"
 			"wide"			"150"
 			"tall"			"20"
@@ -912,7 +912,7 @@
 			"labelText"		""
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"158"
 			"wide"			"150"
 			"tall"			"20"
@@ -934,7 +934,7 @@
 			"labelText"		""
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"178"
 			"wide"			"150"
 			"tall"			"20"
@@ -949,7 +949,7 @@
 			"border"		"SteamWorkshopBorder"
 		}
 	}
-	
+
 	"LODsPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -960,7 +960,7 @@
 		"tall"			"270"
 		"visible"		"1"
 		"paintbackground" "0"
-	
+
 		"LOD0Panel"
 		{
 			"ControlName"	"EditablePanel"
@@ -972,7 +972,6 @@
 			"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
-
 
 			"LOD0Label"
 			{
@@ -1002,10 +1001,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-				
+
 				"labelText"		""
-				"command"		"ClearLOD0"				
-				
+				"command"		"ClearLOD0"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1020,7 +1019,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_close_X"
-				}		
+				}
 			}
 			"ButtonLOD0Browse"
 			{
@@ -1036,10 +1035,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-				
+
 				"labelText"		""
-				"command"		"BrowseLOD0"				
-				
+				"command"		"BrowseLOD0"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1054,7 +1053,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_view"
-				}		
+				}
 			}
 			"LOD0File"
 			{
@@ -1083,7 +1082,7 @@
 				"font"		"HudFontSmallest"
 			}
 		}
-	
+
 		"LOD1Panel"
 		{
 			"ControlName"	"EditablePanel"
@@ -1126,10 +1125,10 @@
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
 				"enabled"		"0"
-				
+
 				"labelText"		""
-				"command"		"ClearLOD1"				
-				
+				"command"		"ClearLOD1"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1144,7 +1143,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_close_X"
-				}		
+				}
 			}
 			"ButtonLOD1Browse"
 			{
@@ -1161,10 +1160,10 @@
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
 				"enabled"		"0"
-				
+
 				"labelText"		""
-				"command"		"BrowseLOD1"				
-				
+				"command"		"BrowseLOD1"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1179,7 +1178,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_view"
-				}		
+				}
 			}
 			"LOD1File"
 			{
@@ -1210,7 +1209,7 @@
 				"enabled"		"0"
 			}
 		}
-	
+
 		"LOD2Panel"
 		{
 			"ControlName"	"EditablePanel"
@@ -1253,10 +1252,10 @@
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
 				"enabled"		"0"
-				
+
 				"labelText"		""
-				"command"		"ClearLOD2"				
-				
+				"command"		"ClearLOD2"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1271,7 +1270,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_close_X"
-				}		
+				}
 			}
 			"ButtonLOD2Browse"
 			{
@@ -1288,10 +1287,10 @@
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
 				"enabled"		"0"
-				
+
 				"labelText"		""
-				"command"		"BrowseLOD2"				
-				
+				"command"		"BrowseLOD2"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1306,7 +1305,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_view"
-				}		
+				}
 			}
 			"LOD2File"
 			{
@@ -1374,7 +1373,7 @@
 		"visible"		"1"
 		"paintbackground" "0"
 		"border"				"SteamWorkshopBorder"
-		
+
 		"SkinsTitle"
 		{
 			"ControlName"		"Label"
@@ -1433,7 +1432,7 @@
 			"editable"			"0"
 			"visible"			"1"
 		}
-	
+
 		"Material0Panel"
 		{
 			"ControlName"	"EditablePanel"
@@ -1472,10 +1471,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-					
+
 				"labelText"		""
-				"command"		"EditMaterial0"				
-					
+				"command"		"EditMaterial0"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1490,7 +1489,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_edit"
-				}		
+				}
 			}
 			"Material0File"
 			{
@@ -1506,7 +1505,7 @@
 				"font"		"HudFontSmallest"
 			}
 		}
-		
+
 		"Material1Panel"
 		{
 			"ControlName"	"EditablePanel"
@@ -1545,10 +1544,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-					
+
 				"labelText"		""
-				"command"		"EditMaterial1"				
-					
+				"command"		"EditMaterial1"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1563,7 +1562,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_edit"
-				}		
+				}
 			}
 			"Material1File"
 			{
@@ -1619,10 +1618,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-					
+
 				"labelText"		""
-				"command"		"EditMaterial2"				
-					
+				"command"		"EditMaterial2"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1637,7 +1636,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_edit"
-				}		
+				}
 			}
 			"Material2File"
 			{
@@ -1692,10 +1691,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-					
+
 				"labelText"		""
-				"command"		"EditMaterial3"				
-					
+				"command"		"EditMaterial3"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1710,7 +1709,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_edit"
-				}		
+				}
 			}
 			"Material3File"
 			{
@@ -1734,7 +1733,7 @@
 			"labelText"		"#TF_ImportFile_Paintable0"
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"4" 
+			"xpos"			"4"
 			"ypos"			"190"
 			"wide"			"100"
 			"tall"			"20"
@@ -1745,7 +1744,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
-			"command"		"UpdatePaintable0"	
+			"command"		"UpdatePaintable0"
 			"border"				"SteamWorkshopBorder"
 		}
 
@@ -1756,7 +1755,7 @@
 			"labelText"		"#TF_ImportFile_Paintable1"
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"100" 
+			"xpos"			"100"
 			"ypos"			"190"
 			"wide"			"100"
 			"tall"			"20"
@@ -1767,7 +1766,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
-			"command"		"UpdatePaintable1"	
+			"command"		"UpdatePaintable1"
 			"border"				"SteamWorkshopBorder"
 		}
 	}
@@ -1811,7 +1810,6 @@
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
-
 			"AnimationSourceLabel"
 			{
 				"ControlName"		"Label"
@@ -1840,10 +1838,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-				
+
 				"labelText"		""
-				"command"		"ClearAnimationSource"				
-				
+				"command"		"ClearAnimationSource"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1858,7 +1856,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_close_X"
-				}		
+				}
 			}
 			"ButtonAnimationSourceBrowse"
 			{
@@ -1874,10 +1872,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-				
+
 				"labelText"		""
-				"command"		"BrowseAnimationSource"				
-				
+				"command"		"BrowseAnimationSource"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1892,7 +1890,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_view"
-				}		
+				}
 			}
 			"AnimationSourceFile"
 			{
@@ -1934,7 +1932,6 @@
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
-
 			"AnimationVCDLabel"
 			{
 				"ControlName"		"Label"
@@ -1963,10 +1960,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-				
+
 				"labelText"		""
-				"command"		"ClearAnimationVCD"				
-				
+				"command"		"ClearAnimationVCD"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -1981,7 +1978,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_close_X"
-				}		
+				}
 			}
 			"ButtonAnimationVCDBrowse"
 			{
@@ -1997,10 +1994,10 @@
 				"use_proportional_insets" "1"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"west"
-				
+
 				"labelText"		""
-				"command"		"BrowseAnimationVCD"				
-				
+				"command"		"BrowseAnimationVCD"
+
 				"image_drawcolor"	"235 226 202 255"
 				"image_disabledcolor" "0 0 0 255"
 
@@ -2015,7 +2012,7 @@
 					"tall"			"13"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_view"
-				}		
+				}
 			}
 			"AnimationVCDFile"
 			{
@@ -2053,7 +2050,7 @@
 			"labelText"		"Loop"
 			"Font"			"HudFontSmallest"
 			"textAlignment"	"west"
-			"xpos"			"0" 
+			"xpos"			"0"
 			"ypos"			"140"
 			"wide"			"80"
 			"tall"			"20"
@@ -2146,10 +2143,10 @@
 		"use_proportional_insets" "1"
 		"font"			"HudFontSmallestBold"
 		"textAlignment"	"west"
-				
+
 		"labelText"		"#TF_ImportFile_Browse"
-		"command"		"Load"				
-				
+		"command"		"Load"
+
 		"image_drawcolor"	"235 226 202 255"
 		"image_disabledcolor" "0 0 0 255"
 
@@ -2164,7 +2161,7 @@
 			"tall"			"13"
 			"scaleImage"	"1"
 			"image"			"glyph_workshop_view"
-		}		
+		}
 	}
 
 	"ButtonClose"
@@ -2276,7 +2273,7 @@
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
-		
+
 		"xpos"			"c-290"
 		"ypos"			"c-182"
 		"zpos"			"1"
@@ -2286,15 +2283,15 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		
+
 		"render_texture"	"0"
 		"fov"			"40"
 		"allow_manip"	"1"
 
-		"paintbackground" "1"		
+		"paintbackground" "1"
 		"paintbackgroundenabled" "1"
 		"bgcolor_override" "255 255 255 0"
-		
+
 		"model"
 		{
 			"force_pos"	"1"
@@ -2309,7 +2306,7 @@
 			"frame_origin_y"	"0"
 			"frame_origin_z"	"0"
 			"spotlight" "1"
-		
+
 			"modelname"		""
 		}
 	}

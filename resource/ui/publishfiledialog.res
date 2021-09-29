@@ -65,7 +65,7 @@
 		"bgcolor_override"	"0 0 0 255"
 	}
 
-	"Title"	
+	"Title"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"Title"
@@ -86,7 +86,7 @@
 		"font"		"HudFontMediumBold"
 	}
 
-	"LabelPreview"	
+	"LabelPreview"
 	{
 		"ControlName"		"Label"
 		"fieldName"		"LabelPreview"
@@ -223,7 +223,7 @@
 		"paintbackgroundtype" "2"
 		"font"		"HudFontSmall"
 	}
-		
+
 	"LabelDesc"
 	{
 		"ControlName"		"Label"
@@ -288,7 +288,7 @@
 		"wrap"		"0"
 		"font"		"HudFontSmallBold"
 	}
-	
+
 	"SourceFile"
 	{
 		"ControlName"		"Label"
@@ -344,7 +344,7 @@
 			"tall"			"25"
 			"scaleImage"	"1"
 			"image"			"importtool_goldstar"
-		}	
+		}
 	}
 
 	"ButtonSourceOther"
@@ -639,7 +639,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
-		}	
+		}
 
 		"TagCheckbox_Headgear"
 		{
@@ -760,7 +760,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
-		}		
+		}
 		"TagCheckbox_Taunt"
 		{
 			"ControlName"	"CheckButton"
@@ -820,7 +820,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
-		}		
+		}
 		"TagCheckbox_Jungle"
 		{
 			"ControlName"	"CheckButton"
