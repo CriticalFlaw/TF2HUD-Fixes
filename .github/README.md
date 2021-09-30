@@ -13,11 +13,13 @@
 
 ### HUD changes submitted to Valve...
 - Added missing font definition to **resources/clientscheme.res**.
-- Fixed console errors related to missing files.
+- Added back the passive attributes label shown on the Loadout screen.
+- Fixed console errors related to missing files **menu_thumb_missing** and **huditemeffectmeter_action**.
 - Fixed disguise panel overlapping with spells panel and Mann vs. Machine cash counter in minmode.
 - Fixed the Backpack label not displaying properly when applying a tool to an item.
 - Fixed the Demoman's sticky charge meter missing a label and not being aligned with other meters in minmode.
 - Fixed the Diamondback counter overlapping the Spy's cloak meter in minmode.
+- Fixed the Engineer's destruction menu not being vertically aligned with the build menu.
 - Fixed the Mann vs. Machine wave number label not appearing in minmode.
 - Fixed the Promotional Codes button overlapping with the MOTD panel on the main menu.
 - Fixed the Scout and Soldier labels not changing color when hovered over on the class selection screen.
@@ -34,12 +36,10 @@
 
 ### Other quality of life changes...
 - Added a stylized icon for the Taunt button on the Loadout screen.
-- Added back the passive attributes label shown on the Loadout screen.
 - Added the ability to manipulate the player model on the Loadout screen.
 - Added player avatars to the in-game voice chat indicator.
 - Added support for Hypnootize's crosshair pack (also enabled in **scripts/hudlayout.res**).
 - Added support for Transparent Viewmodels (enabled in **scripts/hudlayout.res**).
 - Updated the damage numbers to use a larger sized font.
 - Updated the color of the in-game chat to better match the source scheme.
-- Updated the vertical alignment of Engineer's destruction menu.
 - Removed the background panel seen when the match HUD is enabled.
