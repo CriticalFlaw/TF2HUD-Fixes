@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/cY2bhRp.png)
+![image](https://user-images.githubusercontent.com/6818236/135372003-c609a9af-6765-4a3d-9964-d6875868c4f3.png)
 <p align="center">
   <p align="center">
     A collection of bug fixes, visual tweaks and quality of life improvements to the default Team Fortress 2 HUD.
