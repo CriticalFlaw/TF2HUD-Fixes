@@ -27,7 +27,7 @@
 		"tall"			"2"
 		"fillcolor"		"255 222 208 255"
 	}
-
+	
 	"BuildIcon"
 	{
 		"ControlName"	"CIconPanel"
@@ -43,7 +43,7 @@
 		"icon"			"ico_build"
 		"iconColor"		"255 255 255 255"
 	}
-
+	
 	"BuildIconShadow"
 	{
 		"ControlName"	"CIconPanel"
@@ -59,7 +59,7 @@
 		"icon"			"ico_build"
 		"iconColor"		"0 0 0 255"
 	}
-
+	
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -79,7 +79,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
-
+	
 	"TitleLabelDropshadow"
 	{
 		"ControlName"	"CExLabel"
@@ -100,7 +100,7 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
-
+	
 	"CancelLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -120,7 +120,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
-
+	
 	"active_item_1"
 	{
 		"ControlName"	"EditablePanel"
@@ -132,7 +132,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"active_item_2"
 	{
 		"ControlName"	"EditablePanel"
@@ -144,7 +144,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"active_item_3"
 	{
 		"ControlName"	"EditablePanel"
@@ -156,7 +156,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"active_item_4"
 	{
 		"ControlName"	"EditablePanel"
@@ -168,7 +168,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"already_built_item_1"
 	{
 		"ControlName"	"EditablePanel"
@@ -180,7 +180,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"already_built_item_2"
 	{
 		"ControlName"	"EditablePanel"
@@ -192,7 +192,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"already_built_item_3"
 	{
 		"ControlName"	"EditablePanel"
@@ -204,7 +204,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"already_built_item_4"
 	{
 		"ControlName"	"EditablePanel"
@@ -216,7 +216,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"cant_afford_item_1"
 	{
 		"ControlName"	"EditablePanel"
@@ -228,7 +228,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"cant_afford_item_2"
 	{
 		"ControlName"	"EditablePanel"
@@ -240,7 +240,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"cant_afford_item_3"
 	{
 		"ControlName"	"EditablePanel"
@@ -252,7 +252,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"cant_afford_item_4"
 	{
 		"ControlName"	"EditablePanel"
@@ -276,7 +276,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"unavailable_item_2"
 	{
 		"ControlName"	"EditablePanel"
@@ -288,7 +288,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"unavailable_item_3"
 	{
 		"ControlName"	"EditablePanel"
@@ -300,7 +300,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"unavailable_item_4"
 	{
 		"ControlName"	"EditablePanel"

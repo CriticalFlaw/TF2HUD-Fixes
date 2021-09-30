@@ -27,7 +27,7 @@
 		"tall"			"2"
 		"fillcolor"		"255 222 208 255"
 	}
-
+	
 	"DestroyIcon"
 	{
 		"ControlName"	"CIconPanel"
@@ -43,7 +43,7 @@
 		"icon"			"ico_demolish"
 		"iconColor"		"255 255 255 255"
 	}
-
+	
 	"TitleLabelDropshadow"
 	{
 		"ControlName"	"CExLabel"
@@ -64,7 +64,7 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
-
+	
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -84,7 +84,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
-
+	
 	"CancelLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -104,7 +104,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
-
+	
 	"active_item_1"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -116,7 +116,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"active_item_2"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -128,7 +128,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"active_item_3"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -140,7 +140,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"active_item_4"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -152,7 +152,7 @@
 		"tall"			"124"
 		"visible"		"0"
 	}
-
+	
 	"inactive_item_1"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -164,7 +164,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"inactive_item_2"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -176,7 +176,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"inactive_item_3"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -188,7 +188,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"inactive_item_4"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -212,7 +212,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"unavailable_item_2"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -224,7 +224,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"unavailable_item_3"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"
@@ -236,7 +236,7 @@
 		"tall"			"124"
 		"visible"		"1"
 	}
-
+	
 	"unavailable_item_4"
 	{
 		"ControlName"	"CEngyDestroyMenuItem"

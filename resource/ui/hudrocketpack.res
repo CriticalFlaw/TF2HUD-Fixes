@@ -52,7 +52,7 @@
 		"visible_minmode""1"
 		"enabled"		"1"
 		"image"			"../hud/pyro_jetpack_off2"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 	}
 
 	"ItemEffectMeterLabel"
@@ -80,7 +80,7 @@
 	}
 
 	"ItemEffectMeter"
-	{
+	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
@@ -91,7 +91,7 @@
 		"zpos"			"2"
 		"wide"			"25"
 		"wide_minmode"	"22"
-		"tall"			"8"
+		"tall"			"8"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -103,7 +103,7 @@
 	}
 
 	"ItemEffectMeter2"
-	{
+	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter2"
 		"font"			"Default"
@@ -113,7 +113,7 @@
 		"ypos_minmode"	"40"
 		"zpos"			"2"
 		"wide"			"25"
-		"tall"			"8"
+		"tall"			"8"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

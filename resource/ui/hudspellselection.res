@@ -1,10 +1,10 @@
 "Resource/UI/HudSpellSelection.res"
-{
+{		
 	HudSpellMenu
 	{
 		"xpos"			"150"
 	}
-
+			
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -19,13 +19,13 @@
 		"enabled"		"1"
 		"visible_minmode"	"0"
 		"image"			"../hud/ammo_blue_bg"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"teambg_2"		"../hud/ammo_red_bg"
 		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
 		"teambg_3"		"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"
+		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"				
 	}
-
+	
 	"Spellbook"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -39,9 +39,9 @@
 		"visible_minmode"	"0"
 		"enabled"		"1"
 		"image"			"spellbook_book"
-		"scaleImage"	"1"
+		"scaleImage"	"1"		
 	}
-
+	
 	"SpellIcon"
 	{
 		"ControlName"	"ImagePanel"
@@ -55,11 +55,11 @@
 		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../signs/death_wheel_whammy"
 		"fgcolor"		"TanDark"
 	}
-
+	
 	"ActionText"
 	{
 		"ControlName"	"CExLabel"
@@ -74,7 +74,7 @@
 		"fgcolor"		"tanlight"
 		"visible"		"1"
 	}
-
+	
 	"SpellText"
 	{
 		"ControlName"	"CExLabel"
@@ -89,7 +89,7 @@
 		"fgcolor"		"tanlight"
 		"visible"		"0"
 	}
-
+	
 	"CountTextShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -105,7 +105,7 @@
 		"tall"			"20"
 		"fgcolor"		"0 0 0 255"
 	}
-
+	
 	"CountText"
 	{
 		"ControlName"	"CExLabel"
