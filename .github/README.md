@@ -14,6 +14,7 @@
 ### HUD changes submitted to Valve...
 - Added missing font definition to **resources/clientscheme.res**.
 - Added back the passive attributes label shown on the Loadout screen.
+- Adjusted the placement of elements in tournament spectator mode.
 - Fixed console errors related to missing files **menu_thumb_missing** and **huditemeffectmeter_action**.
 - Fixed disguise panel overlapping with spells panel and Mann vs. Machine cash counter in minmode.
 - Fixed the Backpack label not displaying properly when applying a tool to an item.
