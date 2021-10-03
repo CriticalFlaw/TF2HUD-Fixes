@@ -43,4 +43,5 @@
 - Added support for Transparent Viewmodels (enabled in **scripts/hudlayout.res**).
 - Updated the damage numbers to use a larger sized font.
 - Updated the color of the in-game chat to better match the source scheme.
+- Updated item icons to use higher quality images.
 - Removed the background panel seen when the match HUD is enabled.
