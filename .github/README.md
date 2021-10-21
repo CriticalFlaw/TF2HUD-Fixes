@@ -12,10 +12,9 @@
 </p>
 
 ### HUD changes submitted to Valve...
-- Added missing font definition to **resources/clientscheme.res**.
+- Added missing file **huditemeffectmeter_action** and font definition to **resources/clientscheme.res**.
 - Added back the passive attributes label shown on the Loadout screen.
 - Adjusted the placement of elements in tournament spectator mode.
-- Fixed console errors related to missing files **menu_thumb_missing** and **huditemeffectmeter_action**.
 - Fixed disguise panel overlapping with spells panel and Mann vs. Machine cash counter in minmode.
 - Fixed the Backpack label not displaying properly when applying a tool to an item.
 - Fixed the Demoman's sticky charge meter missing a label and not being aligned with other meters in minmode.
