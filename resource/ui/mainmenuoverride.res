@@ -1707,13 +1707,108 @@
 				{
 					"0"
 					{
-						"item"		"Summer 2021 Cosmetic Key" 
+						"item"		"Halloween 2021 Key" 
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Summer 2021 Cosmetic Case"
+						"item"		"Halloween 2021 Case"
 						"show_market"	"1"
+					}
+					"2"
+					{
+						"item"		"Scream Fortress 2021 War Paint Key"
+						"show_market"	"0"
+					}
+					"3"
+					{
+						"item"		"Scream Fortress 2021 War Paint Case"
+						"show_market"	"1"
+					}
+					"4"
+					{
+						"item"		"Taunt: The Drunken Sailor"
+						"show_market"	"0"
+					}
+					"5"
+					{
+						"item"		"Taunt: The Profane Puppeteer"
+						"show_market"	"0"
+					}
+					"6"
+					{
+						"item"		"Taunt: The Mannbulance!"
+						"show_market"	"0"
+					}
+					"7"
+					{
+						"item"		"Taunt: Bare Knuckle Beatdown"
+						"show_market"	"0"
+					}
+					"8"
+					{
+						"item"		"Taunt: The Homerunner's Hobby"
+						"show_market"	"0"
+					}
+					"9"
+					{
+						"item"		"Map Token Farmageddon"
+						"show_market"	"0"
+					}
+					"10"
+					{
+						"item"		"Map Token Los Muertos"
+						"show_market"	"0"
+					}
+					"11"
+					{
+						"item"		"Map Token Erebus"
+						"show_market"	"0"
+					}
+					"12"
+					{
+						"item"		"Map Token Terror"
+						"show_market"	"0"
+					}
+					"13"
+					{
+						"item"		"Map Token Graveyard"
+						"show_market"	"0"
+					}
+					"14"
+					{
+						"item"		"Map Token Sinthetic"
+						"show_market"	"0"
+					}
+					"15"
+					{
+						"item"		"Strange Filter: Farmageddon (Community)"
+						"show_market"	"0"
+					}
+					"16"
+					{
+						"item"		"Strange Filter: Los Muertos (Community)"
+						"show_market"	"0"
+					}
+					"17"
+					{
+						"item"		"Strange Filter: Erebus (Community)"
+						"show_market"	"0"
+					}
+					"18"
+					{
+						"item"		"Strange Filter: Terror (Community)"
+						"show_market"	"0"
+					}
+					"20"
+					{
+						"item"		"Strange Filter: Graveyard (Community)"
+						"show_market"	"0"
+					}
+					"21"
+					{
+						"item"		"Strange Filter: Sinthetic (Community)"
+						"show_market"	"0"
 					}
 				}
 			}

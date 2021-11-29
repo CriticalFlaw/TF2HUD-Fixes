@@ -1,6 +1,6 @@
 "Resource/UI/build_menu/HudMenuEngyDestroy.res"
 {
-	"MainBackground"
+	"MainBackground"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
@@ -11,7 +11,7 @@
 		"tall"			"170"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
 	}
@@ -28,30 +28,30 @@
 		"fillcolor"		"255 222 208 255"
 	}
 	
-	"DestroyIcon"
+	"DestroyIcon"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"DestroyIcon"
 		"xpos"			"15"
-		"ypos"			"-2"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"icon"			"ico_demolish"
 		"iconColor"		"255 255 255 255"
 	}
 	
 	"TitleLabelDropshadow"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"Black"
 		"xpos"			"69"			// align me to the left edge of the first selection
-		"ypos"			"6"
+		"ypos"			"1"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
@@ -66,12 +66,12 @@
 	}
 	
 	"TitleLabel"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontGiantBold"
 		"xpos"			"68"			// align me to the left edge of the first selection
-		"ypos"			"5"
+		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"38"
@@ -86,7 +86,7 @@
 	}
 	
 	"CancelLabel"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
 		"font"			"SpectatorKeyHints"
@@ -115,7 +115,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"active_item_2"
 	{
@@ -127,7 +127,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"active_item_3"
 	{
@@ -139,7 +139,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"active_item_4"
 	{
@@ -163,7 +163,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 	
 	"inactive_item_2"
 	{
@@ -175,7 +175,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 	
 	"inactive_item_3"
 	{
@@ -187,7 +187,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 	
 	"inactive_item_4"
 	{
@@ -199,7 +199,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 
 	"unavailable_item_1"
 	{
@@ -211,7 +211,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 	
 	"unavailable_item_2"
 	{
@@ -223,7 +223,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 	
 	"unavailable_item_3"
 	{
@@ -235,7 +235,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 	
 	"unavailable_item_4"
 	{
@@ -247,5 +247,5 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 }

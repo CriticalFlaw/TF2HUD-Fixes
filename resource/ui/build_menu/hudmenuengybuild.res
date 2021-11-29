@@ -1,6 +1,6 @@
 "Resource/UI/build_menu/HudMenuEngyBuild.res"
 {
-	"MainBackground"
+	"MainBackground"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
@@ -11,7 +11,7 @@
 		"tall"			"170"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"iconColor"		"255 255 255 255"
 	}
@@ -28,45 +28,45 @@
 		"fillcolor"		"255 222 208 255"
 	}
 	
-	"BuildIcon"
+	"BuildIcon"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildIcon"
 		"xpos"			"15"
-		"ypos"			"-2"
+		"ypos"			"-5"
 		"zpos"			"1"
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"icon"			"ico_build"
 		"iconColor"		"255 255 255 255"
 	}
 	
-	"BuildIconShadow"
+	"BuildIconShadow"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildIconShadow"
 		"xpos"			"16"
-		"ypos"			"-1"
+		"ypos"			"-4"
 		"zpos"			"0"
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"icon"			"ico_build"
 		"iconColor"		"0 0 0 255"
 	}
 	
 	"TitleLabel"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontGiantBold"
 		"xpos"			"68"			// align me to the left edge of the first selection
-		"ypos"			"5"
+		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"38"
@@ -81,13 +81,13 @@
 	}
 	
 	"TitleLabelDropshadow"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"Black"
 		"xpos"			"69"			// align me to the left edge of the first selection
-		"ypos"			"6"
+		"ypos"			"1"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"
@@ -102,7 +102,7 @@
 	}
 	
 	"CancelLabel"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
 		"font"			"SpectatorKeyHints"
@@ -131,7 +131,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 	
 	"active_item_2"
 	{
@@ -143,7 +143,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 	
 	"active_item_3"
 	{
@@ -155,7 +155,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"1"
-	}
+	}	
 	
 	"active_item_4"
 	{
@@ -179,7 +179,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"already_built_item_2"
 	{
@@ -191,7 +191,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"already_built_item_3"
 	{
@@ -203,7 +203,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"already_built_item_4"
 	{
@@ -227,7 +227,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"cant_afford_item_2"
 	{
@@ -239,7 +239,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"cant_afford_item_3"
 	{
@@ -251,7 +251,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"cant_afford_item_4"
 	{
@@ -275,7 +275,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"unavailable_item_2"
 	{
@@ -287,7 +287,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"unavailable_item_3"
 	{
@@ -299,7 +299,7 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 	
 	"unavailable_item_4"
 	{
@@ -311,5 +311,5 @@
 		"wide"			"100"
 		"tall"			"124"
 		"visible"		"0"
-	}
+	}	
 }

@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/6818236/135372003-c609a9af-6765-4a3d-9964-d6875868c4f3.png)
 <p align="center">
   <p align="center">
-    A collection of bug fixes, visual tweaks and quality of life improvements to the default Team Fortress 2 HUD.
+    A collection of fixes and minor visual tweaks to the default Team Fortress 2 HUD.
     <br />
-    This mod has been submitted to the Steam Workshop for Valve's consideration à la carte.
+    This mod has been submitted to the Steam Workshop for Valve's consideration.
     <br />
     <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Steam Workshop Submission</a>
     ·
@@ -11,7 +11,7 @@
   </p>
 </p>
 
-### HUD changes submitted to Valve...
+### Changes include...
 - Added missing font definition to **resources/clientscheme.res**.
 - Added back the passive attributes label shown on the Loadout screen.
 - Adjusted the placement of elements in tournament spectator mode.
@@ -33,14 +33,5 @@
 - Fixed the tooltips getting cutoff by the footer on the Item Selection screen.
 - Removed an [unknown] label seen while viewing another player's items in tournament spectator mode.
 - Removed unused labels for "style" and "paint" seen when previewing an map stamp in the store.
-- Updated the Replay screen's header and footer to match other main menu screens.
-
-### Other quality of life changes...
-- Added a stylized icon for the Taunt button on the Loadout screen.
-- Added the ability to manipulate the player model on the Loadout screen.
-- Added player avatars to the in-game voice chat indicator.
-- Added support for Hypnootize's crosshair pack (also enabled in **scripts/hudlayout.res**).
-- Added support for Transparent Viewmodels (enabled in **scripts/hudlayout.res**).
-- Updated the damage numbers to use a larger sized font.
-- Updated the color of the in-game chat to better match the source scheme.
+- Updated the Replay screen's header and footer to match other main menu screens..
 - Removed the background panel seen when the match HUD is enabled.

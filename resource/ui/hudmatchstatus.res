@@ -220,6 +220,11 @@
 
 		"proportionaltoaparent"	"1"
 		"border"			"TFFatLineBorder"
+
+		if_match
+		{
+			"visible"		"0"
+		}
 	}
 
 	"RankUpLabel"
