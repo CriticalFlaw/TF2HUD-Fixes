@@ -68,7 +68,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"HudFontGiantBold"
-		"xpos"			"31"			// align me to the left edge of the first selection
+		"xpos"			"68"			// align me to the left edge of the first selection
 		"ypos"			"8"
 		"zpos"			"2"
 		"wide"			"300"

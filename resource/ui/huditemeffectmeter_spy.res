@@ -7,7 +7,7 @@
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
 		"ypos"			"r92"	[$WIN32]
-		"xpos_minmode"	"r115"	[$WIN32]
+		"xpos_minmode"	"r120"	[$WIN32]
 		"ypos_minmode"	"r80"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
@@ -44,7 +44,7 @@
 		"xpos"					"25"
 		"ypos"					"27"
 		"zpos"					"2"
-		"wide"					"41"
+		"wide"					"44"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
@@ -87,7 +87,7 @@
 		"xpos"					"25"
 		"ypos"					"10"
 		"zpos"					"2"
-		"wide"					"40"
+		"wide"					"44"
 		"tall"					"20"
 		"pinCorner"				"2"
 		"visible"				"1"

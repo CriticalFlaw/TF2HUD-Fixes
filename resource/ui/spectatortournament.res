@@ -11,11 +11,11 @@
 		"enabled"		"1"
 
 		"team1_player_base_offset_x"		"-88"
-		"team1_player_base_y"				"1"
+		"team1_player_base_y"				"0"
 		"team1_player_delta_x"				"-49"
 		"team1_player_delta_y"				"0"
 		"team2_player_base_offset_x"		"40"
-		"team2_player_base_y"				"1"
+		"team2_player_base_y"				"0"
 		"team2_player_delta_x"				"49"
 		"team2_player_delta_y"				"0"
 
@@ -172,7 +172,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
 				"font"			"DefaultSmall"
-				"xpos"			"10"
+				"xpos"			"8"
 				"ypos"			"8"
 				"zpos"			"5"
 				"wide"			"23"
@@ -249,7 +249,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"TopBar"
 		"visible"		"0"
-		"tall"			"35"
+		"tall"			"33"
 	}
 	"BottomBar"
 	{

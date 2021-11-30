@@ -287,9 +287,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"10"	[$WIN32]
-		"ypos"		"r75"	[$WIN32]
-		"xpos_minmode"	"10"	[$WIN32]
-		"ypos_minmode"	"r70"	[$WIN32]
+		"ypos"		"r70"	[$WIN32]
 		"xpos"		"50"	[$X360]
 		"ypos"		"330"	[$X360]
 		"zpos"		"3"
@@ -1047,7 +1045,7 @@
 		"xpos"			"c-225"
 		"ypos"			"c-55"
 		"wide"			"450"
-		"tall"			"195"
+		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -1084,9 +1082,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r110"	[$WIN32]
+		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		"ypos_minmode"	"r56"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"
