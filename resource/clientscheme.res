@@ -475,25 +475,25 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"12"
+				"name"		"TF2 Secondary"
+				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
-				"tall"		"13"	[$WIN32]
-				"tall"		"20"	[$X360]
+				"name"		"TF2 Secondary"
+				"tall"		"22"	[$WIN32]
+				"tall"		"22"	[$X360]
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
-				"tall"		"14"
+				"name"		"TF2 Secondary"
+				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -501,8 +501,8 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
-				"tall"		"20"
+				"name"		"TF2 Secondary"
+				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
@@ -510,8 +510,8 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
-				"tall"		"24"
+				"name"		"TF2 Secondary"
+				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
@@ -519,15 +519,15 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
-				"tall"		"12"
+				"name"		"TF2 Secondary"
+				"tall"		"22"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"Arial"
-				"tall"		"12"
+				"name"		"TF2 Secondary"
+				"tall"		"22"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
 			}
@@ -537,16 +537,16 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
-				"tall"		"12"
+				"name"		"TF2 Secondary"
+				"tall"		"22"
 				"weight"	"500"
 				"underline" "1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"2"
 			{
-				"name"		"Arial"
-				"tall"		"11"
+				"name"		"TF2 Secondary"
+				"tall"		"22"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
 			}
@@ -555,24 +555,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"12"
+				"name"		"TF2 Build"
+				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
-				"tall"		"13"
+				"name"		"TF2 Build"
+				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
-				"tall"		"14"
+				"name"		"TF2 Build"
+				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
@@ -580,7 +580,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"TF2 Build"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -589,8 +589,8 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
-				"tall"		"22"
+				"name"		"TF2 Build"
+				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1200 6000"
@@ -598,8 +598,8 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Arial"
-				"tall"		"12"
+				"name"		"TF2 Build"
+				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
 			}
@@ -609,24 +609,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"12"
+				"name"		"TF2 Secondary"
+				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
-				"tall"		"12"
+				"name"		"TF2 Secondary"
+				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
-				"tall"		"12"
+				"name"		"TF2 Secondary"
+				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -634,7 +634,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -643,8 +643,8 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
-				"tall"		"16"
+				"name"		"TF2 Secondary"
+				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
@@ -655,24 +655,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"18"
+				"name"		"TF2 Secondary"
+				"tall"		"26"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
-				"tall"		"21"
+				"name"		"TF2 Secondary"
+				"tall"		"26"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
-				"tall"		"22"
+				"name"		"TF2 Secondary"
+				"tall"		"26"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
@@ -680,8 +680,8 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
-				"tall"		"28"
+				"name"		"TF2 Secondary"
+				"tall"		"26"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
@@ -689,8 +689,8 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
-				"tall"		"30"
+				"name"		"TF2 Secondary"
+				"tall"		"26"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
@@ -698,15 +698,15 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
-				"tall"		"20"
+				"name"		"TF2 Secondary"
+				"tall"		"26"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"Arial"
-				"tall"		"20"
+				"name"		"TF2 Secondary"
+				"tall"		"26"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
 			}
@@ -716,8 +716,8 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Trebuchet MS" [!$OSX]
-				"name"		"Helvetica" [$OSX]
+				"name"		"TF2 Secondary" [!$OSX]
+				"name"		"TF2 Secondary" [$OSX]
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"
@@ -729,8 +729,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"6"
+				"name"		"TF2 Secondary"
+				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -740,37 +740,37 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"12"
+				"name"		"TF2 Secondary"
+				"tall"		"18"
 				"weight"	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
-				"tall"		"13"	[$WIN32]
-				"tall"		"23"	[$X360]
+				"name"		"TF2 Secondary"
+				"tall"		"18"	[$WIN32]
+				"tall"		"18"	[$X360]
 				"weight"	"700"
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
-				"tall"		"14"
+				"name"		"TF2 Secondary"
+				"tall"		"18"
 				"weight"	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
-				"name"		"Verdana"
-				"tall"		"20"
+				"name"		"TF2 Secondary"
+				"tall"		"18"
 				"weight"	"700"
 				"yres"	"1024 1199"
 			}
 			"5"
 			{
-				"name"		"Verdana"
-				"tall"		"24"
+				"name"		"TF2 Secondary"
+				"tall"		"18"
 				"weight"	"700"
 				"yres"	"1200 10000"
 			}
@@ -1264,7 +1264,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"TF2 Secondary"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1639,8 +1639,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"6"
+				"name"		"TF2 Secondary"
+				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1650,10 +1650,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"8"
+				"name"		"TF2 Secondary"
+				"tall"		"10"
 				"tall_hidef"	"10"
-				"tall_lodef"	"14"
+				"tall_lodef"	"10"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1666,7 +1666,7 @@ Scheme
 				"name"		"TF2 Secondary"
 				"tall"		"10"
 				"tall_hidef"	"12"
-				"tall_lodef"	"14"
+				"tall_lodef"	"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1702,8 +1702,8 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"20"
-				"tall_hidef"	"24"
-				"tall_lodef"	"24"
+				"tall_hidef"	"20"
+				"tall_lodef"	"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1850,7 +1850,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
-				"tall"		"14"
+				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2078,12 +2078,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"8"
-				"tall_hidef"	"10"
-				"tall_lodef"	"12"
+				"name"		"TF2 Build"
+				"tall"		"9"
+				"tall_hidef"	"9"
+				"tall_lodef"	"9"
 				"weight"	"0"
 				"additive"	"1"
+				"TextColor"	"ProgressOffWhite"
 				"antialias" 	"1"
 			}
 		}
@@ -2091,8 +2092,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"9"
+				"name"		"TF2 Secondary"
+				"tall"		"14"
 				"tall_hidef"	"10"
 				"tall_lodef"	"16"
 				"weight"	"400"
@@ -2105,9 +2106,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"11"  [!$OSX]
-				"tall"		"9"  [$OSX]
+				"name"		"TF2 Secondary"
+				"tall"		"12"  [!$OSX]
+				"tall"		"12"  [$OSX]
 				"weight"	"800"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2247,8 +2248,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
-				"tall"		"14"
+				"name"		"TF2 Secondary"
+				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"
 			}
@@ -2257,8 +2258,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"10"
+				"name"		"TF2 Secondary"
+				"tall"		"14"
 				"weight"	"600"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2268,8 +2269,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"10"
+				"name"		"TF2 Secondary"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2279,8 +2280,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"7"
+				"name"		"TF2 Secondary"
+				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2367,7 +2368,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
-				"tall"		"7"
+				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2377,8 +2378,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"8"
+				"name"		"TF2 Secondary"
+				"tall"		"9"
 				"antialias" "1"
 				"weight"	"500"
 			}
@@ -2388,7 +2389,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
-				"tall"		"8"
+				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2444,8 +2445,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"7"
+				"name"		"TF2 Secondary"
+				"tall"		"9"
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2455,8 +2456,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"7"
+				"name"		"TF2 Secondary"
+				"tall"		"8"
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2466,8 +2467,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"7"
+				"name"		"TF2 Secondary"
+				"tall"		"12"
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -2476,8 +2477,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"7"
+				"name"		"TF2 Secondary"
+				"tall"		"12"
 				"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
@@ -2488,8 +2489,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"7"
+				"name"		"TF2 Secondary"
+				"tall"		"10"
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -2724,8 +2725,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"8"
+				"name"		"TF2 Secondary"
+				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2735,8 +2736,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"8"
+				"name"		"TF2 Secondary"
+				"tall"		"10"
 				"weight"	"0"
 				"antialias" 	"1"
 			}
@@ -2746,8 +2747,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"8"
+				"name"		"TF2 Secondary"
+				"tall"		"10"
 				"weight"	"400"
 				"antialias" "1"
 				"additive"	"0"
@@ -2758,8 +2759,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
-				"tall"		"9"
+				"name"		"TF2 Secondary"
+				"tall"		"10"
 				"weight"	"400"
 				"antialias" "1"
 				"additive"	"0"
