@@ -10,14 +10,14 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 
-		"team1_player_base_offset_x"		"-88"
-		"team1_player_base_y"				"0"
-		"team1_player_delta_x"				"-49"
-		"team1_player_delta_y"				"0"
-		"team2_player_base_offset_x"		"40"
-		"team2_player_base_y"				"0"
-		"team2_player_delta_x"				"49"
-		"team2_player_delta_y"				"0"
+		"team1_player_base_offset_x"	"0"
+		"team1_player_base_y"			"35"
+		"team1_player_delta_x"			"0"
+		"team1_player_delta_y"			"33"
+		"team2_player_base_offset_x"	"-378"
+		"team2_player_base_y"			"35"
+		"team2_player_delta_x"			"0"
+		"team2_player_delta_y"			"33"
 
 		"playerpanels_kv"
 		{
