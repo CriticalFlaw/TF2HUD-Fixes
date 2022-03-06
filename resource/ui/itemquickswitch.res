@@ -30,14 +30,15 @@
 			"paintborder"	"0"
 			"text_forcesize" "2"
 			
-			"model_xpos"	"25"
+			"model_xpos"	"0"
 			"model_ypos"	"3"
 			"model_wide"	"58"		
 			"model_tall"	"34"
 			
 			"text_center"	"1"
 			"text_xpos"		"60"
-			"text_wide"		"190"
+			"text_ypos"		"15"
+			"text_wide"		"160"
 			"name_only"		"1"
 			
 			"noitem_textcolor"		"117 107 94 255"
