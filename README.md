@@ -34,7 +34,6 @@
 - Fixed the tooltips getting cutoff by the footer on the Item Selection screen.
 - Removed an [unknown] label seen while viewing another player's items in tournament spectator mode.
 - Removed the background panel seen when the match HUD is enabled.
-- Removed the background panel seen when the match HUD is enabled.
 - Removed unused labels for "style" and "paint" seen when previewing an map stamp in the store.
 - Updated item icons to use higher quality images.
 - Updated the Replay screen's header and footer to match other main menu screens.
