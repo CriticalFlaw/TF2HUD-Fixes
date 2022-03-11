@@ -10,13 +10,13 @@
 ### Changes include...
 - Added a stylized icon for the Taunt button on the Loadout screen.
 - Added back the passive attributes label shown on the Loadout screen.
-- Added missing font definition to **resources/clientscheme.res**.
+- Added missing font definition to **resource/clientscheme.res**.
 - Added player avatars to the in-game voice chat indicator.
 - Added support for Hypnootize's crosshair pack (also enabled in **scripts/hudlayout.res**).
 - Added support for Transparent Viewmodels (enabled in **scripts/hudlayout.res**).
 - Added the ability to manipulate the player model on the Loadout screen.
 - Adjusted the placement of elements in tournament spectator mode.
-- Fixed console errors related to missing files **menu_thumb_missing** and **huditemeffectmeter_action**.
+- Fixed console errors related to missing files **menu_thumb_missing** and **huditemeffectmeter_action.res**.
 - Fixed disguise panel overlapping with spells panel and Mann vs. Machine cash counter in minmode.
 - Fixed the Backpack label not displaying properly when applying a tool to an item.
 - Fixed the Demoman's sticky charge meter missing a label and not being aligned with other meters in minmode.
