@@ -1,5 +1,11 @@
 Scheme
 {
+	Colors
+	{
+		"Crosshair"			"255 255 255 255"
+		"Hitmarker"			"255 0 0 255"
+	}
+
 	Fonts
 	{
 		"Size:10"
@@ -218,7 +224,7 @@ Scheme
 	{
 		"100"
 		{
-			"font" "resource/TF2Crosshairs.ttf"
+			"font" "extras/TF2Crosshairs.ttf"
 			"name" "TF2Crosshairs"
 		}
 	}
