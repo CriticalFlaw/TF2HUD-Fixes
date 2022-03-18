@@ -223,7 +223,7 @@
 
 		if_match
 		{
-			"visible"		"0"
+			"visible"		"1"
 		}
 	}
 
