@@ -15,14 +15,11 @@
 *This pack corrects multiple reported issues with the default TF2 HUD. These have been submitted to the Steam Workshop for Valve's consideration.*
 - Added back the passive attributes label shown on the Loadout screen.
 - Added missing font definitions to **resources/clientscheme.res**.
-- Added player avatars to the in-game voice chat indicator.
-- Adjusted the placement of elements in tournament spectator mode.
 - Fixed console error related to the missing **huditemeffectmeter_action.res** file.
 - Fixed disguise panel overlapping with spells panel and Mann vs. Machine cash counter in minmode.
 - Fixed the Backpack label not displaying properly when applying a tool to an item.
 - Fixed the Demoman's sticky charge meter missing a label and not being aligned with other meters in minmode.
 - Fixed the Diamondback counter overlapping the Spy's cloak meter in minmode.
-- Fixed the Engineer's destruction menu not being vertically aligned with the build menu.
 - Fixed the Mann vs. Machine wave number label not appearing in minmode.
 - Fixed the Promotional Codes button overlapping with the MOTD panel on the main menu.
 - Fixed the Scout and Soldier labels not changing color when hovered over on the class selection screen.
@@ -31,27 +28,32 @@
 - Fixed the item panel breaking after viewing a 3D item in the Armory.
 - Fixed the killstreak counter overlapping the Spy's disguise panel and the cash counter.
 - Fixed the paint icon being misplaced when viewing a collection cosmetic item from the Backpack.
+- Fixed the player panels in Arena Mode overlapping with the match HUD.
 - Fixed the position of medal icons on the Competitive match summary.
 - Fixed the tooltips getting cutoff by the footer on the Item Selection screen.
+- Fixed tournament panels not using localized text.
 - Removed an [unknown] label seen while viewing another player's items in tournament spectator mode.
-- Removed the background panel seen when the match HUD is enabled.
 - Removed unused labels for "style" and "paint" seen when previewing an map stamp in the store.
 - Updated the Replay screen's header and footer to match other main menu screens.
-- Updated the color of the in-game chat to better match the source scheme.
 - Updated the damage numbers to use a larger sized font.
+- Updated the placement of player panels in tournament spectator mode.
 
 ---
 
 ### Complete Pack
 *This pack includes everything from the Workshop Pack as well as community requested changes and QOL improvements.*
+- Added a larger damage number label next to the player's health.
+- Added buttons for switching team colors on the Loadout screen.
+- Added player avatars to the in-game voice chat indicator.
+- Added shortcut keys to multiple screens. Specifically Q & E for navigating multiple pages.
 - Added support for [Hypnootize's Crosshair Pack](https://github.com/Hypnootize/TF2-Hud-Crosshairs) (enabled in **scripts/hudlayout.res**).
 - Added support for transparent viewmodels (also enabled in **scripts/hudlayout.res**).
-- Added a stylized icon for the Taunt button on the Loadout screen.
 - Added the ability to manipulate the player model on the Loadout and Class Selection screens.
-- Added buttons for switching team colors on the Loadout screen.
-- Added shortcut keys to multiple screens.
-- Updated the look of the health value on the TargetID.
-- Updated use of TF2 fonts throughout the HUD for better consistency.
-- Updated item meters and counters to use #base for easier management.
+- Fixed the Engineer's destruction menu not being vertically aligned with the build menu.
+- Removed the background panel seen when the match HUD is enabled.
 - Updated item icons to use higher quality images.
-- Fixed tournament panels not using localized text.
+- Updated item meters and counters to use #base for easier management.
+- Updated the Taunts button on the Loadout screen to use a stylized icon.
+- Updated the look of the Stats page.
+- Updated the look of the health value on the TargetID.
+- Updated use of fonts and colors in some places for for better consistency.
