@@ -3,22 +3,21 @@
   <p align="center">
     A compilation of bug fixes and minor visual tweaks to the default Team Fortress 2 HUD.
     <br />
-    <b>Download</b>: <a href="https://github.com/CriticalFlaw/TF2HUD.Fixes/archive/refs/heads/community.zip">Complete Pack</a> · <a href="https://github.com/CriticalFlaw/TF2HUD.Fixes/archive/refs/heads/workshop.zip">Workshop Pack</a> (HUD Fixes Only)
+    <b>Download</b>: <a href="https://github.com/CriticalFlaw/TF2HUD.Fixes/archive/refs/heads/workshop.zip">Workshop Pack</a> (HUD Fixes Only) · <a href="https://github.com/CriticalFlaw/TF2HUD.Fixes/archive/refs/heads/community.zip">Complete Pack</a>
     <br />
     <b>Links</b>: <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Workshop Submission</a> · <a href="https://steamcommunity.com/workshop/filedetails/?id=2156577890">TF2 Community Fix-Up Pack</a>
   </p>
 </p>
 
-### Changes include...
-- Added a stylized icon for the Taunt button on the Loadout screen.
+---
+
+### Workshop Pack
+*This pack corrects multiple reported issues with the default TF2 HUD. These have been submitted to the Steam Workshop for Valve's consideration.*
 - Added back the passive attributes label shown on the Loadout screen.
-- Added missing font definition to **resources/clientscheme.res**.
+- Added missing font definitions to **resources/clientscheme.res**.
 - Added player avatars to the in-game voice chat indicator.
-- Added support for Hypnootize's crosshair pack (also enabled in **scripts/hudlayout.res**).
-- Added support for Transparent Viewmodels (enabled in **scripts/hudlayout.res**).
-- Added the ability to manipulate the player model on the Loadout screen.
 - Adjusted the placement of elements in tournament spectator mode.
-- Fixed console errors related to missing files **menu_thumb_missing** and **huditemeffectmeter_action**.
+- Fixed console error related to the missing **huditemeffectmeter_action.res** file.
 - Fixed disguise panel overlapping with spells panel and Mann vs. Machine cash counter in minmode.
 - Fixed the Backpack label not displaying properly when applying a tool to an item.
 - Fixed the Demoman's sticky charge meter missing a label and not being aligned with other meters in minmode.
@@ -37,7 +36,22 @@
 - Removed an [unknown] label seen while viewing another player's items in tournament spectator mode.
 - Removed the background panel seen when the match HUD is enabled.
 - Removed unused labels for "style" and "paint" seen when previewing an map stamp in the store.
-- Updated item icons to use higher quality images.
 - Updated the Replay screen's header and footer to match other main menu screens.
 - Updated the color of the in-game chat to better match the source scheme.
 - Updated the damage numbers to use a larger sized font.
+
+---
+
+### Complete Pack
+*This pack includes everything from the Workshop Pack as well as community requested changes and QOL improvements.*
+- Added support for [Hypnootize's Crosshair Pack](https://github.com/Hypnootize/TF2-Hud-Crosshairs) (enabled in **scripts/hudlayout.res**).
+- Added support for transparent viewmodels (also enabled in **scripts/hudlayout.res**).
+- Added a stylized icon for the Taunt button on the Loadout screen.
+- Added the ability to manipulate the player model on the Loadout and Class Selection screens.
+- Added buttons for switching team colors on the Loadout screen.
+- Added shortcut keys to multiple screens.
+- Updated the look of the health value on the TargetID.
+- Updated use of TF2 fonts throughout the HUD for better consistency.
+- Updated item meters and counters to use #base for easier management.
+- Updated item icons to use higher quality images.
+- Fixed tournament panels not using localized text.
