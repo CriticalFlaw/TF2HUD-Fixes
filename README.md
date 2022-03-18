@@ -3,7 +3,7 @@
   <p align="center">
     A collection of bug fixes, visual tweaks and quality of life improvements to the default Team Fortress 2 HUD.
     <br />
-    This mod contains base HUD fixes and community requested quality of life changes.
+    <b>Download</b>: <a href="https://github.com/CriticalFlaw/TF2HUD.Fixes/archive/refs/heads/community.zip">Complete Pack</a> (Includes QOL Changes) · <a href="https://github.com/CriticalFlaw/TF2HUD.Fixes/archive/refs/heads/workshop.zip">HUD Fixes Only</a> (Workshop Version)
   </p>
 </p>
 
