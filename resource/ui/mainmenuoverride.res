@@ -473,8 +473,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"c148"
-		"ypos"			"28"
+		"xpos"			"r50"
+		"ypos"			"30"
 		"zpos"			"10"
 		"wide"			"32"
 		"tall"			"32"
@@ -576,8 +576,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WatchStreamButton"
-		"xpos"			"c188"
-		"ypos"			"28"
+		"xpos"			"r50"
+		"ypos"			"65"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -649,8 +649,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButton"
-		"xpos"			"c228"
-		"ypos"			"28"
+		"xpos"			"r50"
+		"ypos"			"100"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -722,8 +722,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"c268"
-		"ypos"			"28"
+		"xpos"			"r50"
+		"ypos"			"135"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -1706,107 +1706,87 @@
 				{
 					"0"
 					{
-						"item"		"Halloween 2021 Key" 
+						"item"		"Winter 2021 Cosmetic Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Halloween 2021 Case"
+						"item"		"Winter 2021 Cosmetic Case"
 						"show_market"	"1"
 					}
 					"2"
 					{
-						"item"		"Scream Fortress 2021 War Paint Key"
+						"item"		"Taunt: Doctor's Defibrillators"
 						"show_market"	"0"
 					}
 					"3"
 					{
-						"item"		"Scream Fortress 2021 War Paint Case"
-						"show_market"	"1"
+						"item"		"Taunt: Shooter's Stakeout"
+						"show_market"	"0"
 					}
 					"4"
 					{
-						"item"		"Taunt: The Drunken Sailor"
+						"item"		"Taunt: The Hot Wheeler"
 						"show_market"	"0"
 					}
 					"5"
 					{
-						"item"		"Taunt: The Profane Puppeteer"
+						"item"		"Map Token Polar"
 						"show_market"	"0"
 					}
 					"6"
 					{
-						"item"		"Taunt: The Mannbulance!"
+						"item"		"Map Token Bread Space"
 						"show_market"	"0"
 					}
 					"7"
 					{
-						"item"		"Taunt: Bare Knuckle Beatdown"
+						"item"		"Map Token Chilly"
 						"show_market"	"0"
 					}
 					"8"
 					{
-						"item"		"Taunt: The Homerunner's Hobby"
+						"item"		"Map Token Cascade"
 						"show_market"	"0"
 					}
 					"9"
 					{
-						"item"		"Map Token Farmageddon"
+						"item"		"Map Token Altitude"
 						"show_market"	"0"
 					}
 					"10"
 					{
-						"item"		"Map Token Los Muertos"
+						"item"		"Map Token Doublefrost"
 						"show_market"	"0"
 					}
 					"11"
 					{
-						"item"		"Map Token Erebus"
+						"item"		"Strange Filter: Polar (Community)"
 						"show_market"	"0"
 					}
 					"12"
 					{
-						"item"		"Map Token Terror"
+						"item"		"Strange Filter: Bread Space (Community)"
 						"show_market"	"0"
 					}
 					"13"
 					{
-						"item"		"Map Token Graveyard"
+						"item"		"Strange Filter: Chilly (Community)"
 						"show_market"	"0"
 					}
 					"14"
 					{
-						"item"		"Map Token Sinthetic"
+						"item"		"Strange Filter: Cascade (Community)"
 						"show_market"	"0"
 					}
 					"15"
 					{
-						"item"		"Strange Filter: Farmageddon (Community)"
+						"item"		"Strange Filter: Altitude (Community)"
 						"show_market"	"0"
 					}
 					"16"
 					{
-						"item"		"Strange Filter: Los Muertos (Community)"
-						"show_market"	"0"
-					}
-					"17"
-					{
-						"item"		"Strange Filter: Erebus (Community)"
-						"show_market"	"0"
-					}
-					"18"
-					{
-						"item"		"Strange Filter: Terror (Community)"
-						"show_market"	"0"
-					}
-					"20"
-					{
-						"item"		"Strange Filter: Graveyard (Community)"
-						"show_market"	"0"
-					}
-					"21"
-					{
-						"item"		"Strange Filter: Sinthetic (Community)"
+						"item"		"Strange Filter: Doublefrost (Community)"
 						"show_market"	"0"
 					}
 				}
@@ -2314,7 +2294,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterSetupButton"
-		"xpos"			"c-288"
+		"xpos"			"c-295"
 		"ypos"			"rs1-18"
 		"wide"			"100"
 		"tall"			"26"

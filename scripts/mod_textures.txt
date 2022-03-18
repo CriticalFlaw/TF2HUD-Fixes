@@ -12,7 +12,7 @@
 			"prefix"		"dneg_"
 		}
 	}
-	
+
 	TextureData
 	{
 		"whiteAdditive"
@@ -29,55 +29,55 @@
 				"font"		"Icons"
 				"character"	"+"
 		}
-		
+
 		"minus_sign"
 		{
 				"font"		"Icons"
 				"character"	"-"
 		}
-		
+
 		"dollar_sign"
 		{
 				"font"		"Icons"
 				"character"	"$"
 		}
-		
+
 		"health_icon"
 		{
 				"font"		"Icons"
 				"character"	"b"
 		}
-		
+
 		"timer_icon"
 		{
 				"font"		"Icons"
 				"character"	"e"
 		}
-		
+
 		"shield_kevlar_bright"
 		{
 				"font"		"Icons"
 				"character"	"l"
 		}
-		
+
 		"shield_kevlar"
 		{
 				"font"		"Icons"
 				"character"	"l"
 		}
-		
+
 		"shield_bright"
 		{
 				"font"		"Icons"
 				"character"	"a"
 		}
-		
+
 		"shield"
 		{
 				"font"		"Icons"
 				"character"	"a"
 		}
-		
+
 		"number_0"
 		{
 				"font"		"Icons"
@@ -137,7 +137,7 @@
 				"font"		"Icons"
 				"character"	"9"
 		}
-		
+
 		"ammo_45"
 		{
 				"file"		"sprites/640hud1"
@@ -146,7 +146,7 @@
 				"width"		"26"
 				"height"	"24"
 		}
-		
+
 		"ammo_357"
 		{
 				"file"		"sprites/640hud1"
@@ -155,7 +155,7 @@
 				"width"		"24"
 				"height"	"24"
 		}
-		
+
 		"ammo_c4"
 		{
 				"file"		"sprites/640hud1"
@@ -164,7 +164,7 @@
 				"width"		"26"
 				"height"	"24"
 		}
-		
+
 		"ammo_57"
 		{
 				"file"		"sprites/640hud1"
@@ -173,7 +173,7 @@
 				"width"		"24"
 				"height"	"24"
 		}
-		
+
 		"ammo_sg"
 		{
 				"file"		"sprites/640hud1"
@@ -182,13 +182,13 @@
 				"width"		"24"
 				"height"	"24"
 		}
-		
+
 		"ammo_12g"
 		{
 				"font"		"TFTypeDeath"
 				"character"	"J"
 		}
-		
+
 		"ammo_50"
 		{
 				"file"		"sprites/640hud1"
@@ -197,7 +197,7 @@
 				"width"		"26"
 				"height"	"26"
 		}
-		
+
 		"ammo_9mm"
 		{
 				"file"		"sprites/640hud1"
@@ -206,7 +206,7 @@
 				"width"		"24"
 				"height"	"26"
 		}
-		
+
 		"ammo_762"
 		{
 				"file"		"sprites/640hud1"
@@ -215,7 +215,7 @@
 				"width"		"24"
 				"height"	"26"
 		}
-		
+
 		"ammo_556"
 		{
 				"file"		"sprites/640hud1"
@@ -224,7 +224,7 @@
 				"width"		"25"
 				"height"	"24"
 		}
-		
+
 		"ammo_338"
 		{
 				"file"		"sprites/640hud1"
@@ -233,7 +233,7 @@
 				"width"		"26"
 				"height"	"24"
 		}
-		
+
 		"item_healthkit"
 		{
 				"font"		"TFTypeDeath"
@@ -282,7 +282,7 @@
 			"width"		"32"
 			"height"	"32"
 		}
-		
+
 		"skull_tf"
 		{
 				"dfile"	"HUD/d_images"
@@ -480,7 +480,7 @@
 				"y"		"448"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"flamethrower"
 		{
 				"dfile"	"HUD/d_images"
@@ -561,7 +561,7 @@
 				"y"		"192"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"tf_projectile_pipe_remote"
 		{
 				"dfile"	"HUD/d_images"
@@ -570,7 +570,7 @@
 				"y"		"224"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"vehicle"
 		{
 				"dfile"	"HUD/d_images"
@@ -784,7 +784,7 @@
 				"dnegfile"	"HUD/dneg_images"
 				"x"		"263"
 				"y"		"98"
-				"width"		"96" 
+				"width"		"96"
 				"height"	"32"
 		}
 		"huntsman_burning"
@@ -1254,7 +1254,7 @@
 				"y"		"832"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"claidheamohmor"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1263,7 +1263,7 @@
 				"y"		"864"
 				"width"		"96"
 				"height"	"32"
-		}	
+		}
 		"steel_fists"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1272,7 +1272,7 @@
 				"y"		"896"
 				"width"		"96"
 				"height"	"32"
-		}					
+		}
 		"ullapool_caber_explosion"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1281,7 +1281,7 @@
 				"y"		"928"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"ullapool_caber"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1290,7 +1290,7 @@
 				"y"		"960"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"candy_cane"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1299,7 +1299,7 @@
 				"y"		"768"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"amputator"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1308,7 +1308,7 @@
 				"y"		"800"
 				"width"		"96"
 				"height"	"32"
-		}	
+		}
 		"blackbox"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1326,7 +1326,7 @@
 				"y"		"864"
 				"width"		"64"
 				"height"	"32"
-		}	
+		}
 		"warrior_spirit"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1344,7 +1344,7 @@
 				"y"		"736"
 				"width"		"96"
 				"height"	"32"
-		}	
+		}
 		"iron_curtain"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1353,7 +1353,7 @@
 				"y"		"704"
 				"width"		"96"
 				"height"	"32"
-		}	
+		}
 		"crusaders_crossbow"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1362,7 +1362,7 @@
 				"y"		"672"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"battleneedle"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1371,7 +1371,7 @@
 				"y"		"640"
 				"width"		"96"
 				"height"	"32"
-		}	
+		}
 		"sydney_sleeper"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1380,7 +1380,7 @@
 				"y"		"192"
 				"width"		"128"
 				"height"	"32"
-		}	
+		}
 		"cow_mangler"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1389,7 +1389,7 @@
 				"y"		"224"
 				"width"		"128"
 				"height"	"32"
-		}	
+		}
 		"righteous_bison"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1398,7 +1398,7 @@
 				"y"		"256"
 				"width"		"128"
 				"height"	"32"
-		}	
+		}
 		"bushwacka"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1407,7 +1407,7 @@
 				"y"		"608"
 				"width"		"96"
 				"height"	"32"
-		}	
+		}
 		"taunt_soldier_lumbricus"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1416,7 +1416,7 @@
 				"y"		"864"
 				"width"		"64"
 				"height"	"32"
-		}						
+		}
 		"brass_beast"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1425,7 +1425,7 @@
 				"y"		"576"
 				"width"		"96"
 				"height"	"32"
-		}			
+		}
 		"gloves_running_urgently"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1434,7 +1434,7 @@
 				"y"		"544"
 				"width"		"96"
 				"height"	"32"
-		}			
+		}
 		"blutsauger"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1443,7 +1443,7 @@
 				"y"		"512"
 				"width"		"96"
 				"height"	"32"
-		}			
+		}
 		"sandman"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1452,7 +1452,7 @@
 				"y"		"480"
 				"width"		"96"
 				"height"	"32"
-		}	
+		}
 		"backburner"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1461,7 +1461,7 @@
 				"y"		"448"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"lava_bat"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1470,7 +1470,7 @@
 				"y"		"0"
 				"width"		"96"
 				"height"	"32"
-		}	
+		}
 		"lava_axe"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1479,7 +1479,7 @@
 				"y"		"32"
 				"width"		"96"
 				"height"	"32"
-		}		
+		}
 		"obj_minisentry"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -1525,7 +1525,7 @@
 				"width"		"128"
 				"height"	"32"
 		}
-		
+
 		"obj_status_sentrygun_1"
 		{
 			"file"	"HUD/hud_obj_status_sentry_1"
@@ -1534,7 +1534,7 @@
 			"width"		"128"
 			"height"	"128"
 		}
-		
+
 		"obj_status_sentrygun_2"
 		{
 			"file"	"HUD/hud_obj_status_sentry_2"
@@ -1543,7 +1543,7 @@
 			"width"		"128"
 			"height"	"128"
 		}
-		
+
 		"obj_status_sentrygun_3"
 		{
 			"file"	"HUD/hud_obj_status_sentry_3"
@@ -1552,7 +1552,7 @@
 			"width"		"128"
 			"height"	"128"
 		}
-		
+
 		"obj_status_dispenser"
 		{
 			"file"	"HUD/hud_obj_status_dispenser"
@@ -1571,7 +1571,6 @@
 			"height"	"128"
 		}
 
-	
 		"obj_status_tele_entrance"
 		{
 			"file"	"HUD/hud_obj_status_tele_entrance"
@@ -1588,7 +1587,7 @@
 			"width"		"128"
 			"height"	"128"
 		}
-		
+
 		"obj_status_upgrade_1"
 		{
 			"file"	"HUD/hud_upgrade_1"
@@ -1621,7 +1620,7 @@
 			"width"		"64"
 			"height"	"64"
 		}
-		
+
 		"cappoint_progressbar_teardrop"
 		{
 			"file"		"vgui/progress_bar_pointer"
@@ -1648,7 +1647,7 @@
 			"width"		"128"
 			"height"	"128"
 		}
-				
+
 		"obj_status_background_blue"
 		{
 			"file"		"HUD/eng_status_area_tele_blue"
@@ -1666,7 +1665,7 @@
 			"width"		"243"
 			"height"	"64"
 		}
-		
+
 		"obj_status_background_disabled"
 		{
 			"file"		"HUD/eng_status_area_tele_disabled"
@@ -1676,7 +1675,7 @@
 			"height"	"64"
 		}
 
-		"obj_status_background_tall_blue"	
+		"obj_status_background_tall_blue"
 		{
 			"file"		"HUD/eng_status_area_sentry_blue"
 			"x"		"0"
@@ -1685,7 +1684,7 @@
 			"height"	"110"
 		}
 
-		"obj_status_background_tall_red"	
+		"obj_status_background_tall_red"
 		{
 			"file"		"HUD/eng_status_area_sentry_red"
 			"x"		"0"
@@ -1693,7 +1692,7 @@
 			"width"		"243"
 			"height"	"110"
 		}
-		
+
 		"obj_status_background_tall_disabled"
 		{
 			"file"		"HUD/eng_status_area_sentry_disabled"
@@ -1702,7 +1701,7 @@
 			"width"		"243"
 			"height"	"110"
 		}
-		
+
 		"cappoint_progressbar_blocked"
 		{
 			"file"		"vgui/progress_bar_noCap"
@@ -1719,7 +1718,7 @@
 			"y"   "0"
 			"width"  "32"
 			"height" "32"
-		}	
+		}
 
 		"obj_status_alert_background"
 		{
@@ -1729,7 +1728,7 @@
 			"width"		"80"
 			"height"	"64"
 		}
-		
+
 		"obj_status_alert_background_tall"
 		{
 			"file"		"HUD/eng_status_area_sentry_alrt"
@@ -1738,7 +1737,7 @@
 			"width"		"80"
 			"height"	"110"
 		}
-		
+
 		"obj_status_alert_background_tall_nocolor"
 		{
 			"file"		"HUD/eng_status_area_sentry_alrt_nocolor"
@@ -1747,7 +1746,7 @@
 			"width"		"80"
 			"height"	"110"
 		}
-		
+
 		"obj_status_icon_wrench"
 		{
 			"file"		"HUD/eng_status_alert_ico_wrench"
@@ -1756,7 +1755,7 @@
 			"width"		"64"
 			"height"	"64"
 		}
-			
+
 		"obj_status_icon_sapper"
 		{
 			"file"		"HUD/hud_obj_status_sapper"
@@ -1772,7 +1771,7 @@
 			"y"		"0"
 			"width"		"128"
 			"height"	"128"
-		}				
+		}
 		"progress_bar_red"
 		{
 			"file"		"vgui/progress_bar_red"
@@ -1780,7 +1779,7 @@
 			"y"		"0"
 			"width"		"128"
 			"height"	"128"
-		}				
+		}
 
 		"dispenser_meter_bg_blue"
 		{
@@ -1789,8 +1788,8 @@
 			"y"		"0"
 			"width"		"256"
 			"height"	"128"
-		}	
-		
+		}
+
 		"dispenser_meter_bg_red"
 		{
 			"file"		"vgui/dispenser_meter_bg_red"
@@ -1798,7 +1797,7 @@
 			"y"		"0"
 			"width"		"256"
 			"height"	"128"
-		}	
+		}
 
 		"leaderboard_dominated"
 		{
@@ -1807,8 +1806,8 @@
 			"y"		"0"
 			"width"		"64"
 			"height"	"64"
-		}	
-		
+		}
+
 		"leaderboard_streak"
 		{
 			"file"		"hud/leaderboard_streak"
@@ -1817,8 +1816,8 @@
 			"y"		"0"
 			"width"		"64"
 			"height"	"64"
-		}	
-		
+		}
+
 		"leaderboard_streak_dneg"
 		{
 			"file"		"hud/dneg_leaderboard_streak"
@@ -1826,8 +1825,8 @@
 			"y"		"0"
 			"width"		"64"
 			"height"	"64"
-		}	
-		
+		}
+
 		"hud_menu_bg"
 		{
 			"file"		"hud/eng_build_bg"
@@ -1836,19 +1835,19 @@
 			"width"		"32"
 			"height"	"13"
 		}
-		
+
 		"hud_menu_item_bg"
 		{
-			"file"		"hud/eng_build_item"	
+			"file"		"hud/eng_build_item"
 			"x"		"1"
 			"y"		"1"
 			"width"		"14"
 			"height"	"15"
 		}
-		
+
 		"hud_menu_item_bg_outline"
 		{
-			"file"		"hud/eng_sel_item_active"	
+			"file"		"hud/eng_sel_item_active"
 			"x"		"1"
 			"y"		"1"
 			"width"		"14"
@@ -1856,7 +1855,7 @@
 		}
 		"hud_menu_item_bg_active"
 		{
-			"file"		"hud/eng_sel_item_active"	
+			"file"		"hud/eng_sel_item_active"
 			"x"		"1"
 			"y"		"1"
 			"width"		"14"
@@ -1870,7 +1869,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_soldier_red"
 		{
 			"file"		"vgui/class_sel_sm_soldier_red"
@@ -1879,7 +1878,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_pyro_red"
 		{
 			"file"		"vgui/class_sel_sm_pyro_red"
@@ -1888,7 +1887,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_demoman_red"
 		{
 			"file"		"vgui/class_sel_sm_demo_red"
@@ -1897,7 +1896,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_heavy_red"
 		{
 			"file"		"vgui/class_sel_sm_heavy_red"
@@ -1906,7 +1905,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_engineer_red"
 		{
 			"file"		"vgui/class_sel_sm_engineer_red"
@@ -1915,7 +1914,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_medic_red"
 		{
 			"file"		"vgui/class_sel_sm_medic_red"
@@ -1924,7 +1923,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_sniper_red"
 		{
 			"file"		"vgui/class_sel_sm_sniper_red"
@@ -1933,7 +1932,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_spy_red"
 		{
 			"file"		"vgui/class_sel_sm_spy_red"
@@ -1941,8 +1940,8 @@
 			"y"		"0"
 			"width"	"128"
 			"height" "256"
-		}	
-				
+		}
+
 		"hud_menu_scout_blu"
 		{
 			"file"		"vgui/class_sel_sm_scout_blu"
@@ -1951,7 +1950,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_soldier_blu"
 		{
 			"file"		"vgui/class_sel_sm_soldier_blu"
@@ -1960,7 +1959,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_pyro_blu"
 		{
 			"file"		"vgui/class_sel_sm_pyro_blu"
@@ -1969,7 +1968,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_demoman_blu"
 		{
 			"file"		"vgui/class_sel_sm_demo_blu"
@@ -1978,7 +1977,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_heavy_blu"
 		{
 			"file"		"vgui/class_sel_sm_heavy_blu"
@@ -1987,7 +1986,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_engineer_blu"
 		{
 			"file"		"vgui/class_sel_sm_engineer_blu"
@@ -1996,7 +1995,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_medic_blu"
 		{
 			"file"		"vgui/class_sel_sm_medic_blu"
@@ -2005,7 +2004,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_sniper_blu"
 		{
 			"file"		"vgui/class_sel_sm_sniper_blu"
@@ -2014,7 +2013,7 @@
 			"width"	"128"
 			"height" "256"
 		}
-		
+
 		"hud_menu_spy_blu"
 		{
 			"file"		"vgui/class_sel_sm_spy_blu"
@@ -2022,8 +2021,8 @@
 			"y"		"0"
 			"width"	"128"
 			"height" "256"
-		}				
-		
+		}
+
 		"hud_menu_sentry_build"
 		{
 			"file"		"hud/eng_build_sentry_blueprint"
@@ -2032,7 +2031,7 @@
 			"width"		"128"
 			"height"	"128"
 		}
-		
+
 		"hud_menu_dispenser_build"
 		{
 			"file"		"hud/eng_build_dispenser_blueprint"
@@ -2041,7 +2040,7 @@
 			"width"		"128"
 			"height"	"128"
 		}
-		
+
 		"hud_menu_tele_entrance_build"
 		{
 			"file"		"hud/eng_build_tele_entrance_blueprint"
@@ -2050,7 +2049,7 @@
 			"width"		"128"
 			"height"	"128"
 		}
-		
+
 		"hud_menu_tele_exit_build"
 		{
 			"file"		"hud/eng_build_tele_exit_blueprint"
@@ -2060,18 +2059,15 @@
 			"height"	"128"
 		}
 
-
-
-		
 		"ico_metal"
-		{	
+		{
 			"file"		"hud/ico_metal_mask"
 			"x"		"0"
 			"y"		"0"
 			"width"		"128"
 			"height"	"128"
 		}
-		
+
 		"ico_demolish"
 		{
 			"file"		"hud/ico_demolish"
@@ -2080,7 +2076,7 @@
 			"width"	"256"
 			"height"	"256"
 		}
-		
+
 		"ico_build"
 		{
 			"file"		"hud/ico_build"
@@ -2089,7 +2085,7 @@
 			"width"	"256"
 			"height"	"256"
 		}
-		
+
 		"ico_key_blank"
 		{
 			"file"		"hud/ico_key_blank"
@@ -2098,7 +2094,7 @@
 			"width"	"64"
 			"height"	"64"
 		}
-		
+
 		"ico_notify_sixty_seconds"
 		{
 			"file"		"hud/ico_time_60"
@@ -2107,7 +2103,7 @@
 			"width"	"64"
 			"height"	"64"
 		}
-		
+
 		"ico_notify_thirty_seconds"
 		{
 			"file"		"hud/ico_time_30"
@@ -2116,7 +2112,7 @@
 			"width"	"64"
 			"height"	"64"
 		}
-		
+
 		"ico_notify_ten_seconds"
 		{
 			"file"		"hud/ico_time_10"
@@ -2125,7 +2121,7 @@
 			"width"	"64"
 			"height"	"64"
 		}
-		
+
 		"ico_notify_team_switch"
 		{
 			"file"		"hud/ico_teamswitch"
@@ -2134,7 +2130,7 @@
 			"width"	"64"
 			"height"	"64"
 		}
-		
+
 		"ico_notify_flag_dropped"
 		{
 			"file"		"hud/objectives_flagpanel_ico_flag_dropped"
@@ -2143,7 +2139,7 @@
 			"width"	"256"
 			"height"	"256"
 		}
-		
+
 		"ico_notify_flag_home"
 		{
 			"file"		"hud/objectives_flagpanel_ico_flag_home"
@@ -2161,7 +2157,7 @@
 			"width"	"256"
 			"height"	"256"
 		}
-		
+
 		"ico_notify_flag_moving"
 		{
 			"file"		"hud/objectives_flagpanel_ico_flag_moving"
@@ -2179,7 +2175,7 @@
 			"width"	"256"
 			"height"	"256"
 		}
-		
+
 		"ico_notify_on_fire"
 		{
 			"file"		"hud/ico_fire"
@@ -2191,7 +2187,7 @@
 
 		"ico_notify_golden_wrench"
 		{
-			"file"	"HUD/d_images_v2"		
+			"file"	"HUD/d_images_v2"
 			"x"		"0"
 			"y"		"736"
 			"width"		"96"
@@ -2200,7 +2196,7 @@
 
 		"ico_ghost"
 		{
-			"file"	"HUD/ghost_icon"		
+			"file"	"HUD/ghost_icon"
 			"x"		"0"
 			"y"		"0"
 			"width"		"256"
@@ -2209,13 +2205,13 @@
 
 		"ico_kart"
 		{
-			"file"	"HUD/cart_icon"		
+			"file"	"HUD/cart_icon"
 			"x"		"0"
 			"y"		"0"
 			"width"		"256"
 			"height"	"256"
 		}
-		
+
 		"ico_notify_highfive"
 		{
 			"file"		"hud/highfive"
@@ -2224,7 +2220,7 @@
 			"width"		"128"
 			"height"	"128"
 		}
-		
+
 		"the_maul"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2244,7 +2240,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"market_gardener"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2254,7 +2250,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"the_winger"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2264,7 +2260,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"tomislav"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2274,7 +2270,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"soda_popper"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2284,7 +2280,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"atomizer"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2294,7 +2290,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"bazaar_bargain"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2304,7 +2300,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"big_earner"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2314,7 +2310,17 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
+		"detonator"
+		{
+				"dfile"	"HUD/d_images_v2"
+				"dnegfile"	"HUD/dneg_images_v2"
+				"x"		"384"
+				"y"		"512"
+				"width"		"96"
+				"height"	"32"
+		}
+
 		"eviction_notice"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2324,7 +2330,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"family_business"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2334,7 +2340,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"liberty_launcher"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2344,7 +2350,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"proto_syringe"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2354,7 +2360,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"persian_persuader"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2364,7 +2370,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"reserve_shooter"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2374,7 +2380,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"shahanshah"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2384,7 +2390,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"enforcer"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2394,7 +2400,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"disciplinary_action"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2404,7 +2410,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"splendid_screen"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2414,7 +2420,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"mantreads"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2424,7 +2430,7 @@
 				"width"		"64"
 				"height"	"32"
 		}
-		
+
 		"solemn_vow"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2434,7 +2440,7 @@
 				"width"		"96"
 				"height"	"32"
 		}
-		
+
 		"nessieclub"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2444,7 +2450,7 @@
 				"width"		"128"
 				"height"	"32"
 		}
-		
+
 		"mailbox"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2454,7 +2460,7 @@
 				"width"		"128"
 				"height"	"32"
 		}
-		
+
 		"quake_rl"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2464,7 +2470,7 @@
 				"width"		"128"
 				"height"	"32"
 		}
-		
+
 		"diamondback"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2474,7 +2480,7 @@
 				"width"		"64"
 				"height"	"32"
 		}
-		
+
 		"widowmaker"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2484,7 +2490,7 @@
 				"width"		"64"
 				"height"	"32"
 		}
-		
+
 		"short_circuit"
 		{
 				"dfile"	"HUD/d_images_v2"
@@ -2501,7 +2507,7 @@
 				"x"		"256"
 				"y"		"288"
 				"width"		"128"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"player_penetration"
 		{
@@ -2510,7 +2516,7 @@
 				"x"		"256"
 				"y"		"320"
 				"width"		"128"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"headshot_player_penetration"
 		{
@@ -2519,7 +2525,7 @@
 				"x"		"256"
 				"y"		"352"
 				"width"		"128"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"nonnonviolent_protest"
 		{
@@ -2528,7 +2534,7 @@
 				"x"		"0"
 				"y"		"0"
 				"width"		"96"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"scotland_shard"
 		{
@@ -2537,7 +2543,7 @@
 				"x"		"0"
 				"y"		"32"
 				"width"		"96"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"baleful_beacon"
 		{
@@ -2546,7 +2552,7 @@
 				"x"		"0"
 				"y"		"64"
 				"width"		"96"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"unarmed_combat"
 		{
@@ -2555,7 +2561,7 @@
 				"x"		"0"
 				"y"		"96"
 				"width"		"96"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"voodoo_pin"
 		{
@@ -2564,7 +2570,7 @@
 				"x"		"0"
 				"y"		"128"
 				"width"		"96"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"eyeball_rocket"
 		{
@@ -2573,7 +2579,7 @@
 				"x"		"0"
 				"y"		"160"
 				"width"		"96"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"purgatory"
 		{
@@ -2582,7 +2588,7 @@
 				"x"		"0"
 				"y"		"192"
 				"width"		"96"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"apocofists"
 		{
@@ -2591,7 +2597,7 @@
 				"x"		"0"
 				"y"		"256"
 				"width"		"96"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"sharp_dresser"
 		{
@@ -2600,7 +2606,7 @@
 				"x"		"0"
 				"y"		"288"
 				"width"		"96"
-				"height"	"32"		
+				"height"	"32"
 		}
 		"sharp_dresser_backstab"
 		{
@@ -2609,8 +2615,8 @@
 				"x"		"0"
 				"y"		"320"
 				"width"		"96"
-				"height"	"32"		
-		}				
+				"height"	"32"
+		}
 		"phlogistinator"
 		{
 				"dfile"	"HUD/d_images_v3"
@@ -2618,7 +2624,7 @@
 				"x"		"256"
 				"y"		"0"
 				"width"		"128"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"manmelter"
 		{
@@ -2627,7 +2633,7 @@
 				"x"		"256"
 				"y"		"32"
 				"width"		"128"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"thirddegree"
 		{
@@ -2636,7 +2642,7 @@
 				"x"		"0"
 				"y"		"352"
 				"width"		"96"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"eureka_effect"
 		{
@@ -2645,7 +2651,7 @@
 				"x"		"0"
 				"y"		"416"
 				"width"		"96"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"pomson"
 		{
@@ -2654,7 +2660,7 @@
 				"x"		"256"
 				"y"		"64"
 				"width"		"128"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"holiday_punch"
 		{
@@ -2663,7 +2669,7 @@
 				"x"		"0"
 				"y"		"448"
 				"width"		"96"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"spy_cicle"
 		{
@@ -2672,7 +2678,7 @@
 				"x"		"0"
 				"y"		"512"
 				"width"		"96"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"wrap_assassin"
 		{
@@ -2690,7 +2696,7 @@
 				"x"		"0"
 				"y"		"576"
 				"width"		"96"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"lollichop"
 		{
@@ -2699,7 +2705,7 @@
 				"x"		"0"
 				"y"		"608"
 				"width"		"96"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"scorch_shot"
 		{
@@ -2708,7 +2714,7 @@
 				"x"		"0"
 				"y"		"640"
 				"width"		"96"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"rainblower"
 		{
@@ -2717,7 +2723,7 @@
 				"x"		"0"
 				"y"		"672"
 				"width"		"96"
-				"height"	"32"	
+				"height"	"32"
 		}
 		"pro_smg"
 		{
@@ -2871,7 +2877,7 @@
 				"y"		"384"
 				"width"		"128"
 				"height"	"32"
-		}		
+		}
 		"rescue_ranger"
 		{
 			"dfile"	"HUD/d_images_v3"
@@ -2889,7 +2895,7 @@
 				"y"		"0"
 				"width"		"64"
 				"height"	"32"
-		}		
+		}
 		"loose_cannon_reflect"
 		{
 			"dfile"	"HUD/d_images_v3"
@@ -2898,7 +2904,7 @@
 				"y"		"32"
 				"width"		"64"
 				"height"	"32"
-		}		
+		}
 		"rescue_ranger_reflect"
 		{
 			"dfile"	"HUD/d_images_v3"
@@ -3158,7 +3164,7 @@
 				"y"		"640"
 				"width"		"64"
 				"height"	"32"
-		}		
+		}
 		"eotl_duck"
 		{
 			"file"		"hud/leaderboard_duck"
@@ -3175,7 +3181,7 @@
 			"y"		"0"
 			"width"		"64"
 			"height"	"64"
-		}	
+		}
 		"crossing_guard"
 		{
 			"dfile"	"HUD/d_images_v3"
@@ -3349,7 +3355,7 @@
 			"x"		"96"
 			"y"		"736"
 			"width"		"96"
-			"height"	"32"	
+			"height"	"32"
 		}
 		"passtime_score_blue"
 		{
@@ -3367,7 +3373,7 @@
 			"x"		"192"
 			"y"		"800"
 			"width"		"64"
-			"height"	"64"	
+			"height"	"64"
 		}
 		"passtime_ball"
 		{
@@ -3385,7 +3391,7 @@
 			"x"		"256"
 			"y"		"768"
 			"width"		"128"
-			"height"	"32"	
+			"height"	"32"
 		}
 		"the_capper"
 		{
@@ -3394,7 +3400,7 @@
 			"x"		"256"
 			"y"		"800"
 			"width"		"128"
-			"height"	"32"	
+			"height"	"32"
 		}
  		"shooting_star"
 		{
@@ -3403,7 +3409,7 @@
 			"x"		"256"
 			"y"		"832"
 			"width"		"128"
-			"height"	"32"	
+			"height"	"32"
 		}
  		"giger_counter"
 		{
@@ -3412,7 +3418,7 @@
 			"x"		"192"
 			"y"		"896"
 			"width"		"64"
-			"height"	"32"	
+			"height"	"32"
 		}
  		"prinny_machete"
 		{
@@ -3421,7 +3427,7 @@
 			"x"		"96"
 			"y"		"864"
 			"width"		"96"
-			"height"	"32"	
+			"height"	"32"
 		}
 
 		"crocodile"
@@ -3579,7 +3585,7 @@
 		"fryingpan"
 		{
 				"dfile"	"HUD/d_images_v2"
-				"dnegfile"	"HUD/dneg_images_v2"		
+				"dnegfile"	"HUD/dneg_images_v2"
 				"x"		"109"
 				"y"		"768"
 				"width"		"70"
