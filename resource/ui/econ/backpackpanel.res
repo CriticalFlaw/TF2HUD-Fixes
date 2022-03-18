@@ -1577,50 +1577,26 @@
 			"fgcolor_override" "200 80 60 255"
 		}
 	}
-	
+
 	"PrevPageShortcut"
 	{
 		"ControlName"		"CExButton"
 		"fieldName"			"PrevPageShortcut"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"2"
 		"wide"				"0"
-		"tall"				"0"
-		"autoResize"		"0"
-		"pinCorner"			"0"
 		"visible"			"1"
-		"enabled"			"1"
-		"tabPosition"		"0"
 		"labelText"			"&A"
-		"font"				"HudFontSmallBold"
-		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
 		"Command"			"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-	
+
 	"NextPageShortcut"
 	{
 		"ControlName"		"CExButton"
 		"fieldName"			"NextPageShortcut"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"2"
 		"wide"				"0"
-		"tall"				"0"
-		"autoResize"		"0"
-		"pinCorner"			"0"
 		"visible"			"1"
-		"enabled"			"1"
-		"tabPosition"		"0"
 		"labelText"			"&D"
-		"font"				"HudFontSmallBold"
-		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
 		"Command"			"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

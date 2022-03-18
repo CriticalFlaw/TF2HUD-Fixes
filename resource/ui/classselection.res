@@ -753,7 +753,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"#TF_ClassMenu_Cancel"
+		"labelText"		"#HUD_cancel"
 		"textAlignment"	"center"
 		"Command"		"vguicancel"
 		"font"			"HudFontSmallBold"
@@ -774,7 +774,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"#EditLoadout"
+		"labelText"		"#HUD_edit_loadout"
 		"textAlignment"	"center"
 		"Command"		"openloadout"
 		"font"			"HudFontSmallBold"
@@ -1606,7 +1606,7 @@
 
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"6"
+		"zpos"			"1"
 		"wide"			"480"
 		"tall"			"480"
 
@@ -1617,7 +1617,7 @@
 
 		"render_texture"	"0"
 		"fov"			"25"
-		"allow_rot"		"0"
+		"allow_rot"		"1"
 
 		"paintbackground" "1"
 		"paintbackgroundenabled" "1"

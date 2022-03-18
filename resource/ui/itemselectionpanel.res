@@ -187,7 +187,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BottomLine"
 		"xpos"			"c-305"
-		"ypos"			"330"
+		"ypos"			"315"
 		"zpos"			"2"
 		"wide"			"610"
 		"tall"			"10"
@@ -267,7 +267,7 @@
 		"Font"			"HudFontSmallestBold"
 		"textAlignment"	"east"
 		"xpos"			"c-306"
-		"ypos"			"340"
+		"ypos"			"330"
 		"zpos"			"1"
 		"wide"			"290"
 		"tall"			"25"
@@ -284,7 +284,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowBackpack"
 		"xpos"			"c100"
-		"ypos"			"340"
+		"ypos"			"330"
 		"zpos"			"20"
 		"wide"			"200"
 		"tall"			"25"
@@ -433,5 +433,29 @@
 			"fgcolor"		"117 107 94 255"
 			"centerwrap"	"1"
 		}
+	}
+
+	"PrevPageShortcut"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"PrevPageShortcut"
+		"wide"				"0"
+		"visible"			"1"
+		"labelText"			"&A"
+		"Command"			"prevpage"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+
+	"NextPageShortcut"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"NextPageShortcut"
+		"wide"				"0"
+		"visible"			"1"
+		"labelText"			"&D"
+		"Command"			"nextpage"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }

@@ -1,9 +1,9 @@
-"Resource/UI/replaybrowser/mainpanel.res"
+"Resource/UI/CharInfoPanel.res"
 {
-	"ReplayBrowser"
+	"character_info"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"ReplayBrowser"
+		"fieldName"		"character_info"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"
@@ -19,7 +19,7 @@
 		"infocus_bgcolor_override"		"46 43 42 0"
 		"outoffocus_bgcolor_override"	"46 43 42 0"
 
-		"title"			"#Replay_Replay"
+		"title"			"#CharInfoAndSetup"
 		"title_font"	"HudFontMediumBold"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
@@ -96,7 +96,7 @@
 			"tall"			"10"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"replay/replaybrowser_solidline"
+			"image"			"loadout_solid_line"
 			"scaleImage"	"1"
 		}
 
@@ -108,8 +108,8 @@
 			"unselectedcolor"	"130 120 104 255"
 			"defaultBgColor_override"	"46 43 42 255"
 			"paintbackground"	"0"
-			"activeborder_override"	"ReplayOutlinedGreyBox"
-			"normalborder_override" "ReplayOutlinedDullGreyBox"
+			"activeborder_override"	"OutlinedGreyBox"
+			"normalborder_override" "OutlinedDullGreyBox"
 		}
 	}
 
@@ -127,7 +127,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"#TF_BackCarat"
+		"labelText"		"#HUD_back"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -136,5 +136,18 @@
 		"Command"		"back"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+
+	"NotificationsPresentPanel"
+	{
+		"ControlName"	"CNotificationsPresentPanel"
+		"fieldName"		"NotificationsPresentPanel"
+		"xpos"			"r200"
+		"ypos"			"10"
+		"zpos"			"10000"
+		"wide"			"190"
+		"tall"			"50"
+		"visible"		"0"
+		"enabled"		"1"
 	}
 }

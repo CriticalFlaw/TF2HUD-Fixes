@@ -178,7 +178,7 @@
 			"bgcolor_override"		"0 0 0 255"
 			"PaintBackgroundType"	"2"
 		}
-		
+
 		"paint_icon_anchor"
 		{
 			"ControlName"	"EditablePanel"
