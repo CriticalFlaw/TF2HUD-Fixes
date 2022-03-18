@@ -1,13 +1,11 @@
 ![image](https://user-images.githubusercontent.com/6818236/135372003-c609a9af-6765-4a3d-9964-d6875868c4f3.png)
 <p align="center">
   <p align="center">
-    A collection of fixes and minor visual tweaks to the default Team Fortress 2 HUD.
+    A compilation of bug fixes and minor visual tweaks to the default Team Fortress 2 HUD.
     <br />
-    This mod has been submitted to the Steam Workshop for Valve's consideration.
+    <b>Download</b>: <a href="https://github.com/CriticalFlaw/TF2HUD.Fixes/archive/refs/heads/community.zip">Complete Pack</a> · <a href="https://github.com/CriticalFlaw/TF2HUD.Fixes/archive/refs/heads/workshop.zip">Workshop Pack</a> (HUD Fixes Only)
     <br />
-    <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Steam Workshop Submission</a>
-    ·
-    <a href="https://steamcommunity.com/workshop/filedetails/?id=2156577890">TF2 Community Fix-Up Pack</a>
+    <b>Links</b>: <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Workshop Submission</a> · <a href="https://steamcommunity.com/workshop/filedetails/?id=2156577890">TF2 Community Fix-Up Pack</a>
   </p>
 </p>
 
