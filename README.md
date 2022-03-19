@@ -49,6 +49,7 @@
 - Added support for [Hypnootize's Crosshair Pack](https://github.com/Hypnootize/TF2-Hud-Crosshairs) (enabled in **scripts/hudlayout.res**).
 - Added support for transparent viewmodels (also enabled in **scripts/hudlayout.res**).
 - Added the ability to manipulate the player model on the Loadout and Class Selection screens.
+- Added player stats to the main menu. (Thank you to Jofre-Problem for the original change).
 - Fixed the Engineer's destruction menu not being vertically aligned with the build menu.
 - Removed the background panel seen when the match HUD is enabled.
 - Updated item icons to use higher quality images.
