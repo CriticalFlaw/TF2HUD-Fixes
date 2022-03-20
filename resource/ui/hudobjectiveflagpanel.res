@@ -445,6 +445,12 @@
 		{
 			"visible"	"0"
 		}
+		
+		"if_mvm"
+		{
+			"xpos_minmode"	"c-75"
+			"ypos_minmode"	"r75"
+		}
 	}
 			
 	"RedFlag"

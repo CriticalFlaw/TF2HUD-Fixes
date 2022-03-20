@@ -39,6 +39,8 @@
 			"ypos"			"21"
 			"wide"			"38"
 			"tall"			"38"
+			"xpos_minmode"	"57"
+			"ypos_minmode"	"15"
 			"wide_minmode"	"30"
 			"wide_minmode"	"30"
 		}	
