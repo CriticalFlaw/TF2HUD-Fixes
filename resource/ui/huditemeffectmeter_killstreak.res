@@ -6,7 +6,7 @@
 	{
 		"xpos"				"95"	[$WIN32]
 		"ypos"				"r52"	[$WIN32]
-		"xpos_minmode"		"c200"	[$WIN32]
+		"xpos_minmode"		"c230"	[$WIN32]
 		"xpos"				"94"	[$X360]
 		"ypos"				"r52"	[$X360]
 	}
