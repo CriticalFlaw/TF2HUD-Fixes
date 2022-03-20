@@ -3581,14 +3581,42 @@ Scheme
 
 		GrayDialogBorder
 		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "TanDark"
+					"offset" "0 1"
+				}
+			}
 
-			"image"					"loadout_rect"
-			"src_corner_height"		"24"				// pixels inside the image
-			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"11"
+			Right
+			{
+				"1"
+				{
+					"color" "TanDark"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "TanDark"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "TanDark"
+					"offset" "0 0"
+				}
+			}
 		}
 
 		StoreFreeTrialBorder

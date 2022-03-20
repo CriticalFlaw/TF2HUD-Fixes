@@ -282,7 +282,7 @@
 			"xpos"			"c-285"
 			"xpos_hidef"			"c-193"
 			"xpos_lodef"			"c-193"
-			"ypos"			"170" [!$OSX]
+			"ypos"			"180" [!$OSX]
 			"ypos"			"185" [$OSX]
 			"ypos_hidef"			"32"
 			"ypos_lodef"			"32"
@@ -1663,7 +1663,7 @@
 			"labelText"		"#StatSummary_Label_BestMoments"
 			"textAlignment"		"center"
 			"xpos"			"c+115"
-			"ypos"			"170" [!$OSX]
+			"ypos"			"180" [!$OSX]
 			"ypos"			"180" [$OSX]
 			"wide"			"200"
 			"tall"			"20"
