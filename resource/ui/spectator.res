@@ -35,7 +35,7 @@
 		"ypos"			"0"
 		"tall"			"0"	[$WIN32]
 		"tall"			"104"	[$X360]		
-		"wide"			"f0"
+		"wide"			"0"	// change to f0 to enable
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -53,6 +53,7 @@
 		"tall"			"70"	[$WIN32]
 		"tall_minmode"	"0"		
 		"tall"			"90"	[$X360]		
+		"wide"			"0"	// change to f0 to enable
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -70,7 +71,7 @@
 		"tall"			"70"	[$WIN32]		// this needs to match the size of BottomBar
 		"tall_minmode"	"0"		
 		"tall"			"90"	[$X360]		
-		"wide"			"f0"
+		"wide"			"0"	// change to f0 to enable
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -90,6 +91,7 @@
 		"ypos"			"67"	[$X360]
 		"ypos_hidef"	"79"
 		"ypos_lodef"	"85"
+		"zpos"			"2"
 		"wide"			"600"	[$WIN32]
 		"wide_minmode"	"300"
 		"wide"			"400"	[$X360]
@@ -113,6 +115,7 @@
 		"fieldName"		"BuyBackLabel"
 		"xpos"			"0"
 		"ypos"			"0"
+		"zpos"			"2"
 		"wide"			"400"
 		"tall"			"f0"
 		"autoResize"		"0"
@@ -158,12 +161,12 @@
 		"ypos"			"35"
 		"ypos_hidef"	"90"
 		"ypos_lodef"	"30"	
+		"zpos"			"2"
 		"wide"			"170"
 		"wide_hidef"	"130"
 		"wide_lodef"	"220"
 		"tall"			"15"
 		"tall_lodef"	"25"
-		"zpos"			"2"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
