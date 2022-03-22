@@ -22,7 +22,7 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"60"
-		"visible"		"1"		//Change to "0" to enable health cross
+		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"		"0 0 0 200"
 		"PaintBackgroundType"	"2"
@@ -34,7 +34,6 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"tall"			"0"	[$WIN32]
-		"tall_minmode"			"20"	[$WIN32]
 		"tall"			"104"	[$X360]		
 		"wide"			"f0"
 		"autoResize"		"0"

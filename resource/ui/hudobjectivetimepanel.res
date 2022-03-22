@@ -90,7 +90,7 @@
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
 			"ypos"					"26"
-			"ypos_minmode"			"21"
+			"ypos_minmode"			"23"
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			"font_hidef"			"HudFontSmallestBold"
