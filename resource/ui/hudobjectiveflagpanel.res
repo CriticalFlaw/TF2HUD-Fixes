@@ -412,7 +412,7 @@
 		"xpos"			"c-135"
 		"ypos"			"r95"	[$WIN32]
 		"ypos"			"r116"	[$X360]
-		"xpos_minmode"	"c-115"
+		"xpos_minmode"	"c-110"
 		"ypos_minmode"	"r80"
 		"zpos"			"5"
 		"wide"			"160"

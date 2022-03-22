@@ -89,7 +89,7 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
-			"ypos"					"25"
+			"ypos"					"26"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
@@ -282,7 +282,7 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
-			"ypos"					"21"
+			"ypos"					"22"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
