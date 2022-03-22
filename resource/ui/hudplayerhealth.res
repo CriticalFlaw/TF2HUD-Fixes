@@ -71,10 +71,10 @@
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"
 	}
-	"PlayerStatusHealthValue"
+	"PlayerHealthValue"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValue"
+		"fieldName"		"PlayerHealthValue"
 		"xpos"			"76"
 		"xpos_minmode"	"61"
 		"ypos"			"51"	[$WIN32]
