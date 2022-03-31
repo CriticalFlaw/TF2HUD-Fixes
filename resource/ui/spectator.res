@@ -19,13 +19,13 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HeaderBG"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"r60"
 		"wide"			"f0"
 		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"		"0 0 0 200"
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"
 	}
 	"topbar"
 	{
@@ -135,7 +135,7 @@
 		"font"			"HudFontSmall"
 		"font_hidef"		"HudFontMedium"
 		"xpos"			"r260"	[$WIN32]
-		"ypos"			"16"	[$WIN32]
+		"ypos"			"r44"	[$WIN32]
 		"xpos"			"r285"	[$X360]
 		"ypos"			"32"	[$X360]
 		"zpos"			"2"
@@ -158,7 +158,7 @@
 		"xpos"			"r190"
 		"xpos_hidef"	"c-65"
 		"xpos_lodef"	"40"
-		"ypos"			"35"
+		"ypos"			"r25"
 		"ypos_hidef"	"90"
 		"ypos_lodef"	"30"	
 		"zpos"			"2"
@@ -321,7 +321,7 @@
 		"xpos"			"15"
 		"xpos_hidef"	"60"
 		"xpos_lodef"	"45"
-		"ypos"			"0"
+		"ypos"			"r60"
 		"zpos"			"2"
 		"ypos_lodef"		"28"
 		"ypos_hidef"		"35"
