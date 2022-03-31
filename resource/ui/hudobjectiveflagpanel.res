@@ -412,7 +412,7 @@
 		"xpos"			"c-135"
 		"ypos"			"r95"	[$WIN32]
 		"ypos"			"r116"	[$X360]
-		"xpos_minmode"	"c-115"
+		"xpos_minmode"	"c-110"
 		"ypos_minmode"	"r80"
 		"zpos"			"5"
 		"wide"			"160"
@@ -444,6 +444,12 @@
 		"if_no_flags"
 		{
 			"visible"	"0"
+		}
+		
+		"if_mvm"
+		{
+			"xpos_minmode"	"c-75"
+			"ypos_minmode"	"r75"
 		}
 	}
 			
