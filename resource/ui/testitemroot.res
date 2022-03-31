@@ -15,7 +15,7 @@
 		"paintborder"			"0"
 		"paintbackground"		"1"
 	}
-	
+
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -34,7 +34,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
-	
+
 	"ClassUsagePanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -46,7 +46,7 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
-		
+
 		"ClassUsageLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -64,13 +64,13 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}
-		
+
 		"ClassCheckBox0"
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox0"
 			"labelText"		"#IT_Classes_All"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"45"
 			"ypos"			"15"
@@ -90,7 +90,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox1"
 			"labelText"		"#TF_Class_Name_Scout"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"145"
 			"ypos"			"15"
@@ -110,7 +110,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox2"
 			"labelText"		"#TF_Class_Name_Sniper"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"220"
 			"ypos"			"15"
@@ -130,7 +130,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox3"
 			"labelText"		"#TF_Class_Name_Soldier"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"295"
 			"ypos"			"15"
@@ -150,7 +150,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox4"
 			"labelText"		"#TF_Class_Name_Demoman"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"145"
 			"ypos"			"40"
@@ -170,7 +170,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox5"
 			"labelText"		"#TF_Class_Name_Medic"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"220"
 			"ypos"			"40"
@@ -190,7 +190,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox6"
 			"labelText"		"#TF_Class_Name_HWGuy"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"295"
 			"ypos"			"40"
@@ -210,7 +210,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox7"
 			"labelText"		"#TF_Class_Name_Pyro"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"145"
 			"ypos"			"65"
@@ -230,7 +230,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox8"
 			"labelText"		"#TF_Class_Name_Spy"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"220"
 			"ypos"			"65"
@@ -250,7 +250,7 @@
 			"ControlName"	"CheckButton"
 			"fieldName"		"ClassCheckBox9"
 			"labelText"		"#TF_Class_Name_Engineer"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"295"
 			"ypos"			"65"
@@ -264,9 +264,9 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
-		}	
+		}
 	}
-	
+
 	"TestingPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -278,7 +278,7 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
-	
+
 		"CurrentlyTestingLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -296,7 +296,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}
-		
+
 		"TestingWeaponLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -318,7 +318,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestItemEntry0"
-			"font"			"ItemFontAttribSmall"
+			"font"			"ItemFontAttribLarge"
 			"labelText"		"#IT_TestingSlot_Empty"
 			"textAlignment"	"center"
 			"xpos"			"95"
@@ -402,7 +402,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestItemEntry1"
-			"font"			"ItemFontAttribSmall"
+			"font"			"ItemFontAttribLarge"
 			"labelText"		"#IT_TestingSlot_Empty"
 			"textAlignment"	"center"
 			"xpos"			"95"
@@ -486,7 +486,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestItemEntry2"
-			"font"			"ItemFontAttribSmall"
+			"font"			"ItemFontAttribLarge"
 			"labelText"		"#IT_TestingSlot_Empty"
 			"textAlignment"	"center"
 			"xpos"			"95"
@@ -570,7 +570,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TestItemEntry3"
-			"font"			"ItemFontAttribSmall"
+			"font"			"ItemFontAttribLarge"
 			"labelText"		"#IT_TestingSlot_Empty"
 			"textAlignment"	"center"
 			"xpos"			"95"
@@ -634,7 +634,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 		}
 	}
-	
+
 	"BotAdditionPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -646,7 +646,7 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"0 0 0 128"
-		
+
 		"TitleLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -664,13 +664,13 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}
-		
+
 		"AutoAddBotsCheckBox"
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"AutoAddBotsCheckBox"
 			"labelText"		"#IT_Bot_AutoAdd"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"10"
 			"ypos"			"20"
@@ -684,14 +684,14 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
-		}	
-		
+		}
+
 		"BotsOnBlueTeamCheckBox"
 		{
 			"ControlName"	"CheckButton"
 			"fieldName"		"AutoAddBotsCheckBox"
 			"labelText"		"#IT_Bot_BlueTeam"
-			"Font"			"ItemFontAttribSmall"
+			"Font"			"ItemFontAttribLarge"
 			"textAlignment"	"west"
 			"xpos"			"110"
 			"ypos"			"20"
@@ -706,7 +706,7 @@
 			"brighttext"	"0"
 			"disabledfgcolor2_override"	"117 107 94 255"
 		}
-		
+
 		"AddBotButton"
 		{
 			"ControlName"	"CExButton"
@@ -731,7 +731,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 		}
-				
+
 		"BotSelectionComboBox"
 		{
 			"ControlName"		"ComboBox"
@@ -752,7 +752,7 @@
 			"maxchars"			"-1"
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
-			
+
 			"fgcolor_override"	"235 226 202 255"
 			"bgcolor_override"	"251 235 202 0"
 			"disabledFgColor_override" "117 107 94 0"
@@ -761,7 +761,7 @@
 			"selectionTextColor_override" "235 226 202 255"
 			"defaultSelectionBG2Color_override" "251 235 202 255"
 		}
-		
+
 		"KickAllBotsButton"
 		{
 			"ControlName"	"CExButton"
@@ -787,7 +787,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 		}
 	}
-	
+
 	"TestItemBotControls"
 	{
 		"fieldName"				"TestItemBotControls"
@@ -799,7 +799,7 @@
 		"tall"					"200"
 		"bgcolor_override"		"0 0 0 128"
 	}
-	
+
 	"ExportButton"
 	{
 		"ControlName"	"CExButton"
@@ -872,7 +872,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-	
+
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"
@@ -959,7 +959,7 @@
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-					
+
 			"image_armedcolor"	"235 226 202 255"
 			"image_drawcolor"	"235 226 202 255"
 			"image_selectedcolor"	"46 43 42 255"
@@ -976,10 +976,10 @@
 				"enabled"		"1"
 				"scaleImage"	"1"
 				"image"			"glyph_steamworkshop"
-			}		
+			}
 		}
 	}
-	
+
 	"ReloadSchemeButton"
 	{
 		"ControlName"	"CExButton"
