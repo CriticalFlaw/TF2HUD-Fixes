@@ -1,4 +1,4 @@
-event CompetitiveGame_LowerChatWindow
+vent CompetitiveGame_LowerChatWindow
 {
 	Animate HudChat ypos r140 Accel 0 0
 }
