@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudChat"
-		"visible" 		"0"
+		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"45"	[$X360]
