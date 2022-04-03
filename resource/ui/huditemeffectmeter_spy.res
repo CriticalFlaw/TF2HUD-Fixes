@@ -4,7 +4,6 @@
 {
 	HudItemEffectMeter
 	{
-		"x_offset"				"135"
-		"x_offset_minmode"		"0"
+		"x_offset"				"60"
 	}
 }
