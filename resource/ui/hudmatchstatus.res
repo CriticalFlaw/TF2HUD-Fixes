@@ -484,18 +484,9 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
-				"xpos"				"22"
-				"ypos"				"-3"
-				"zpos"				"3"
-				"wide"				"32"
-				"tall"				"32"
+				"xpos"				"9999"
 				"visible"			"0"
-				"enabled"			"1"
-				"HealthBonusPosAdj"	"10"
-				"HealthDeathWarning"		"0.49"
-				"TFFont"					"HudFontSmallest"
-				"HealthDeathWarningColor"	"HUDDeathWarning"
-				"TextColor"					"HudOffWhite"
+				"enabled"			"0"
 			}
 			"ReadyBG"
 			{
