@@ -134,9 +134,9 @@
 		"fieldName"		"MapLabel"
 		"font"			"HudFontSmall"
 		"font_hidef"		"HudFontMedium"
-		"xpos"			"r260"	[$WIN32]
+		"xpos"			"15"	[$WIN32]
 		"ypos"			"r44"	[$WIN32]
-		"xpos"			"r285"	[$X360]
+		"xpos"			"30"	[$X360]
 		"ypos"			"32"	[$X360]
 		"zpos"			"2"
 		"wide"			"240"	[$WIN32]
@@ -149,14 +149,14 @@
 		"visible_minmode"		"0"
 		"enabled"		"1"
 		"labelText"		"map: cp_bridge"
-		"textAlignment"		"east"
+		"textAlignment"		"west"
 	}
 	"ClassOrTeamLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ClassOrTeamLabel"
-		"xpos"			"r190"
-		"xpos_hidef"	"c-65"
+		"xpos"			"15"
+		"xpos_hidef"	"60"
 		"xpos_lodef"	"40"
 		"ypos"			"r25"
 		"ypos_hidef"	"90"
@@ -174,7 +174,7 @@
 		"visible"		"0"	[$X360]
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ChangeTeam"
-		"textAlignment"		"east"
+		"textAlignment"		"west"
 		"textAlignment_lodef"		"north-west"
 		"font"			"HudFontSmall"
 		"font_hidef"	"HudFontSmallest"
@@ -333,9 +333,9 @@
 		"tall_lodef"	"70"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"visible_minmode"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"labelText"		"%tip%"
 		"textAlignment"		"center"	[$WIN32]
 		"textAlignment"		"north-west"	[$X360]
