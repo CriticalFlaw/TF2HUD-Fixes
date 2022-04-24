@@ -119,7 +119,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"CloseButton"
 		"xpos"			"c-295"
-		"ypos"			"437"
+		"ypos"			"rs1-18"
 		"zpos"			"2"
 		"wide"			"100"
 		"tall"			"26"
