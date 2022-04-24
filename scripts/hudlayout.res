@@ -530,7 +530,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r640"	[$WIN32]
-		"ypos"	 "23"	[$WIN32]
+		"ypos"	 "37"	[$WIN32]
 		"xpos"	 "r672"	[$X360]
 		"ypos"	 "35"	[$X360]
 		"wide"	 "628"
