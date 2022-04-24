@@ -228,7 +228,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TFLogoImage"
-		"xpos"			"c-290"
+		"xpos"			"c-295"
 		"ypos"			"32"
 		"zpos"			"1"
 		"wide"			"256"
@@ -258,7 +258,7 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"cs-0.5-256"
+		"xpos"			"cs-0.5-261"
 		"ypos"			"cs-0.5-120"
 
 		"zpos"			"-51"
@@ -277,7 +277,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
-		"xpos"			"cs-0.5-44"
+		"xpos"			"cs-0.5-49"
 		"ypos"			"cs-0.5-134"
 		"wide"			"15"
 		"tall"			"15"
@@ -367,7 +367,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"NoGCMessage"
-		"xpos"			"c-290"
+		"xpos"			"c-295"
 		"ypos"			"94"
 		"zpos"			"-99"
 		"wide"			"260"
@@ -406,7 +406,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"RankBorder"
-		"xpos"			"c-290"
+		"xpos"			"c-295"
 		"ypos"			"94"
 		"zpos"			"-100"
 		"wide"			"260"
@@ -1285,7 +1285,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"VRBGPanel"
-		"xpos"			"c-290"
+		"xpos"			"c-295"
 		"ypos"			"373"
 		"zpos"			"-61"
 		"wide"			"260"
@@ -1377,7 +1377,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"c-290"
+		"xpos"			"c-295"
 		"ypos"			"290"
 		"zpos"			"5"
 		"wide"			"260"
@@ -1503,7 +1503,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"EventPromo"
-		"xpos"			"c-290"
+		"xpos"			"c-295"
 		"ypos"			"195"
 		"zpos"			"-50"
 		"wide"			"270"
@@ -1802,7 +1802,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"SafeMode"
-		"xpos"			"c-290"
+		"xpos"			"c-295"
 		"ypos"			"210"
 		"zpos"			"-50"
 		"wide"			"270"
