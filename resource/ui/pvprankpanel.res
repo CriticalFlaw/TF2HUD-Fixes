@@ -297,7 +297,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
-			"xpos"			"rs1-5"
+			"xpos"			"rs1-10"
 			"ypos"			"0"
 			"wide"			"f10"
 			"tall"			"100"
@@ -362,7 +362,7 @@
 				{
 					"Controlname"	"EditablePanel"
 					"fieldName"		"ProgressBarsContainer"
-					"xpos"			"0"
+					"xpos"			"5"
 					"ypos"			"rs1-10"
 					"wide"			"p1"
 					"tall"			"7"
