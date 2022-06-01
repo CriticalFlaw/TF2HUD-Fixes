@@ -308,6 +308,7 @@
 				"xpos"			"rs1-10"
 				"ypos"			"0"
 				"wide"			"p0.85"
+				"tall"			"f0"
 			}
 
 			"XPBar"
@@ -320,7 +321,12 @@
 				"tall"			"30"
 				"proportionaltoparent"	"1"
 
-	
+				"if_mini"
+				{
+					"xpos"		"cs-0.5"
+					"ypos"		"rs1-3"
+					"wide"		"p1"
+				}
 
 				"CurrentXPLabel"
 				{
