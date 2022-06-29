@@ -2359,7 +2359,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
-		"xpos"			"c-165"
+		"xpos"			"c-175"
 		"ypos"			"rs1-18"
 		"wide"			"100"
 		"tall"			"26"
