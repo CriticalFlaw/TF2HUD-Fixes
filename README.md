@@ -33,11 +33,13 @@
 - Fixed tooltips getting cutoff by the footer on the Item Selection screen.
 - Removed an [unknown] label seen while viewing another player's items in tournament spectator mode.
 - Removed unused labels for "style" and "paint" seen when previewing an map stamp in the store.
+- Removed the background panel seen when the match HUD is enabled.
 - Updated the placement of player panels in tournament spectator mode.
-- Updated certain item counters to use #base. Adjusted text placement.
+- Updated item meters and counters to use #base for easier management.
 - Updated the Replay screen's header and footer to match other main menu screens.
 - Updated the Item Testing screen to not overlap with the matchmaking dashboard.
 - Enabled being able to rotate the player model on the class selection screen.
+- Fixed a panel border (GrayDialogBorder) displaying the background screen around the corners.
 
 ---
 

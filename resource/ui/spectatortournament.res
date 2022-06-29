@@ -14,7 +14,7 @@
 		"team1_player_base_y"				"0"
 		"team1_player_delta_x"				"0"
 		"team1_player_delta_y"				"33"
-		"team2_player_base_offset_x"		"-378"
+		"team2_player_base_offset_x"		"-368"
 		"team2_player_base_y"				"0"
 		"team2_player_delta_x"				"0"
 		"team2_player_delta_y"				"33"
@@ -22,7 +22,7 @@
 		"playerpanels_kv"
 		{
 			"visible"		"0"
-			"wide"			"50"
+			"wide"			"60"
 			"tall"			"33"
 			"zpos"			"1"
 			
@@ -104,8 +104,8 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
-				"xpos"				"22"
-				"ypos"				"-3"
+				"xpos"				"27"
+				"ypos"				"-2"
 				"zpos"				"3"
 				"wide"				"32"
 				"tall"				"32"
@@ -195,8 +195,8 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
 				"font"			"DefaultSmall"
-				"xpos"			"25"
-				"ypos"			"17"
+				"xpos"			"33"
+				"ypos"			"18"
 				"zpos"			"6"
 				"wide"			"25"
 				"tall"			"15"
@@ -204,7 +204,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
-				"textAlignment"	"north"
+				"textAlignment"	"east"
 				"fgcolor"		"0 255 0 255"
 			}
 			
