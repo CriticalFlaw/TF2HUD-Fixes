@@ -1,9 +1,9 @@
 #base "huditemeffectmeter_demoman.res"
 
-"resource/ui/huditemeffectmeter_spy.res"
+"Resource/UI/HudItemEffectMeter_Spy.res"
 {
 	HudItemEffectMeter
 	{
-		"x_offset"				"60"
+		"xpos"			"r295"
 	}
 }

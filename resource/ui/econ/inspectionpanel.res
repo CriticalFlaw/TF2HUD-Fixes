@@ -300,6 +300,7 @@
 			}
 		} // Debug button
 
+
 		"ComboBoxValidPaintkits"
 		{
 			"ControlName"		"ComboBox"

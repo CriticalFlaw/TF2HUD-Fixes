@@ -1056,6 +1056,7 @@
 			"proportionaltoparent" "1"
 			"actionsignallevel"	"2"
 
+
 			"navUp"			"MOTD_CloseButton"
 			"navLeft"		"MOTD_PrevButton"
 			"navRight"		"MOTD_NextButton"
@@ -1880,6 +1881,7 @@
 				"depressedFgColor_override" "46 43 42 255"
 			}
 
+
 			"LeaveSafeModeButton"
 			{
 				"ControlName"	"CExButton"
@@ -1956,6 +1958,7 @@
 		}
 
 	} // SafeMode
+
 
 	"ShowPromoCodesButton"
 	{
@@ -2235,6 +2238,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
+
 			"paintbackground"	"1"
 
 			"defaultFgColor_override" "46 43 42 255"
@@ -2357,7 +2361,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
-		"xpos"			"c-165"
+		"xpos"			"c-175"
 		"ypos"			"rs1-18"
 		"wide"			"100"
 		"tall"			"26"
@@ -2823,6 +2827,7 @@
 			"scaleImage"	"1"
 		}
 	}
+
 
 	"BackToReplaysButton"
 	{

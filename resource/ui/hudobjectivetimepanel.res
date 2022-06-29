@@ -1,5 +1,5 @@
 "Resource/UI/HudObjectiveTimePanel.res"
-{
+{	
 	"TimePanelBG"
 	{
 		"ControlName"		"ScalableImagePanel"
@@ -18,8 +18,8 @@
 		"tall_lodef"	"38"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_blue_bg"
-		"scaleImage"		"1"
+		"image"			"../hud/objectives_timepanel_blue_bg"	
+		"scaleImage"		"1"	
 
 		if_match
 		{
@@ -36,11 +36,11 @@
 		"ypos"				"16"
 		"ypos_hidef"		"15"
 		"ypos_lodef"		"16"
-		"zpos"				"4"
+		"zpos"				"4"	
 		"wide"				"20"
 		"wide_lodef"		"25"
 		"tall"				"20"
-		"tall_lodef"		"25"
+		"tall_lodef"		"25"	
 		"visible"			"1"
 		"visible_minmode"	"0"
 		"enabled"			"1"
@@ -89,14 +89,13 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
-			"ypos"					"26"
-			"ypos_minmode"			"23"
+			"ypos"					"22"
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			"font_hidef"			"HudFontSmallestBold"
 			"font_lodef"			"HudFontSmallestBold"
 		}
-	}
+	}			
 	"WaitingForPlayersBG"
 	{
 		"ControlName"		"CTFImagePanel"
@@ -112,8 +111,8 @@
 		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_suddendeath"
-		"scaleImage"		"1"
+		"image"			"../hud/objectives_timepanel_suddendeath"	
+		"scaleImage"		"1"	
 
 		if_match
 		{
@@ -153,14 +152,13 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
-			"ypos"					"21"
-			"ypos_minmode"			"21"
+			"ypos"					"22"
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			"font_hidef"			"HudFontSmallestBold"
 			"font_lodef"			"HudFontSmallestBold"
 		}
-	}
+	}			
 	"OvertimeBG"
 	{
 		"ControlName"		"CTFImagePanel"
@@ -176,8 +174,8 @@
 		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_suddendeath"
-		"scaleImage"		"1"
+		"image"			"../hud/objectives_timepanel_suddendeath"	
+		"scaleImage"		"1"	
 
 		if_match
 		{
@@ -217,14 +215,13 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
-			"ypos"					"21"
-			"ypos_minmode"			"21"
+			"ypos"					"22"
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			"font_hidef"			"HudFontSmallestBold"
 			"font_lodef"			"HudFontSmallestBold"
 		}
-	}
+	}			
 	"SuddenDeathBG"
 	{
 		"ControlName"		"CTFImagePanel"
@@ -240,14 +237,14 @@
 		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_suddendeath"
-		"scaleImage"		"1"
+		"image"			"../hud/objectives_timepanel_suddendeath"	
+		"scaleImage"		"1"	
 
 		if_match
 		{
 			"wide"	"0"
 		}
-	}
+	}	
 	"SetupLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -283,13 +280,12 @@
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
 			"ypos"					"22"
-			"ypos_minmode"			"21"
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			"font_hidef"			"HudFontSmallestBold"
 			"font_lodef"			"HudFontSmallestBold"
 		}
-	}
+	}	
 	"SetupBG"
 	{
 		"ControlName"		"CTFImagePanel"
@@ -305,8 +301,8 @@
 		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_suddendeath"
-		"scaleImage"		"1"
+		"image"			"../hud/objectives_timepanel_suddendeath"	
+		"scaleImage"		"1"	
 
 		if_match
 		{
@@ -347,14 +343,13 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
-			"ypos"					"21"
-			"ypos_minmode"			"21"
+			"ypos"					"22"
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			"font_hidef"			"HudFontSmallestBold"
 			"font_lodef"			"HudFontSmallestBold"
 		}
-	}
+	}	
 	"ServerTimeLimitLabelBG"
 	{
 		"ControlName"		"CTFImagePanel"
@@ -370,12 +365,12 @@
 		"tall_minmode"	"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_suddendeath"
+		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"
-
+		
 		if_match
 		{
 			"wide"	"0"
-		}
+		}	
 	}
 }

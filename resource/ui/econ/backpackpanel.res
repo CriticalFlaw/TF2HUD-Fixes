@@ -93,6 +93,7 @@
 			}
 		}
 
+
 		"modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -329,6 +330,7 @@
 		"defaultSelectionBG2Color_override" "0 0 0 0"
 	}
 
+
 	"mouseoveritempanel"
 	{
 		"ControlName"	"CItemModelPanel"
@@ -517,8 +519,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelApplyToolButton"
-		"xpos"			"c-288"
-		"ypos"			"337"
+		"xpos"			"c-295"
+		"ypos"			"335"
 		"zpos"			"20"
 		"wide"			"100"
 		"tall"			"25"
@@ -537,6 +539,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+
 
 	"ShowExplanationsButton"
 	{

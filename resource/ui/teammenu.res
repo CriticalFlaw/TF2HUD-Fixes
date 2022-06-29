@@ -87,7 +87,6 @@
 		"team"				"3"		// team blue
 		"associated_model"	"bluedoor"
 		"hover"				"2.0"
-		"textinsetx"		"10"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"255 255 255 255"
 	}
@@ -116,7 +115,6 @@
 		"team"				"2"		// team red
 		"associated_model"	"reddoor"
 		"hover"				"2.0"
-		"textinsetx"		"10"
 		"font"			"MenuMainTitle"
 		"fgcolor"		"255 255 255 255"
 	}
@@ -772,3 +770,4 @@
 		"scaleImage"	"1"
 	}
 }
+

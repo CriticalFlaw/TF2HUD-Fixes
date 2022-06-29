@@ -105,6 +105,7 @@
 		"fgcolor"		"Black"
 		"proportionaltoparent"	"1"
 
+
 		if_readymode
 		{
 			"xpos"			"300"
@@ -363,6 +364,7 @@
 		"tall"			"75"
 		"visible"		"1"
 		"enabled"		"1"
+
 
 		"max_size"	"19"
 

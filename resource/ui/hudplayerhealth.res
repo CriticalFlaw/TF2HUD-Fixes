@@ -301,6 +301,7 @@
 		"fgcolor"		"TanDark"
 	}
 
+
 	"PlayerStatus_WheelOfDoom"
 	{
 		"ControlName"	"ImagePanel"

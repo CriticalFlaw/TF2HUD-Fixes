@@ -973,6 +973,7 @@
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
+
 			"LOD0Label"
 			{
 				"ControlName"		"Label"
@@ -1810,6 +1811,7 @@
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
 
+
 			"AnimationSourceLabel"
 			{
 				"ControlName"		"Label"
@@ -1931,6 +1933,7 @@
 			"visible"		"1"
 			"paintbackground" "0"
 			"border"				"SteamWorkshopBorder"
+
 
 			"AnimationVCDLabel"
 			{

@@ -768,6 +768,7 @@
 		"enabled"		"1"
 		"image"			"../HUD/tournament_panel_brown"
 
+
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
 

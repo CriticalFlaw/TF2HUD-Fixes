@@ -11,11 +11,11 @@
 		"enabled"		"1"
 
 		"team1_player_base_offset_x"	"0"
-		"team1_player_base_y"			"35"
+		"team1_player_base_y"			"0"
 		"team1_player_delta_x"			"0"
 		"team1_player_delta_y"			"33"
 		"team2_player_base_offset_x"	"-368"
-		"team2_player_base_y"			"35"
+		"team2_player_base_y"			"0"
 		"team2_player_delta_x"			"0"
 		"team2_player_delta_y"			"33"
 
@@ -249,7 +249,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"TopBar"
 		"visible"		"0"
-		"tall"			"33"
+		"tall"			"0"
 	}
 	"BottomBar"
 	{
