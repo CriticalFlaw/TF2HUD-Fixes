@@ -16,8 +16,10 @@
 - Added back the passive attributes label to the Loadout screen.
 - Added minmode UI for Capture the Flag, Player Destruction and PASS Time.
 - Added missing font definitions to **resources/clientscheme.res**.
+- Enabled being able to rotate the player model on the class selection screen.
 - Fixed Backpack screen header not displaying properly when applying a tool to an item.
 - Fixed Scout and Soldier labels not changing color when hovered over on the Class Selection screen.
+- Fixed a panel border (GrayDialogBorder) displaying the background screen around the corners.
 - Fixed console errors related to missing **huditemeffectmeter_action.res** and **menu_thumb_missing.vmt** files.
 - Fixed disguise panel overlapping the MvM cash counter and the spells panel in minmode.
 - Fixed item containers on the quickswitch panel appearing misaligned.
@@ -32,14 +34,12 @@
 - Fixed the tournament setup panels not using localized text.
 - Fixed tooltips getting cutoff by the footer on the Item Selection screen.
 - Removed an [unknown] label seen while viewing another player's items in tournament spectator mode.
-- Removed unused labels for "style" and "paint" seen when previewing an map stamp in the store.
 - Removed the background panel seen when the match HUD is enabled.
-- Updated the placement of player panels in tournament spectator mode.
+- Removed unused labels for "style" and "paint" seen when previewing an map stamp in the store.
 - Updated item meters and counters to use #base for easier management.
-- Updated the Replay screen's header and footer to match other main menu screens.
 - Updated the Item Testing screen to not overlap with the matchmaking dashboard.
-- Enabled being able to rotate the player model on the class selection screen.
-- Fixed a panel border (GrayDialogBorder) displaying the background screen around the corners.
+- Updated the Replay screen's header and footer to match other main menu screens.
+- Updated the placement of player panels in tournament spectator mode.
 
 ---
 
@@ -52,10 +52,7 @@
 - Added shortcut keys for navigating between multiple screens.
 - Added support for [Hypnootize's Crosshair Pack](https://github.com/Hypnootize/TF2-Hud-Crosshairs) (enabled in **scripts/hudlayout.res**).
 - Added support for transparent viewmodels (also enabled in **scripts/hudlayout.res**).
-- Fixed the Engineer's destruction menu not being vertically aligned with the build menu.
-- Player model on the Loadout and Class Selection screens can now be manipulated.
-- Removed the background panel seen when the match HUD is enabled.
+- Player model on the Loadout screen can now be manipulated.
 - Updated item icons to use higher quality images.
-- Updated item meters and counters to use #base for easier management.
 - Updated the look of damage numbers, player health, spectator view and the killfeed.
 - Visual changes throughout the HUD for better visual consistency.
