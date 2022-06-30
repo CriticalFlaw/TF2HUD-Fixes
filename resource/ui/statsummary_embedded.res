@@ -86,7 +86,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"	"StatData"
-		"xpos"		"0"
+		"xpos"		"-1"
 		"ypos"		"-130"
 		"zpos"		"1"
 		"wide"		"f0"
