@@ -991,6 +991,18 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"HudFontSmallOutline"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"14"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
 		"HudFontSmallBoldShadow"
 		{
 			"1"
