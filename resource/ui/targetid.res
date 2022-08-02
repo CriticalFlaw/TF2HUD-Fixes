@@ -140,16 +140,17 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"AmmoIcon"
-		"xpos"			"60"
-		"xpos_minmode"	"38"
+		"xpos"			"63"
 		"ypos"			"20"
-		"ypos_minmode"	"16"
+		"ypos_minmode"	"17"
 		"zpos"			"12"
 		"wide"			"10"
 		"tall"			"10"
+		"wide_minmode"	"7"
+		"tall_minmode"	"7"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/leaderboard_class_heavy"
+		"image"			"../hud/hud_obj_status_ammo_64"
 		"scaleImage"	"1"
 	}
 	
