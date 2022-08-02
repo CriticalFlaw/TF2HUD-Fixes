@@ -10,11 +10,11 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 
-		"team1_player_base_offset_x"	"0"
+		"team1_player_base_offset_x"	"-325"
 		"team1_player_base_y"			"0"
 		"team1_player_delta_x"			"0"
 		"team1_player_delta_y"			"33"
-		"team2_player_base_offset_x"	"-368"
+		"team2_player_base_offset_x"	"0"
 		"team2_player_base_y"			"0"
 		"team2_player_delta_x"			"0"
 		"team2_player_delta_y"			"33"
@@ -239,8 +239,6 @@
 			"ypos"					"6"
 			"wide"					"500"
 			"tall"					"180"
-
-			"team1_player_delta_x"			"52"
 		}
 	}
 
