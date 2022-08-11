@@ -136,8 +136,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
+		"ypos"			"r21"	[$WIN32]
 		"ypos_minmode"	"r30"	[$WIN32]
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
@@ -245,7 +245,7 @@
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"r154"	[$WIN32]
 		"ypos"					"r152"	[$WIN32]
-		"xpos_minmode"			"r122"	[$WIN32]
+		"xpos_minmode"			"r130"	[$WIN32]
 		"ypos_minmode"			"r134"	[$WIN32]
 		"xpos"					"r194"	[$X360]
 		"ypos"					"r174"	[$X360]
