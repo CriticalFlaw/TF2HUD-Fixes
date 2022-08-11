@@ -10,19 +10,19 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 				
-		"team1_player_base_offset_x"		"0"
+		"team1_player_base_offset_x"		"-75"
 		"team1_player_base_y"				"0"
-		"team1_player_delta_x"				"0"
-		"team1_player_delta_y"				"33"
-		"team2_player_base_offset_x"		"-368"
+		"team1_player_delta_x"				"-47"
+		"team1_player_delta_y"				"0"
+		"team2_player_base_offset_x"		"25"
 		"team2_player_base_y"				"0"
-		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"33"
+		"team2_player_delta_x"				"47"
+		"team2_player_delta_y"				"0"
 		
 		"playerpanels_kv"
 		{
 			"visible"		"0"
-			"wide"			"60"
+			"wide"			"50"
 			"tall"			"33"
 			"zpos"			"1"
 			
@@ -104,7 +104,7 @@
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
-				"xpos"				"27"
+				"xpos"				"22"
 				"ypos"				"-2"
 				"zpos"				"3"
 				"wide"				"32"
@@ -195,8 +195,8 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
 				"font"			"DefaultSmall"
-				"xpos"			"33"
-				"ypos"			"18"
+				"xpos"			"22"
+				"ypos"			"19"
 				"zpos"			"6"
 				"wide"			"25"
 				"tall"			"15"
@@ -249,7 +249,7 @@
 		"ControlName"	"Panel"
 		"fieldName"		"TopBar"
 		"visible"		"0"
-		"tall"			"0"
+		"tall"			"33"
 	}
 	"BottomBar"
 	{
