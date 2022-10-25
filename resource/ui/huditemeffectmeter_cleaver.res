@@ -20,10 +20,12 @@
 	"ItemEffectMeterLabel"
 	{
 		"xpos"				"30"
+		"ypos"				"25"
 	}
 
 	"ItemEffectMeter"
 	{
 		"xpos"				"34"
+		"ypos"				"23"
 	}
 }
