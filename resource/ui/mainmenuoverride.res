@@ -2761,8 +2761,8 @@
 		"fieldName"		"ReplayButton"
 		"xpos"			"c-34+273"
 		"ypos"			"437"
-		"zpos"			"5"
-		"wide"			"25"
+		"zpos"			"4"
+		"wide"			"30"
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"3"
@@ -2802,11 +2802,73 @@
 		}
 	}
 
+	"ConsoleButton"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"ConsoleButton"
+		"xpos"			"c-8+273"
+		"ypos"			"437"
+		"zpos"			"5"
+		"wide"			"25"
+		"tall"			"25"
+		"visible"		"1"
+
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"p1"
+			"tall"			"25"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"textinsetx"	"100"
+			"use_proportional_insets" "1"
+			"font"			"HudFontSmallBold"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			
+			"border_default"	"MainMenuSubButtonBorder"
+			"paintbackground"	"1"
+
+			"defaultFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "46 43 42 255"
+			"depressedFgColor_override" "46 43 42 255"
+
+			"image_drawcolor"	"235 226 202 255"
+			"proportionaltoparent"	"1"
+			
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"cs-0.5"
+				"ypos"			"cs-0.5"
+				"zpos"			"1"
+				"wide"			"15"
+				"tall"			"15"
+				"visible"		"1"
+				"enabled"		"1"
+				"image"			"glyph_vr"
+				"scaleImage"	"1"
+				"proportionaltoparent"	"1"
+			}
+		}
+	}
+
 	"ReportBugButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ReportBugButton"
-		"xpos"			"c-14+273"
+		"xpos"			"c14+273"
 		"ypos"			"437"
 		"zpos"			"4"
 		"wide"			"30"
