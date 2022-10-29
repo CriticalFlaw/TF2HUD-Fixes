@@ -155,9 +155,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
+		"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		"ypos_minmode"	"r30"	[$WIN32]
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
@@ -1085,9 +1085,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r158"	[$WIN32]
-		"xpos_minmode"	"r110"	[$WIN32]
+		"xpos_minmode"	"r120"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		"ypos_minmode"	"r33"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"
