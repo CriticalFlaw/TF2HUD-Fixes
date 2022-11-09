@@ -37,7 +37,7 @@
 				"xpos"			"5"
 				"ypos"			"24"
 				"zpos"			"5"
-				"wide"			"35"
+				"wide"			"55"
 				"tall"			"8"
 				"autoResize"	"0"
 				"pinCorner"		"0"
@@ -45,15 +45,6 @@
 				"labelText"		"%playername%"
 				"textAlignment"	"north-west"
 				//"fgcolor"		"235 226 202 255"
-
-				if_mvm
-				{
-					"xpos"				"0"
-					"ypos"				"25"
-					"wide"				"55"
-					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
-				}
 			}
 
 			"classimage"
@@ -186,7 +177,7 @@
 
 				if_mvm
 				{
-					"ypos"			"17"
+					"xpos"			"35"
 				}
 			}
 
@@ -224,12 +215,6 @@
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
 				//"fgcolor"		"235 226 202 255"
-			}
-
-			if_mvm
-			{
-				"wide"		"55"
-				"tall"		"35"
 			}
 		}
 
@@ -282,10 +267,7 @@
 
 		if_mvm
 		{
-			"xpos"			"c-190"
 			"ypos"			"1"
-			"wide"			"380"
-			"textAlignment"		"center"
 		}
 	}
 	"BuyBackLabel"
