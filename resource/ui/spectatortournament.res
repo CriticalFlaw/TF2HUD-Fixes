@@ -253,45 +253,35 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"c-150"
-		"ypos"			"32"
-		"wide"			"300"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
 		"tall"			"18"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
-		"textAlignment"		"center"
+		"textAlignment"		"east"
 		"font"			"HudFontSmall"
-
-		if_mvm
-		{
-			"ypos"			"1"
-		}
 	}
 	"BuyBackLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BuyBackLabel"
-		"xpos"			"c-190"
+		"xpos"			"0"
 		"ypos"			"16"
-		"wide"			"380"
+		"wide"			"f0"
 		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#TF_PVE_Buyback"
-		"textAlignment"	"center"
+		"textAlignment"	"east"
 		"font"			"HudFontSmall"
-		"wrap"			"1"
-		"centerwrap"	"1"
-
-		if_mvm
-		{
-			"visible"		"1"
-		}
+		"wrap"			"0"
+		"centerwrap"	"0"
 	}
 	"MapLabel"
 	{
