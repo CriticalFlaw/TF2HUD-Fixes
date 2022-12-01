@@ -94,3 +94,7 @@ event TeamStatus_PlayerAlive
 {
 	SetVisible	respawntime	0	0.2
 }
+//==================================================================================
+
+event RDPositiveScorePulse { }
+event RDNegativeScorePulse { }
