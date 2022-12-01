@@ -14,7 +14,7 @@
 ### Workshop Pack
 *This pack corrects multiple reported issues with the default TF2 HUD. These have been submitted to the Steam Workshop for Valve's consideration.*
 - Added back the passive attributes label to the Loadout screen.
-- Added minmode UI for Capture the Flag, Player Destruction and PASS Time.
+- Added minmode UI for Capture the Flag and PASS Time.
 - Added missing font definitions to **resources/clientscheme.res**.
 - Enabled being able to rotate the player model on the class selection screen.
 - Fixed Backpack screen header not displaying properly when applying a tool to an item.
@@ -50,6 +50,7 @@
 - Added matchmaking stats to the main menu. (Thank you to Jofre-Problem for the original change).
 - Added player avatars to the in-game voice chat indicator.
 - Added shortcut keys for navigating between multiple screens.
+- Added minmode UI for Player Destruction mode.
 - Added support for [Hypnootize's Crosshair Pack](https://github.com/Hypnootize/TF2-Hud-Crosshairs) (enabled in **scripts/hudlayout.res**).
 - Added support for transparent viewmodels (also enabled in **scripts/hudlayout.res**).
 - Player model on the Loadout screen can now be manipulated.
