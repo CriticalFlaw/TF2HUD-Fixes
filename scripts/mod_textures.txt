@@ -3113,8 +3113,8 @@
 				"dnegfile"	"vgui/logos/ImprovedKillIcons/dneg2"
 				"x"		"129"
 				"y"		"133"
-				"width"		"96"
-				"height"	"32"
+				"width"		"79"
+				"height"	"26"
 		}
 		"snack_attack"
 		{
