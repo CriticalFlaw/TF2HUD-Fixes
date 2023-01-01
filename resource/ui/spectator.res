@@ -14,19 +14,6 @@
 	"specgui"
 	{
 	}
-	"HeaderBG"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"HeaderBG"
-		"xpos"			"0"
-		"ypos"			"r60"
-		"wide"			"f0"
-		"tall"			"60"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"		"0 0 0 200"
-		"PaintBackgroundType"	"0"
-	}
 	"topbar"
 	{
 		"ControlName"		"Panel"

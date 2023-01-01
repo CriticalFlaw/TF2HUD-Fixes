@@ -7,10 +7,11 @@
 		"enabled"		"1"
 		"xpos"			"r215"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"xpos_minmode"	"r175"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		"xpos_minmode"	"r180"	[$WIN32]
+		"ypos_minmode"	"r38"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
+		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"

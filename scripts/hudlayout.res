@@ -44,7 +44,7 @@
 	}
 	//--------------------------------------------------------------
 
-	HudPlayerStatus
+	"HudPlayerStatus"
 	{
 		"fieldName" "HudPlayerStatus"
 		"visible" "1"
@@ -55,7 +55,7 @@
 		"tall"	"480"
 	}
 
-	HudWeaponAmmo
+	"HudWeaponAmmo"
 	{
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
@@ -70,7 +70,7 @@
 		"tall"	"45"
 	}
 
-	HudObjectiveStatus
+	"HudObjectiveStatus"
 	{
 		"fieldName" "HudObjectiveStatus"
 		"visible" "1"
@@ -81,7 +81,7 @@
 		"tall"	"480"
 	}
 
-	HudKothTimeStatus
+	"HudKothTimeStatus"
 	{
 		"fieldName" "HudKothTimeStatus"
 		"visible" "1"
@@ -98,7 +98,7 @@
 		"red_active_xpos_minmode"	"105"
 	}
 
-	HudItemEffectMeter
+	"HudItemEffectMeter"
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
@@ -115,7 +115,7 @@
 		"MeterBG"		"Gray"
 	}
 
-	HudMedicCharge
+	"HudMedicCharge"
 	{
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
@@ -130,7 +130,7 @@
 		"tall"			"100"
 	}
 
-	HudDemomanCharge
+	"HudDemomanCharge"
 	{
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
@@ -149,7 +149,7 @@
 		"MeterBG"		"Gray"
 	}
 
-	HudBowCharge
+	"HudBowCharge"
 	{
 		"fieldName"		"HudBowCharge"
 		"visible"		"1"
@@ -168,7 +168,7 @@
 		"MeterBG"		"Gray"
 	}
 
-	HudFlameRocketCharge
+	"HudFlameRocketCharge"
 	{
 		"fieldName"		"HudFlameRocketCharge"
 		"visible"		"1"
@@ -187,7 +187,7 @@
 		"MeterBG"		"Gray"
 	}
 
-	HudBossHealth
+	"HudBossHealth"
 	{
 		"fieldName"		"HudBossHealth"
 		"visible"		"1"
@@ -201,7 +201,7 @@
 		"MeterBG"		"Gray"
 	}
 
-	HudWeaponSelection
+	"HudWeaponSelection"
 	{
 		"fieldName" "HudWeaponSelection"
 		"xpos"	"0"
@@ -240,7 +240,7 @@
 		"NumberFont" "HudSelectionText"
 	}
 
-	CHudAccountPanel
+	"CHudAccountPanel"
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"r154"	[$WIN32]
@@ -256,7 +256,7 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	CHealthAccountPanel
+	"CHealthAccountPanel"
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"76"
@@ -270,7 +270,7 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	CDamageAccountPanel
+	"CDamageAccountPanel"
 	{
 		"fieldName"				"CDamageAccountPanel"
 		"xpos"					"0"
@@ -282,8 +282,7 @@
 		"PaintBackgroundType"	"2"
 	}
 
-
-	DisguiseStatus
+	"DisguiseStatus"
 	{
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
@@ -298,7 +297,7 @@
 		"TextFont"	"Default"	[$X360]
 	}
 
-	CMainTargetID
+	"CMainTargetID"
 	{
 		"fieldName" 	"CMainTargetID"
 		"visible" 	"0"
@@ -311,14 +310,14 @@
 		"priority"	"40"
 		"priority_lodef"	"5"
 
-		if_vr
+		"if_vr"
 		{
 			"ypos"		"370"
 			"x_offset"	"20"
 		}
 	}
 
-	CSpectatorTargetID
+	"CSpectatorTargetID"
 	{
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"0"
@@ -335,7 +334,7 @@
 		"y_offset" "20"
 	}
 
-	CSecondaryTargetID
+	"CSecondaryTargetID"
 	{
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
@@ -347,7 +346,7 @@
 		"tall_minmode"	 	"28"
 		"priority"	"35"
 
-		if_vr
+		"if_vr"
 		{
 			"ypos"		"330"
 			"x_offset"	"20"
@@ -355,7 +354,7 @@
 
 	}
 
-	BuildingStatus_Spy
+	"BuildingStatus_Spy"
 	{
 		"fieldName" "BuildingStatus_Spy"
 		"visible"	"1"
@@ -370,7 +369,7 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	BuildingStatus_Engineer
+	"BuildingStatus_Engineer"
 	{
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
@@ -387,7 +386,7 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	HudMannVsMachineStatus
+	"HudMannVsMachineStatus"
 	{
 		"fieldName" "HudMannVsMachineStatus"
 		"visible"	"1"
@@ -401,7 +400,7 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	CurrencyStatusPanel
+	"CurrencyStatusPanel"
 	{
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
@@ -417,7 +416,7 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	HudProgressBar
+	"HudProgressBar"
 	{
 		"fieldName" "HudProgressBar"
 		"xpos"	"c-150"
@@ -432,7 +431,7 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	HudRoundTimer
+	"HudRoundTimer"
 	{
 		"fieldName" "HudRoundTimer"
 		"xpos"	"c-20"
@@ -452,7 +451,7 @@
 		"digit_ypos"	"2"
 	}
 
-	HudScenarioIcon
+	"HudScenarioIcon"
 	{
 		"fieldName" "HudScenarioIcon"
 		"xpos"	"c110"
@@ -467,7 +466,7 @@
 		"IconColor"				"Hostage_Yellow"
 	}
 
-	HudFlashlight
+	"HudFlashlight"
 	{
 		"fieldName" "HudFlashlight"
 		"visible" "1"
@@ -484,12 +483,12 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	HudDamageIndicator
+	"HudDamageIndicator"
 	{
 
 	}
 
-	HudCommentary
+	"HudCommentary"
 	{
 		"fieldName" "HudCommentary"
 		"xpos"	"c-190"
@@ -520,7 +519,7 @@
 		"use_script_bgcolor"	"1"
 	}
 
-	HudZoom
+	"HudZoom"
 	{
 		"fieldName" "HudZoom"
 		"visible" "1"
@@ -532,7 +531,7 @@
 		"BorderThickness" "88"
 	}
 
-	HudCrosshair
+	"HudCrosshair"
 	{
 		"fieldName" "HudCrosshair"
 		"visible" "1"
@@ -541,7 +540,7 @@
 		"tall"	 "480"
 	}
 
-	HudDeathNotice
+	"HudDeathNotice"
 	{
 		"fieldName" "HudDeathNotice"
 		"visible" "1"
@@ -573,7 +572,7 @@
 		"LocalBackgroundColor"	"0 0 0 255"		[$X360]
 	}
 
-	HudVehicle
+	"HudVehicle"
 	{
 		"fieldName" "HudVehicle"
 		"visible" "1"
@@ -582,7 +581,7 @@
 		"tall"	 "480"
 	}
 
-	CVProfPanel
+	"CVProfPanel"
 	{
 		"fieldName" "CVProfPanel"
 		"visible" "1"
@@ -591,7 +590,7 @@
 		"tall"	 "480"
 	}
 
-	ScorePanel
+	"ScorePanel"
 	{
 		"fieldName" "ScorePanel"
 		"visible" "1"
@@ -600,7 +599,7 @@
 		"tall"	 "480"
 	}
 
-	HudTrain
+	"HudTrain"
 	{
 		"fieldName" "HudTrain"
 		"visible" "1"
@@ -609,7 +608,7 @@
 		"tall"	 "480"
 	}
 
-	HudMOTD
+	"HudMOTD"
 	{
 		"fieldName" "HudMOTD"
 		"visible" "1"
@@ -618,7 +617,7 @@
 		"tall"	 "480"
 	}
 
-	HudMessage
+	"HudMessage"
 	{
 		"fieldName" "HudMessage"
 		"visible" "1"
@@ -627,7 +626,7 @@
 		"tall"	 "480"
 	}
 
-	HudMenu
+	"HudMenu"
 	{
 		"fieldName" "HudMenu"
 		"visible" "1"
@@ -641,7 +640,7 @@
 		"ItemFontPulsing"		"Default"
 	}
 
-	HudSpellMenu
+	"HudSpellMenu"
 	{
 		"fieldName" "HudSpellMenu"
 		"visible" "1"
@@ -657,7 +656,7 @@
 		"ItemFontPulsing"		"Default"
 	}
 
-	HudCloseCaption
+	"HudCloseCaption"
 	{
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
@@ -678,7 +677,7 @@
 		"topoffset"		"0"
 	}
 
-	HudHistoryResource
+	"HudHistoryResource"
 	{
 		"fieldName" "HudHistoryResource"
 		"visible" "0"
@@ -690,7 +689,7 @@
 		"history_gap" "55"
 	}
 
-	HudGeiger
+	"HudGeiger"
 	{
 		"fieldName" "HudGeiger"
 		"visible" "1"
@@ -699,7 +698,7 @@
 		"tall"	 "480"
 	}
 
-	HUDQuickInfo
+	"HUDQuickInfo"
 	{
 		"fieldName" "HUDQuickInfo"
 		"visible" "1"
@@ -708,7 +707,7 @@
 		"tall"	 "480"
 	}
 
-	HudWeapon
+	"HudWeapon"
 	{
 		"fieldName" "HudWeapon"
 		"visible" "1"
@@ -716,7 +715,8 @@
 		"wide"	 "640"
 		"tall"	 "480"
 	}
-	HudAnimationInfo
+	
+	"HudAnimationInfo"
 	{
 		"fieldName" "HudAnimationInfo"
 		"visible" "1"
@@ -724,7 +724,8 @@
 		"wide"	 "640"
 		"tall"	 "480"
 	}
-	CBudgetPanel
+	
+	"CBudgetPanel"
 	{
 		"fieldName" "CBudgetPanel"
 		"visible" "1"
@@ -732,7 +733,8 @@
 		"wide"	 "640"
 		"tall"	 "480"
 	}
-	CTextureBudgetPanel
+	
+	"CTextureBudgetPanel"
 	{
 		"fieldName" "CTextureBudgetPanel"
 		"visible" "1"
@@ -741,7 +743,7 @@
 		"tall"	 "480"
 	}
 
-	HudPredictionDump
+	"HudPredictionDump"
 	{
 		"fieldName" "HudPredictionDump"
 		"visible" "1"
@@ -750,8 +752,7 @@
 		"tall"	 "1024"
 	}
 
-
-	HudLocation
+	"HudLocation"
 	{
 		"fieldName" "HudLocation"
 		"visible"	"1"
@@ -763,7 +764,7 @@
 		"textAlignment"	"north"
 	}
 
-	HudScope
+	"HudScope"
 	{
 		"fieldName" "HudScope"
 		"visible" "1"
@@ -772,7 +773,7 @@
 		"tall"	 "480"
 	}
 
-	HudScopeCharge
+	"HudScopeCharge"
 	{
 		"fieldName" "HudScopeCharge"
 		"visible" "1"
@@ -783,7 +784,7 @@
 		"tall"	 "128"
 	}
 
-	HudVoiceSelfStatus
+	"HudVoiceSelfStatus"
 	{
 		"fieldName" "HudVoiceSelfStatus"
 		"visible" "1"
@@ -796,7 +797,7 @@
 		"tall" "32"
 	}
 
-	HudVoiceStatus
+	"HudVoiceStatus"
 	{
 		"fieldName" "HudVoiceStatus"
 		"visible" "1"
@@ -829,7 +830,7 @@
 		"text_xpos"			"33"
 	}
 
-	HudHintDisplay
+	"HudHintDisplay"
 	{
 		"fieldName"				"HudHintDisplay"
 		"visible"				"0"
@@ -845,7 +846,7 @@
 		"center_y"				"-1"	// align text on the bottom
 	}
 
-	HudHintKeyDisplay
+	"HudHintKeyDisplay"
 	{
 		"fieldName"	"HudHintKeyDisplay"
 		"visible"	"0"
@@ -863,7 +864,7 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	overview
+	"overview"
 	{
 		"fieldname" "overview"
 		"visible"	"1"
@@ -874,7 +875,7 @@
 		"tall"	"480"
 	}
 
-	VguiScreenCursor
+	"VguiScreenCursor"
 	{
 		"fieldName" "VguiScreenCursor"
 		"visible" "1"
@@ -883,7 +884,7 @@
 		"tall"	 "480"
 	}
 
-	HudControlPointIcons
+	"HudControlPointIcons"
 	{
 		"fieldName"				"HudControlPointIcons"
 		"xpos"					"0"
@@ -898,7 +899,7 @@
 		"height_offset"			"26"	[$X360]
 	}
 
-	HudCapturePanel
+	"HudCapturePanel"
 	{
 		"fieldName"				"HudCapturePanel"
 		"xpos"					"c-75"
@@ -910,17 +911,17 @@
 		"icon_space"			"2"
 	}
 
-	HUDAutoAim
+	"HUDAutoAim"
 	{
 
 	}
 
-	HudHDRDemo
+	"HudHDRDemo"
 	{
 
 	}
 
-	WinPanel
+	"WinPanel"
 	{
 		"fieldName"				"WinPanel"
 		"visible"				"1"
@@ -933,7 +934,7 @@
 		"proportionaltoparent"	"1"
 	}
 
-	ArenaWinPanel
+	"ArenaWinPanel"
 	{
 		"fieldName"				"ArenaWinPanel"
 		"visible"				"1"
@@ -944,7 +945,7 @@
 		"tall"					"218"
 	}
 
-	PVEWinPanel
+	"PVEWinPanel"
 	{
 		"fieldName"				"PVEWinPanel"
 		"visible"				"1"
@@ -955,7 +956,7 @@
 		"tall"					"215"
 	}
 
-	StatPanel
+	"StatPanel"
 	{
 		"fieldName"				"StatPanel"
 		"visible"				"1"
@@ -970,7 +971,7 @@
 		"tall_lodef"			"190"
 	}
 
-	FreezePanel
+	"FreezePanel"
 	{
 		"fieldName"				"FreezePanel"
 		"visible"				"1"
@@ -981,7 +982,7 @@
 		"tall"					"480"
 	}
 
-	FreezePanelCallout
+	"FreezePanelCallout"
 	{
 		"fieldName"				"FreezePanelCallout"
 		"visible"				"1"
@@ -992,7 +993,7 @@
 		"tall"					"50"
 	}
 
-	AnnotationsPanelCallout
+	"AnnotationsPanelCallout"
 	{
 		"fieldName"			"AnnotationsPanelCallout"
 		"visible"				"1"
@@ -1003,12 +1004,12 @@
 		"tall"					"50"
 	}
 
-	AnnotationsPanel
+	"AnnotationsPanel"
 	{
 
 	}
 
-	WaitingForPlayersPanel
+	"WaitingForPlayersPanel"
 	{
 		"fieldName"				"WaitingForPlayersPanel"
 		"visible"				"0"
@@ -1095,22 +1096,22 @@
 		"PaintBackgroundType"	"0"
 	}
 
-	HudDemomanPipes
+	"HudDemomanPipes"
 	{
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r158"	[$WIN32]
-		"xpos_minmode"	"r120"	[$WIN32]
+		"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r33"	[$WIN32]
+		"ypos_minmode"	"r38"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"
 		"tall"			"50"
 	}
 
-	HudTeamGoal
+	"HudTeamGoal"
 	{
 		"fieldName"				"HudTeamGoal"
 		"visible"				"1"
@@ -1122,8 +1123,7 @@
 		"tall"					"100"
 	}
 
-
-	HudTeamGoalTournament
+	"HudTeamGoalTournament"
 	{
 		"fieldName"				"HudTeamGoalTournament"
 		"visible"				"1"
@@ -1135,7 +1135,7 @@
 		"tall"					"300"
 	}
 
-	HudTeamSwitch
+	"HudTeamSwitch"
 	{
 		"fieldName"				"HudTeamSwitch"
 		"visible"				"0"
@@ -1148,7 +1148,7 @@
 		"tall"					"100"
 	}
 
-	HudArenaNotification
+	"HudArenaNotification"
 	{
 		"fieldName"				"HudArenaNotification"
 		"visible"				"0"
@@ -1161,7 +1161,7 @@
 		"tall"					"150"
 	}
 
-	HudArenaCapPointCountdown
+	"HudArenaCapPointCountdown"
 	{
 		"fieldName"				"HudArenaCapPointCountdown"
 		"visible"				"1"
@@ -1173,7 +1173,7 @@
 		"zpos"					"99"
 	}
 
-	HudStalemate
+	"HudStalemate"
 	{
 		"fieldName"				"HudStalemate"
 		"visible"				"0"
@@ -1184,7 +1184,8 @@
 		"wide"					"320"
 		"tall"					"100"
 	}
-	HudTournament
+	
+	"HudTournament"
 	{
 		"fieldName"				"HudTournament"
 		"visible"				"0"
@@ -1197,7 +1198,7 @@
 		"tall"					"80"
 	}
 
-	HudTournamentSetup
+	"HudTournamentSetup"
 	{
 		"fieldName"				"HudTournamentSetup"
 		"visible"				"0"
@@ -1209,7 +1210,7 @@
 		"tall"					"65"
 	}
 
-	HudStopWatch
+	"HudStopWatch"
 	{
 		"fieldName"				"HudStopWatch"
 		"visible"				"1"
@@ -1221,7 +1222,7 @@
 		"tall"					"70"
 	}
 
-	NotificationPanel
+	"NotificationPanel"
 	{
 		"fieldName"				"NotificationPanel"
 		"visible"				"1"
@@ -1232,7 +1233,7 @@
 		"tall"					"100"
 	}
 
-	AchievementNotificationPanel
+	"AchievementNotificationPanel"
 	{
 		"fieldName"				"AchievementNotificationPanel"
 		"visible"				"1"
@@ -1244,7 +1245,7 @@
 		"tall"					"100"
 	}
 
-	CriticalPanel [$WIN32]
+	"CriticalPanel" [$WIN32]
 	{
 		"fieldName"				"CriticalPanel"
 		"visible"				"1"
@@ -1255,7 +1256,7 @@
 		"tall"					"25"
 	}
 
-	HudArenaClassLayout [$WIN32]
+	"HudArenaClassLayout" [$WIN32]
 	{
 		"fieldName"				"HudArenaClassLayout"
 		"visible"				"1"
@@ -1266,7 +1267,7 @@
 		"tall"					"320"
 	}
 
-	HudArenaVsPanel [$WIN32]
+	"HudArenaVsPanel" [$WIN32]
 	{
 		"fieldName"				"HudArenaVsPanel"
 		"visible"				"1"
@@ -1277,7 +1278,7 @@
 		"tall"					"240"
 	}
 
-	HudArenaPlayerCount [$WIN32]
+	"HudArenaPlayerCount" [$WIN32]
 	{
 		"fieldName"				"HudArenaPlayerCount"
 		"visible"				"1"
@@ -1302,7 +1303,7 @@
 		"enabled"		"1"
 	}
 
-	HudTrainingInfoMsg
+	"HudTrainingInfoMsg"
 	{
 		"fieldName"				"HudTrainingInfoMsg"
 		"visible"				"0"
@@ -1313,17 +1314,17 @@
 		"tall"					"300"
 	}
 
-	HudTrainingMsg
+	"HudTrainingMsg"
 	{
 
 	}
 
-	TrainingComplete
+	"TrainingComplete"
 	{
 
 	}
 
-	HudInspectPanel
+	"HudInspectPanel"
 	{
 		"fieldName"				"HudInspectPanel"
 		"visible"				"0"
@@ -1335,7 +1336,7 @@
 		"tall"					"f0"
 	}
 
-	HudTFCrosshair
+	"HudTFCrosshair"
 	{
 		"fieldName" "HudTFCrosshair"
 		"visible" "1"
@@ -1344,7 +1345,7 @@
 		"tall"	 "480"
 	}
 
-	ItemQuickSwitchPanel
+	"ItemQuickSwitchPanel"
 	{
 		"fieldName"				"ItemQuickSwitchPanel"
 		"visible"				"0"
@@ -1355,14 +1356,14 @@
 		"tall"			"160"
 	}
 
-	ReplayReminder
+	"ReplayReminder"
 	{
 		"fieldName"		"ReplayReminder"
 		"visible"		"0"
 		"enable"		"1"
 	}
 
-	MainMenuAdditions
+	"MainMenuAdditions"
 	{
 		"fieldName"		"MainMenuAdditions"
 		"visible"		"1"
@@ -1374,7 +1375,7 @@
 		"tall"			"100"
 	}
 
-	CoachedByPanel
+	"CoachedByPanel"
 	{
 		"fieldName"		"CoachedByPanel"
 		"visible"		"0"
@@ -1385,7 +1386,7 @@
 		"tall"			"44"
 	}
 
-	ItemTestHUDPanel
+	"ItemTestHUDPanel"
 	{
 		"fieldName"		"ItemTestHUDPanel"
 		"visible"		"0"
@@ -1396,7 +1397,7 @@
 		"tall"			"44"
 	}
 
-	NotificationQueuePanel
+	"NotificationQueuePanel"
 	{
 		"fieldName"		"NotificationQueuePanel"
 		"visible"		"0"
@@ -1432,7 +1433,6 @@
 		"tall"			"150"
 	}
 
-
 	"CTFStreakNotice"
 	{
 		"fieldName"		"CTFStreakNotice"
@@ -1446,7 +1446,7 @@
 		"PaintBackgroundType"	"0" // rounded corners
 	}
 
-	CTFFlagCalloutPanel
+	"CTFFlagCalloutPanel"
 	{
 		"fieldName"		"CTFFlagCalloutPanel"
 		"visible" 		"0"
@@ -1484,7 +1484,7 @@
 		"PaintBackgroundType"	"0"
 	}
 
-	HudMiniGame
+	"HudMiniGame"
 	{
 		"fieldName" "HudMiniGame"
 		"visible" "1"
@@ -1518,7 +1518,7 @@
 		"tall"	 		"f0"
 	}
 
-	HudSpectatorExtras
+	"HudSpectatorExtras"
 	{
 		"fieldName" "HudSpectatorExtras"
 		"visible" "1"
@@ -1529,7 +1529,7 @@
 		"tall"	"f0"
 	}
 
-	MatchSummary
+	"MatchSummary"
 	{
 		"fieldName" "MatchSummary"
 		"visible" "0"
@@ -1540,7 +1540,7 @@
 		"tall"	"f0"
 	}
 
-	HudMatchStatus
+	"HudMatchStatus"
 	{
 		"fieldName"				"HudMatchStatus"
 		"visible"				"1"
