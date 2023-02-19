@@ -6,9 +6,9 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r265"	[$WIN32]
+		"xpos"			"r195"	[$WIN32]
 		"xpos_minmode"	"r77"	[$WIN32]
-		"ypos"			"r55"	[$WIN32]
+		"ypos"			"r105"	[$WIN32]
 		"ypos_minmode"	"r120"	[$WIN32]
 		"wide"			"94"
 		"tall"			"45"
@@ -28,12 +28,12 @@
 		"visible"		"1"
 		"visible_minmode""0"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"				"../hud/ammo_blue_bg"
 		"teambg_2"			"../hud/ammo_red_bg"
 		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
 		"teambg_3"			"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"
+		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"					
 	}
 
 	"ItemEffectIcon"
@@ -52,14 +52,14 @@
 		"visible_minmode""1"
 		"enabled"		"1"
 		"image"			"../hud/pyro_jetpack_off2"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 	}
 
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemEffectMeterLabel"
-		"xpos"			"8"
+		"xpos"			"32"
 		"xpos_minmode"	"32"
 		"ypos"			"12"
 		"ypos_minmode"	"27"
@@ -72,7 +72,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_RocketPack_Disabled"
-		"textAlignment"	"center"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontSmallest"
@@ -80,7 +80,7 @@
 	}
 
 	"ItemEffectMeter"
-	{
+	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter"
 		"font"			"Default"
@@ -91,7 +91,7 @@
 		"zpos"			"2"
 		"wide"			"22"
 		"wide_minmode"	"22"
-		"tall"			"8"
+		"tall"			"8"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -103,7 +103,7 @@
 	}
 
 	"ItemEffectMeter2"
-	{
+	{	
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ItemEffectMeter2"
 		"font"			"Default"
@@ -113,7 +113,7 @@
 		"ypos_minmode"	"40"
 		"zpos"			"2"
 		"wide"			"22"
-		"tall"			"8"
+		"tall"			"8"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

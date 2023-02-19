@@ -2,21 +2,19 @@
 
 "Resource/UI/HudItemEffectMeter_KartCharge.res"
 {
-	"ItemEffectMeterLabel"
-	{
-		"labelText"				"#TF_KART"
-	}
-
 	"ItemEffectMeterCount"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"34"
-		"ypos"					"9"
+		"xpos"					"45"
+		"ypos"					"6"
 		"zpos"					"2"
 		"wide"					"30"
-		"tall"					"15"
-		"ypos_minmode"			"1"
+		"tall"					"20"
+		"xpos_minmode"			"0"
+		"ypos_minmode"			"8"
+		"wide_minmode"			"50"
+		"tall_minmode"			"15"
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -24,10 +22,10 @@
 		"labelText"				"%progresscount%"
 		"textAlignment"			"center"
 		"textAlignment_minmode"	"west"
-		"fgcolor"				"White"
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"HudFontSmallBold"
 		"font_minmode"			"TFFontSmall"
+		"fgcolor"				"White"
 	}
 }

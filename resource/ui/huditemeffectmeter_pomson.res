@@ -1,10 +1,12 @@
 #base "huditemeffectmeter_cleaver.res"
 
-"resource/ui/huditemeffectmeter_pomson.res"
+"Resource/UI/HudItemEffectMeter_Pomson.res"
 {
 	HudItemEffectMeter
 	{
-		"xpos"			"r220"
-		"x_offset"		"0"
+		"xpos"			"r184"	[$WIN32]
+		"ypos"			"r92"	[$WIN32]
+		"xpos_minmode"	"r42"	[$WIN32]
+		"ypos_minmode"	"r68"	[$WIN32]
 	}
 }

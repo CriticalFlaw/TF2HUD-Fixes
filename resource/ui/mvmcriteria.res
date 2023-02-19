@@ -613,7 +613,7 @@
 			"labelText"		"%tour_level%"
 			"textAlignment"	"center"
 			"xpos"			"340"
-			"ypos"			"3"
+			"ypos"			"4"
 			"zpos"			"0"
 			"wide"			"64"
 			"tall"			"26"

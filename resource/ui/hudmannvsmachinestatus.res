@@ -51,7 +51,7 @@
 		"ypos"				"r15"
 		"wide"				"100"
 		"tall"				"100"
-		"xpos_minmode"		"185"
+		"xpos_minmode"		"205"
 		"ypos_minmode"		"r12"
 		"visible" 			"1"
 		"enabled" 			"1"

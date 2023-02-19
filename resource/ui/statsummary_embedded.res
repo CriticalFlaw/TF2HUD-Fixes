@@ -2468,7 +2468,7 @@
 		"ypos_hidef"			"262"
 		"ypos_lodef"			"262"
 		"zpos"			"12"
-		"wide"			"350"
+		"wide"			"340"
 		"wide_hidef"		"360"
 		"wide_lodef"		"360"
 		"tall"			"48"

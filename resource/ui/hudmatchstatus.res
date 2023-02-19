@@ -220,11 +220,6 @@
 
 		"proportionaltoaparent"	"1"
 		"border"			"TFFatLineBorder"
-
-		if_match
-		{
-			"visible"		"0"
-		}
 	}
 
 	"RankUpLabel"
@@ -325,7 +320,7 @@
 			"xpos_minmode"	"39"
 			"xpos_hidef"	"114"
 			"xpos_lodef"	"114"
-			"ypos"			"11"
+			"ypos"			"2"
 			"ypos_minmode"	"6"
 			"ypos_hidef"	"15"
 			"ypos_lodef"	"18"
@@ -372,12 +367,12 @@
 		"12v12_gap"	"1"
 
 		"team1_grow_dir" "west"
-		"team1_base_x"	"c-45"
-		"team1_max_expand"	"250"
+		"team1_base_x"	"c-50"
+		"team1_max_expand"	"150"
 
 		"team2_grow_dir" "east"
-		"team2_base_x"	"c47"
-		"team2_max_expand"	"250"
+		"team2_base_x"	"c50"
+		"team2_max_expand"	"150"
 
 		"playerpanels_kv"
 		{
