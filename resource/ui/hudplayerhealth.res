@@ -1,5 +1,5 @@
 "Resource/UI/HudPlayerHealth.res"
-{
+{	
 	// player health data
 	"HudPlayerHealth"
 	{
@@ -15,11 +15,11 @@
 		"wide"			"250"
 		"tall"			"120"
 		"visible"		"1"
-		"enabled"		"1"
+		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
-	}
+	}	
 	"PlayerStatusHealthImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -32,8 +32,8 @@
 		"tall"			"51"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
-	}
+		"scaleImage"	"1"	
+	}		
 	"PlayerStatusHealthImageBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -47,8 +47,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/health_bg"
-		"scaleImage"	"1"
-	}
+		"scaleImage"	"1"	
+	}	
 	"PlayerStatusHealthBonusImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -69,23 +69,23 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 	}
-	"PlayerHealthValue"
+	"PlayerStatusHealthValue"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerHealthValue"
+		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"76"
 		"xpos_minmode"	"61"
-		"ypos"			"51"	[$WIN32]
+		"ypos"			"52"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"5"
 		"wide"			"50"
-		"tall"			"20"
+		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"
+		"textAlignment"	"center"	
 		"font"			"HudClassHealth"
 		"fgcolor"		"TanDark"
 	}
@@ -103,7 +103,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"
-		"textAlignment"	"center"
+		"textAlignment"	"center"	
 		"font"			"HudFontSmallest"
 		"fgcolor"		"TanDark"
 	}
@@ -119,7 +119,7 @@
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
 		"fgcolor"		"TanDark"
 	}
@@ -135,7 +135,7 @@
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop_grapple"
 		"fgcolor"		"TanDark"
 	}
@@ -151,7 +151,7 @@
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
 		"fgcolor"		"TanDark"
 	}
@@ -167,7 +167,7 @@
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../vgui/covered_in_gas"
 		"fgcolor"		"TanDark"
 	}
@@ -183,7 +183,7 @@
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../vgui/marked_for_death"
 		"fgcolor"		"TanDark"
 	}
@@ -199,7 +199,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../vgui/marked_for_death"
 		"fgcolor"		"TanDark"
 	}
@@ -215,7 +215,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"fgcolor"		"TanDark"
 	}
@@ -231,7 +231,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_explosion_blue"
 		"fgcolor"		"TanDark"
 	}
@@ -247,7 +247,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_fire_blue"
 		"fgcolor"		"TanDark"
 	}
@@ -264,7 +264,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"fgcolor"		"TanDark"
 	}
@@ -280,7 +280,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_explosion_blue"
 		"fgcolor"		"TanDark"
 	}
@@ -296,11 +296,11 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_fire_blue"
 		"fgcolor"		"TanDark"
 	}
-
+	
 
 	"PlayerStatus_WheelOfDoom"
 	{
@@ -315,7 +315,7 @@
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../signs/death_wheel_whammy"
 		"fgcolor"		"TanDark"
 	}
@@ -332,7 +332,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"fgcolor"		"TanDark"
 	}
@@ -349,7 +349,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"fgcolor"		"TanDark"
 	}
@@ -366,7 +366,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"fgcolor"		"TanDark"
 	}
@@ -382,7 +382,7 @@
 		"tall"			"31"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			""
 		"fgcolor"		"TanDark"
 	}
@@ -398,7 +398,7 @@
 		"tall"			"31"
 		"visible"		"0"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			""
 		"fgcolor"		"TanDark"
 	}
@@ -414,7 +414,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_strength_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -430,7 +430,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_haste_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -446,7 +446,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_regen_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -462,7 +462,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_resist_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -478,7 +478,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_vampire_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -494,7 +494,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_reflect_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -510,7 +510,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_precision_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -526,7 +526,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_agility_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -542,7 +542,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_knockout_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -558,7 +558,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_king_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -574,7 +574,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_plague_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -590,7 +590,7 @@
 		"tall"			"31"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_supernova_hud"
 		"fgcolor"		"TanDark"
 	}
@@ -606,7 +606,7 @@
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"image"			"../vgui/slowed"
 		"fgcolor"		"TanDark"
 	}

@@ -51,7 +51,7 @@ event HudHealthDyingPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"			Linear 0.0 0.075
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"				Linear 0.125 0.075
 	
-	Animate	PlayerStatusHealthValue			FgColor		"HUDDeathWarning"	Accel 0.0 0.0
+	Animate	PlayerStatusHealthValue			FgColor		"BrightYellow"	Accel 0.0 0.0
 	
 	RunEvent HudHealthDyingPulseLoop	0.25
 }

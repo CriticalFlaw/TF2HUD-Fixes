@@ -14,13 +14,13 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-
+	
 	"MapInfoTitle"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapInfoTitle"
 		"xpos"			"c-184"
-		"xpos_lodef"			"c-174"
+		"xpos_lodef"			"c-174"	
 		"xpos_hidef"			"c-174"
 		"ypos"			"95"
 		"ypos_lodef"			"110"
@@ -36,7 +36,7 @@
 		"font"			"ChalkboardTitle"
 		"fgcolor"		"White"
 	}
-
+	
 	"MapInfoType"
 	{
 		"ControlName"	"CExLabel"
@@ -57,8 +57,8 @@
 		"textAlignment"	"west"
 		"font"			"ChalkboardText"
 		"fgcolor"		"Gray"
-	}
-
+	}	
+	
 	"MapInfoText"
 	{
 		"ControlName"	"CExRichText"
@@ -84,7 +84,7 @@
 		"textAlignment"	"northwest"
 		"fgcolor"		"Gray"
 	}
-
+	
 	"MapImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -105,7 +105,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			""
-		"scaleImage"	"1"
+		"scaleImage"	"1"		
 	}
 
 	"MapInfoContinue" [$WIN32]
@@ -134,7 +134,7 @@
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}
-
+	
 	"MapInfoWatchIntro" [$WIN32]
 	{
 		"ControlName"	"CExButton"
@@ -159,7 +159,7 @@
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}
-
+	
 	"MapInfoBack" [$WIN32]
 	{
 		"ControlName"	"CExButton"
@@ -185,14 +185,14 @@
 		"font"			"MenuSmallFont"
 		"fgcolor"		"Black"
 	}
-
+	
 	"MenuBG"
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
 		"autoResize"	"0"
@@ -200,7 +200,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fov"			"20"
-
+		
 		"model"
 		{
 			"modelname"	"models/vgui/UI_welcome01_screen.mdl"
@@ -214,7 +214,7 @@
 			"origin_y" "0"
 			"origin_z" "-39"
 		}
-	}
+	}					
 
 	"ShadedBar"
 	{
@@ -233,11 +233,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"	"0"
+		"tabPosition"	"0"	
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 		"PaintBackgroundType"	"0"
-	}
+	}	
 
 	"Footer" [$X360]
 	{
@@ -254,44 +254,20 @@
 		"buttonoffsety_lodef"		"18"
 		"fonttext"			"MatchmakingDialogMenuLarge"
 		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
-		"fgcolor"			"HudOffWhite"
-
+		"fgcolor"			"HudOffWhite" 	
+		
 		"button"
 		{
 			"name"		"intro"
 			"text"		"#TF_WatchIntro_360"
-			"icon"		"#GameUI_Icons_Y_BUTTON"
+			"icon"		"#GameUI_Icons_Y_BUTTON"	
 		}
-
+		
 		"button"
 		{
 			"name"		"continue"
 			"text"		"#TF_Continue_360"
-			"icon"		"#GameUI_Icons_A_BUTTON"
+			"icon"		"#GameUI_Icons_A_BUTTON"	
 		}
-	}
-
-	"teambutton0SC"
-	{
-		"ControlName"		"CExButton"
-		"fieldName"			"teambutton0SC"
-		"wide"				"0"
-		"tall"				"0"
-		"visible"			"1"
-		"enabled"			"1"
-		"labelText"			"&E"
-		"command"			"continue"
-	}
-
-	"teambutton1SC"
-	{
-		"ControlName"		"CExButton"
-		"fieldName"			"teambutton1SC"
-		"wide"				"0"
-		"tall"				"0"
-		"visible"			"1"
-		"enabled"			"1"
-		"labelText"			"&Q"
-		"command"			"back"
-	}
+	}	
 }

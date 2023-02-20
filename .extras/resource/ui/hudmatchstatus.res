@@ -320,7 +320,7 @@
 			"xpos_minmode"	"39"
 			"xpos_hidef"	"114"
 			"xpos_lodef"	"114"
-			"ypos"			"11"
+			"ypos"			"2"
 			"ypos_minmode"	"6"
 			"ypos_hidef"	"15"
 			"ypos_lodef"	"18"
@@ -533,7 +533,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"PlayerPanelPlayerName"
+				"font"			"HudFontSmall"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"5"
