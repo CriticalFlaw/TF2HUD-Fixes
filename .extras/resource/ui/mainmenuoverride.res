@@ -792,8 +792,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_Panel"
-		"xpos"			"c150"
-		"ypos"			"65"
+		"xpos"			"5"
+		"ypos"			"70"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"350"
@@ -805,6 +805,10 @@
 		"navDown"		"SettingsButton"		// when a sub element can't nav down it will pass through this
 		"navLeft"		"MOTD_ShowButtonPanel"	// when a sub element can't nav left it will pass through this
 		"navToRelay"	"MOTD_URLButton"		// when naving to this it auto navs to this child instead
+		
+		"pin_to_sibling"		"MOTD_ShowButtonPanel"
+		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 
 		"MOTD_HeaderContainer"
 		{
