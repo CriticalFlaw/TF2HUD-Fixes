@@ -55,3 +55,11 @@
 - Large-numbers for the player health and damage dealt values.
 - Minmode variant of the Player Destruction UI.
 - Console button on the main menu.
+
+### Suggested Mods
+*Following recommended visual mods did not fit the scope of the project, but should work nicely alongside the HUD.*
+- [HD TF2 Menu Logo](https://gamebanana.com/mods/27061) by [Tkain](https://gamebanana.com/members/1582147)
+- [HD Loading Screens](https://gamebanana.com/mods/285046) by [Tkain](https://gamebanana.com/members/1582147)
+- [HD Menu Event Backgrounds](https://gamebanana.com/mods/406953) by [Tkain](https://gamebanana.com/members/1582147)
+- [Upscaled Menu Character Images](https://gamebanana.com/mods/287264) by [AtomicTEM](https://gamebanana.com/members/1528272)
+- [Sloofy's Overhauled UI Portraits](https://gamebanana.com/mods/26400) by [Sloofy](https://gamebanana.com/members/1625037)
