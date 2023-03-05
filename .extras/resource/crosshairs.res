@@ -224,7 +224,7 @@ Scheme
 	{
 		"100"
 		{
-			"font" "resource/TF2Crosshairs.ttf"
+			"font" "resource/crosshairs.ttf"
 			"name" "TF2Crosshairs"
 		}
 	}
