@@ -69,7 +69,6 @@
 
 			"disable_manipulation"	"1"
 			"inventory_image_type"  "1"
-			"inventory_image_type"  "1"
 
 			"model"
 			{
