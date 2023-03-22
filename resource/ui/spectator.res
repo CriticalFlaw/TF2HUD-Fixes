@@ -168,8 +168,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeKeyLabel"
-		"xpos"			"c-55"		[$WIN32]
-		"ypos"			"35"	[$WIN32]
+		"xpos"			"15"		[$WIN32]
+		"ypos"			"r85"	[$WIN32]
 		"xpos"			"53"	[$X360]
 		"ypos"			"40"	[$X360]
 		"wide"			"60"	[$WIN32]
@@ -190,8 +190,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeLabel"
-		"xpos"			"c-15"	[$WIN32]
-		"ypos"			"35"	[$WIN32]
+		"xpos"			"55"	[$WIN32]
+		"ypos"			"r85"	[$WIN32]
 		"xpos"			"128"	[$X360]
 		"ypos"			"40"	[$X360]		
 		"wide"			"125"	[$WIN32]
@@ -211,8 +211,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdKeyLabel"
-		"xpos"			"c-55"	[$WIN32]
-		"ypos"			"45"	[$WIN32]
+		"xpos"			"15"	[$WIN32]
+		"ypos"			"r75"	[$WIN32]
 		"xpos"			"53"	[$X360]
 		"ypos"			"50"	[$X360]		
 		"wide"			"60"	[$WIN32]
@@ -232,8 +232,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdLabel"
-		"xpos"			"c-15"	[$WIN32]
-		"ypos"			"45"	[$WIN32]
+		"xpos"			"55"	[$WIN32]
+		"ypos"			"r75"	[$WIN32]
 		"xpos"			"128"	[$X360]
 		"ypos"			"50"	[$X360]		
 		"wide"			"125"	[$WIN32]
@@ -253,8 +253,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevKeyLabel"
-		"xpos"			"c-55"	[$WIN32]
-		"ypos"			"55"	[$WIN32]
+		"xpos"			"15"	[$WIN32]
+		"ypos"			"r65"	[$WIN32]
 		"xpos"			"53"	[$X360]
 		"ypos"			"60"	[$X360]		
 		"wide"			"60"	[$WIN32]
@@ -274,8 +274,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevLabel"
-		"xpos"			"c-15"	[$WIN32]
-		"ypos"			"55"	[$WIN32]
+		"xpos"			"55"	[$WIN32]
+		"ypos"			"r65"	[$WIN32]
 		"xpos"			"128"	[$X360]
 		"ypos"			"60"	[$X360]		
 		"wide"			"125"	[$WIN32]
@@ -298,10 +298,10 @@
 		"xpos"			"15"
 		"xpos_hidef"	"60"
 		"xpos_lodef"	"45"
-		"ypos"			"r67"
+		"ypos"			"r64"
 		"ypos_lodef"		"28"
 		"ypos_hidef"		"35"
-		"wide"			"145"
+		"wide"			"200"
 		"wide_hidef"	"230"
 		"wide_lodef"	"240"
 		"tall"			"64"
