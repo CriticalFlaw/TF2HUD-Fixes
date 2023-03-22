@@ -168,8 +168,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeKeyLabel"
-		"xpos"			"15"		[$WIN32]
-		"ypos"			"20"	[$WIN32]
+		"xpos"			"c-55"		[$WIN32]
+		"ypos"			"35"	[$WIN32]
 		"xpos"			"53"	[$X360]
 		"ypos"			"40"	[$X360]
 		"wide"			"60"	[$WIN32]
@@ -185,13 +185,13 @@
 		"textAlignment"		"west"
 		"font"			"SpectatorKeyHints"
 		
-	}
+	}	
 	"SwitchCamModeLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeLabel"
-		"xpos"			"60"	[$WIN32]
-		"ypos"			"20"	[$WIN32]
+		"xpos"			"c-15"	[$WIN32]
+		"ypos"			"35"	[$WIN32]
 		"xpos"			"128"	[$X360]
 		"ypos"			"40"	[$X360]		
 		"wide"			"125"	[$WIN32]
@@ -211,8 +211,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdKeyLabel"
-		"xpos"			"15"	[$WIN32]
-		"ypos"			"30"	[$WIN32]
+		"xpos"			"c-55"	[$WIN32]
+		"ypos"			"45"	[$WIN32]
 		"xpos"			"53"	[$X360]
 		"ypos"			"50"	[$X360]		
 		"wide"			"60"	[$WIN32]
@@ -232,8 +232,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdLabel"
-		"xpos"			"60"	[$WIN32]
-		"ypos"			"30"	[$WIN32]
+		"xpos"			"c-15"	[$WIN32]
+		"ypos"			"45"	[$WIN32]
 		"xpos"			"128"	[$X360]
 		"ypos"			"50"	[$X360]		
 		"wide"			"125"	[$WIN32]
@@ -253,8 +253,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevKeyLabel"
-		"xpos"			"15"	[$WIN32]
-		"ypos"			"40"	[$WIN32]
+		"xpos"			"c-55"	[$WIN32]
+		"ypos"			"55"	[$WIN32]
 		"xpos"			"53"	[$X360]
 		"ypos"			"60"	[$X360]		
 		"wide"			"60"	[$WIN32]
@@ -274,8 +274,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetRevLabel"
-		"xpos"			"60"	[$WIN32]
-		"ypos"			"40"	[$WIN32]
+		"xpos"			"c-15"	[$WIN32]
+		"ypos"			"55"	[$WIN32]
 		"xpos"			"128"	[$X360]
 		"ypos"			"60"	[$X360]		
 		"wide"			"125"	[$WIN32]
