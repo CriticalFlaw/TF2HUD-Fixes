@@ -301,7 +301,7 @@
 		"ypos"			"r64"
 		"ypos_lodef"		"28"
 		"ypos_hidef"		"35"
-		"wide"			"200"
+		"wide"			"240"
 		"wide_hidef"	"230"
 		"wide_lodef"	"240"
 		"tall"			"64"
