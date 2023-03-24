@@ -11,7 +11,8 @@ assignees: ''
 A clear and concise description of what the issue is.
 
 **Specifications**
-Additional information about the issue. Where applicable, specify the branch (community or workshop), operating system, language, screen resolution and steps to reproduce the issue.
+Additional information about the issue: operating system, resolution and steps taken to reproduce.
+If applicable, specify if the TF2 HUD Editor was used or if customizations from the `extras` folder have been applied.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.

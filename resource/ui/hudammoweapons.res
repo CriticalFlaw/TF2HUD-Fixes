@@ -132,13 +132,11 @@
 		"wide"			"84"
 		"wide_lodef"	"83"
 		"tall"			"40"
-		"tall_minmode"	"36"
 		"tall_lodef"	"45"
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-east"
 		"labelText"		"%Ammo%"
-
 	}
 	"AmmoNoClipShadow"
 	{
@@ -151,7 +149,6 @@
 		"zpos"			"5"
 		"wide"			"84"
 		"tall"			"40"
-		"tall_minmode"	"36"
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-east"
