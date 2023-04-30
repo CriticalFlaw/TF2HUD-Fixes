@@ -34,9 +34,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DifficultyContainer"
 		"xpos"			"425"
-		"ypos"			"30"
+		"ypos"			"22"
 		"wide"			"150"
 		"tall"			"20"
+		"zpos"			"1"
 		"visible"		"1"
 		
 		"DifficultyLabel"
