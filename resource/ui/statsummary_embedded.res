@@ -160,7 +160,7 @@
 				"textAlignment"		"west"
 				"xpos"			"c+130"
 				"xpos_hidef"			"c+110"
-				"ypos"			"200"
+				"ypos"			"212"
 				"ypos_hidef"			"150"
 				"zpos"			"5"
 				"wide"			"200"
@@ -1659,7 +1659,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"RecordsLabel1"
-			"font"			"ScoreboardMediumSmall"
+			"font"			"HudFontMediumSmallSecondary"
 			"labelText"		"#StatSummary_Label_BestMoments"
 			"textAlignment"		"center"
 			"xpos"			"c+115"

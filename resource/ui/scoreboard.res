@@ -579,7 +579,7 @@
 
 		if_mvm
 		{
-			"ypos"		"428"
+			"ypos"		"357"
 		}
 	}
 	"SpectatorsInQueue"
@@ -632,7 +632,7 @@
 		"fieldName"		"ClassImage"
 		"xpos"			"22"
 		"xpos_lodef"	"12"
-		"ypos"			"350"
+		"ypos"			"351"
 		"zpos"			"10"
 		"wide"			"92"
 		"tall"			"92"
@@ -652,7 +652,7 @@
 		"fieldName"		"classmodelpanel"
 
 		"xpos"			"-10"
-		"ypos"			"185"
+		"ypos"			"183"
 		"zpos"			"10"
 		"wide"			"130"
 		"tall"			"260"
