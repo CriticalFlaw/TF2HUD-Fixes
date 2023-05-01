@@ -652,7 +652,7 @@
 		"fieldName"		"classmodelpanel"
 
 		"xpos"			"-10"
-		"ypos"			"185"
+		"ypos"			"183"
 		"zpos"			"10"
 		"wide"			"130"
 		"tall"			"260"
