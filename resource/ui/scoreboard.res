@@ -632,7 +632,7 @@
 		"fieldName"		"ClassImage"
 		"xpos"			"22"
 		"xpos_lodef"	"12"
-		"ypos"			"350"
+		"ypos"			"351"
 		"zpos"			"10"
 		"wide"			"92"
 		"tall"			"92"
