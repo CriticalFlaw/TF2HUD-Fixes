@@ -355,7 +355,10 @@
 
 		if_mvm
 		{
-			"visible"		"0"
+			"xpos"				"425"
+			"ypos"				"62"
+			"wide"				"150"
+			"textAlignment"		"center"
 		}
 	}
 	"ServerLabel"
