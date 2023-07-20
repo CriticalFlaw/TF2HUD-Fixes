@@ -355,8 +355,9 @@
 
 		if_mvm
 		{
-			"xpos"				"425"
-			"ypos"				"62"
+			"xpos"				"462"
+			"ypos"				"230"
+			"zpos"				"20"
 			"wide"				"150"
 			"textAlignment"		"center"
 		}

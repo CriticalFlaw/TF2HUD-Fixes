@@ -33,10 +33,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DifficultyContainer"
-		"xpos"			"425"
-		"ypos"			"22"
+		"xpos"			"463"
+		"ypos"			"243"
 		"wide"			"150"
-		"tall"			"20"
+		"tall"			"22"
 		"zpos"			"1"
 		"visible"		"1"
 		
@@ -50,7 +50,7 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"150"
-			"tall"			"10"
+			"tall"			"12"
 			"fgcolor"		"tanlight"
 		}
 		
@@ -62,9 +62,9 @@
 			"labelText"		"%difficultyvalue%"
 			"textAlignment"	"center"
 			"xpos"			"0"
-			"ypos"			"9"
+			"ypos"			"11"
 			"wide"			"150"
-			"tall"			"10"
+			"tall"			"11"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -99,7 +99,7 @@
 		"ypos"			"83"
 		"zpos"			"10"
 		"wide"			"530"
-		"tall"			"f0"
+		"tall"			"290"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -127,7 +127,7 @@
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"400"
-			"tall"			"135"
+			"tall"			"136"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
