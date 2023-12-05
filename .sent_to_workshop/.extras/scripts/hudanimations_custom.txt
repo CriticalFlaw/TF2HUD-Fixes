@@ -1,0 +1,112 @@
+event HudTournamentSetupPanelOpen
+{
+	Animate HudTournamentSetup	Position	"c-90 -70"	Linear 0.0 0.001
+	Animate HudTournamentSetup	Position	"c-90 90"	Spline 0.001 0.2
+}
+
+event HudTournamentSetupPanelClose
+{
+	Animate HudTournamentSetup	Position	"c-90 90"	Linear 0.0 0.001
+	Animate HudTournamentSetup	Position	"c-90 -70"	Spline 0.001 0.2
+}
+
+//==========================================================================================================================
+// CROSSHAIR ANIMATION
+//--------------------------------------------------------------------------------------------------------------------------
+event DamagedPlayer
+{
+	Animate CustomCrosshair		FgColor     "Hitmarker"		Linear 	0.0 	0.00001
+	Animate CustomCrosshair		FgColor     "Crosshair"		Linear 	0.10 	0.10001
+}
+
+//==========================================================================================================================
+// SPY DISGUISE
+//--------------------------------------------------------------------------------------------------------------------------
+event HudSpyDisguiseFadeIn
+{
+	RunEvent HudSpyDisguiseChanged		0.0
+	Animate PlayerStatusSpyImage		Alpha		"255"				Linear 0.9	0.1
+}
+
+event HudSpyDisguiseFadeOut
+{
+	RunEvent HudSpyDisguiseChanged		0.0
+	Animate PlayerStatusSpyImage		Alpha		"0"					Linear 0.9	0.1
+}
+//==========================================================================================================================
+// HEALTH ANIMATION
+//--------------------------------------------------------------------------------------------------------------------------
+//Health Bonus Pulse
+event HudHealthBonusPulse
+{
+	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"			Linear 0.0 0.2
+	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"				Linear 0.2 0.4
+	
+	Animate	PlayerHealthValue			FgColor		"0 220 127 255" Accel 0.0 0.0
+
+	RunEvent HudHealthBonusPulseLoop	0.4
+}
+
+event HudHealthBonusPulseStop
+{
+	StopEvent HudHealthBonusPulse 0.0
+	StopEvent HudHealthBonusPulseLoop 0.0
+	
+	Animate	PlayerHealthValue			FgColor		"TanLight"		Accel 0.0 0.0
+}
+
+//===========================================
+
+//Health Dying Pulse
+event HudHealthDyingPulse
+{
+	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"			Linear 0.0 0.075
+	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"				Linear 0.125 0.075
+	
+	Animate	PlayerHealthValue			FgColor		"BrightYellow"	Accel 0.0 0.0
+	
+	RunEvent HudHealthDyingPulseLoop	0.25
+}
+
+event HudHealthDyingPulseStop
+{
+	StopEvent HudHealthDyingPulse 0.0
+	StopEvent HudHealthDyingPulseLoop 0.0
+	
+	Animate	PlayerHealthValue			FgColor		"TanLight"		Accel 0.0 0.0
+}
+//==================================================================================
+
+
+event HudSnapShotReminderIn
+{
+	Animate ScreenshotPanel		Position	"c-83 -50"	Linear 0.0 0.001
+	Animate ScreenshotPanel		Position	"c-83 25"	Spline 0.001 0.2
+}
+
+event HudReplayReminderIn	// Places the replay reminder in the same place as the snapshot reminder
+{
+	Animate ReplayReminder		Position	"c-83 -50"	Linear 0.0 0.001
+	Animate ReplayReminder		Position	"c-83 25"	Spline 0.001 0.2
+}
+
+event HudReplayReminderIn2	// Puts the panel below the snapshot panel
+{
+	Animate ReplayReminder		Position	"c-83 -50"	Linear 0.0 0.001
+	Animate ReplayReminder		Position	"c-83 65"	Spline 0.001 0.2
+}
+//==================================================================================
+
+event TeamStatus_PlayerDead
+{
+	SetVisible	respawntime	1	0
+}
+
+event TeamStatus_PlayerAlive
+{
+	SetVisible	respawntime	0	0.2
+}
+//==================================================================================
+
+event RDPositiveScorePulse { }
+event RDNegativeScorePulse { }
