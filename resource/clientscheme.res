@@ -1,4 +1,4 @@
-#base "crosshairs.res"
+#base "ui/#customizations/crosshairs/hudcrosshairs_scheme.res"
 
 //
 // TRACKER SCHEME RESOURCE FILE

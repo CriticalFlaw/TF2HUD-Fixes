@@ -1,4 +1,5 @@
 #base "../../resource/preload.res"
+#base "#customizations/hud_customization.res"
 
 "Resource/UI/MainMenuOverride.res"
 {
@@ -15,8 +16,8 @@
 
 //		"bgcolor_override"	"0 0 0 240"
 
-		"update_url"	"http://store.steampowered.com/news/?filter=updates&appids=440"
-		"blog_url"		"http://www.teamfortress.com/"
+		"update_url"	"https://store.steampowered.com/news/?filter=updates&appids=440"
+		"blog_url"		"https://www.teamfortress.com/"
 
 		"button_x_offset"	"-285"
 		"button_y"			"120"
@@ -220,7 +221,7 @@
 		}
 		if_christmas
 		{
-			"image"		"../console/background_xmas2020_widescreen"
+			"image"		"../console/background_xmas2023_widescreen"
 		}
 	}
 
@@ -475,8 +476,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"r50"
-		"ypos"			"30"
+		"xpos"			"c148"
+		"ypos"			"28"
 		"zpos"			"10"
 		"wide"			"32"
 		"tall"			"32"
@@ -578,8 +579,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WatchStreamButton"
-		"xpos"			"r50"
-		"ypos"			"65"
+		"xpos"			"c188"
+		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -651,8 +652,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButton"
-		"xpos"			"r50"
-		"ypos"			"100"
+		"xpos"			"c228"
+		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -724,8 +725,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"r50"
-		"ypos"			"135"
+		"xpos"			"c268"
+		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -792,8 +793,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_Panel"
-		"xpos"			"5"
-		"ypos"			"70"
+		"xpos"			"c5"
+		"ypos"			"65"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"350"
@@ -805,10 +806,6 @@
 		"navDown"		"SettingsButton"		// when a sub element can't nav down it will pass through this
 		"navLeft"		"MOTD_ShowButtonPanel"	// when a sub element can't nav left it will pass through this
 		"navToRelay"	"MOTD_URLButton"		// when naving to this it auto navs to this child instead
-		
-		"pin_to_sibling"		"MOTD_ShowButtonPanel"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 
 		"MOTD_HeaderContainer"
 		{
@@ -1175,8 +1172,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_Panel"
-		"xpos"			"r270"
-		"ypos"			"30"
+		"xpos"			"c0"
+		"ypos"			"102"
 		"zpos"			"10"
 		"wide"			"210"
 		"tall"			"80"
@@ -1290,7 +1287,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"VRBGPanel"
-		"xpos"			"c-295"
+		"xpos"			"c-290"
 		"ypos"			"373"
 		"zpos"			"-61"
 		"wide"			"260"
@@ -1713,77 +1710,127 @@
 				{
 					"0"
 					{
-						"item"		"Winter 2022 Cosmetic Key"
+						"item"		"Winter 2023 Cosmetic Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Winter 2022 Cosmetic Case"
+						"item"		"Winter 2023 Cosmetic Case"
 						"show_market"	"1"
+					}
+					"2"
+					{
+						"item"		"Taunt: Cheers!"
+						"show_market"	"0"
+					}
+					"3"
+					{
+						"item"		"Taunt: Mourning Mercs"
+						"show_market"	"0"
 					}
 					"4"
 					{
-						"item"		"Taunt: Russian Rubdown"
+						"item"		"Taunt: Foul Play"
 						"show_market"	"0"
 					}
 					"5"
 					{
-						"item"		"Taunt: Tailored Terminal"
+						"item"		"Map Token Snowtower"
 						"show_market"	"0"
 					}
 					"6"
 					{
-						"item"		"Taunt: Roasty Toasty"
+						"item"		"Map Token Krampus"
 						"show_market"	"0"
 					}
 					"7"
 					{
-						"item"		"Map Token Frostwatch"
+						"item"		"Map Token Haarp"
 						"show_market"	"0"
 					}
 					"8"
 					{
-						"item"		"Map Token Frostcliff"
+						"item"		"Map Token Brew"
 						"show_market"	"0"
 					}
 					"9"
 					{
-						"item"		"Map Token Rumford"
+						"item"		"Map Token Hacksaw"
 						"show_market"	"0"
 					}
 					"10"
 					{
-						"item"		"Map Token Frosty"
+						"item"		"Map Token Turbine Event"
 						"show_market"	"0"
 					}
 					"11"
 					{
-						"item"		"Map Token Coal Pit"
+						"item"		"Map Token Carrier"
 						"show_market"	"0"
 					}
 					"12"
 					{
-						"item"		"Strange Filter: Frostwatch (Community)"
+						"item"		"Map Token Galleria"
 						"show_market"	"0"
 					}
 					"13"
 					{
-						"item"		"Strange Filter: Frostcliff (Community)"
+						"item"		"Map Token Emerge"
 						"show_market"	"0"
 					}
 					"14"
 					{
-						"item"		"Strange Filter: Rumford (Community)"
+						"item"		"Map Token Camber"
 						"show_market"	"0"
 					}
 					"15"
 					{
-						"item"		"Strange Filter: Frosty (Community)"
+						"item"		"Strange Filter: Snowtower (Community)"
 						"show_market"	"0"
 					}
 					"16"
 					{
-						"item"		"Strange Filter: Coal Pit (Community)"
+						"item"		"Strange Filter: Krampus (Community)"
+						"show_market"	"0"
+					}
+					"17"
+					{
+						"item"		"Strange Filter: Haarp (Community)"
+						"show_market"	"0"
+					}
+					"18"
+					{
+						"item"		"Strange Filter: Brew (Community)"
+						"show_market"	"0"
+					}
+					"19"
+					{
+						"item"		"Strange Filter: Hacksaw (Community)"
+						"show_market"	"0"
+					}
+					"20"
+					{
+						"item"		"Strange Filter: Turbine Event (Community)"
+						"show_market"	"0"
+					}
+					"21"
+					{
+						"item"		"Strange Filter: Carrier (Community)"
+						"show_market"	"0"
+					}
+					"22"
+					{
+						"item"		"Strange Filter: Galleria (Community)"
+						"show_market"	"0"
+					}
+					"23"
+					{
+						"item"		"Strange Filter: Emerge (Community)"
+						"show_market"	"0"
+					}
+					"24"
+					{
+						"item"		"Strange Filter: Camber (Community)"
 						"show_market"	"0"
 					}
 				}
@@ -1792,167 +1839,7 @@
 		} // Background
 
 	} // EventPromo
-
-	"SafeMode"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"SafeMode"
-		"xpos"			"c-295"
-		"ypos"			"210"
-		"zpos"			"-50"
-		"wide"			"270"
-		"tall"			"190"
-		"visible"		"0"
-
-		"Background"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldname"		"Background"
-			"xpos"			"0"
-			"ypos"			"20"
-			"zpos"			"0"
-			"wide"			"260"
-			"tall"			"p0.88"
-			"visible"		"1"
-			"PaintBackgroundType"	"0"
-			"proportionaltoparent"	"1"
-
-			"paintborder"	"1"
-			"border"		"MainMenuBGBorder"
-
-			"TitleLabel"
-			{
-				"ControlName"	"CExLabel"
-				"fieldName"		"TitleLabel"
-				"font"			"HudFontSmallBold"
-				"labelText"		"#MMenu_SafeMode_Title"
-				"textAlignment"	"west"
-				"xpos"			"0"
-				"ypos"			"0"
-				"wide"			"f0"
-				"tall"			"30"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"textinsetx"	"20"
-				"fgcolor_override"	"235 227 203 255"
-			}
-
-			"SaveSettingsButton"
-			{
-				"ControlName"	"CExButton"
-				"fieldName"		"SaveSettingsButton"
-				"xpos"			"p0.02"
-				"ypos"			"rs1-30"
-				"zpos"			"11"
-				"wide"			"250"
-				"tall"			"26"
-				"autoResize"	"0"
-				"pinCorner"		"3"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
-				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
-				"dulltext"		"0"
-				"brighttext"	"0"
-				"default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
-				"labeltext"		"#MMenu_SafeMode_SaveSettings"
-				"proportionaltoparent"	"1"
-				"command"		"safemode_save_settings"
-				"actionsignallevel"	"3"
-
-				"border_default"	"MainMenuButtonDefault"
-				"border_armed"		"MainMenuButtonArmed"
-				"paintbackground"	"0"
-
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
-			}
-
-
-			"LeaveSafeModeButton"
-			{
-				"ControlName"	"CExButton"
-				"fieldName"		"SubButton"
-				"xpos"			"p0.02"
-				"ypos"			"rs1-5"
-				"zpos"			"11"
-				"wide"			"250"
-				"tall"			"26"
-				"autoResize"	"0"
-				"pinCorner"		"3"
-				"visible"		"1"
-				"enabled"		"1"
-				"tabPosition"	"0"
-				"use_proportional_insets" "1"
-				"font"			"HudFontSmallBold"
-				"textAlignment"	"west"
-				"dulltext"		"0"
-				"brighttext"	"0"
-				"default"		"1"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
-				"labeltext"		"#MMenu_SafeMode_LeaveSafeMode"
-				"proportionaltoparent"	"1"
-				"command"		"safemode_leave"
-				"actionsignallevel"	"3"
-
-				"border_default"	"MainMenuButtonDefault"
-				"border_armed"		"MainMenuButtonArmed"
-				"paintbackground"	"0"
-
-				"defaultFgColor_override" "46 43 42 255"
-				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
-			}
-
-			"Explanation"
-			{
-				"ControlName"			"Label"
-				"fieldName"				"Explanation"
-				"xpos"					"cs-0.5"
-				"ypos"					"30"
-				"zpos"					"100"
-				"wide"					"p0.92"
-				"tall"					"p0.5"
-				"textAlignment"			"north-west"
-				"visible"				"1"
-				"enabled"				"1"
-				"scaleImage"			"1"
-				"proportionaltoparent"	"1"
-				"wrap"					"1"
-				"labelText"				"#MMenu_SafeMode_Explanation"
-				"proportionaltoparent"	"1"
-				"font"					"HudFontSmallest"
-			}
-
-		} // Background
-
-		"InfoImage"
-		{
-			"ControlName"			"ImagePanel"
-			"fieldName"				"InfoImage"
-			"xpos"					"rs1-5"
-			"ypos"					"5"
-			"zpos"					"100"
-			"wide"					"40"
-			"tall"					"o1"
-			"visible"				"1"
-			"enabled"				"1"
-			"image"					"info"
-			"scaleImage"			"1"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"		"0"
-		}
-
-	} // SafeMode
-
+	
 
 	"ShowPromoCodesButton"
 	{
@@ -2355,7 +2242,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
-		"xpos"			"c-175"
+		"xpos"			"c-185"
 		"ypos"			"rs1-18"
 		"wide"			"100"
 		"tall"			"26"
@@ -2735,8 +2622,8 @@
 		"fieldName"		"ReplayButton"
 		"xpos"			"c-34+273"
 		"ypos"			"437"
-		"zpos"			"4"
-		"wide"			"30"
+		"zpos"			"5"
+		"wide"			"25"
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"3"
@@ -2776,73 +2663,11 @@
 		}
 	}
 
-	"ConsoleButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"ConsoleButton"
-		"xpos"			"c-8+273"
-		"ypos"			"437"
-		"zpos"			"5"
-		"wide"			"25"
-		"tall"			"25"
-		"visible"		"1"
-
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"p1"
-			"tall"			"25"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"textinsetx"	"100"
-			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			
-			"border_default"	"MainMenuSubButtonBorder"
-			"paintbackground"	"1"
-
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
-
-			"image_drawcolor"	"235 226 202 255"
-			"proportionaltoparent"	"1"
-			
-			"SubImage"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"cs-0.5"
-				"ypos"			"cs-0.5"
-				"zpos"			"1"
-				"wide"			"15"
-				"tall"			"15"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"glyph_vr"
-				"scaleImage"	"1"
-				"proportionaltoparent"	"1"
-			}
-		}
-	}
-
 	"ReportBugButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ReportBugButton"
-		"xpos"			"c14+273"
+		"xpos"			"c-14+273"
 		"ypos"			"437"
 		"zpos"			"4"
 		"wide"			"30"
@@ -2957,6 +2782,67 @@
 			"angles_x"		"10"
 			"angles_y"		"130"
 			"angles_z"		"0"
+		}
+	}
+	
+	"ShowHUDOptonsButton"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"ShowHUDOptonsButton"
+		"xpos"			"c308"
+		"ypos"			"28"
+		"zpos"			"1"
+		"wide"			"32"
+		"tall"			"32"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+
+		"ShowHUDOptonsButton2_SB"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"ShowHUDOptonsButton2_SB"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"1"
+			"wide"			"32"
+			"tall"			"32"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"labelText"		""
+			"font"			"HudFontSmallestBold"
+			"textAlignment"	"center"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+
+			"actionsignallevel" "2"
+			"Command"		"engine toggle cl_mainmenu_safemode; mat_queue_mode 0"
+
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			"paintbackground" "0"
+			"image_drawcolor"	"235 226 202 255"
+			"image_armedcolor"	"255 255 255 255"
+
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"1"
+				"wide"			"32"
+				"tall"			"32"
+				"visible"		"1"
+				"enabled"		"1"
+				"image"			"../vgui/replay/thumbnails/button_hud"
+				"scaleImage"	"1"
+			}
 		}
 	}
 }

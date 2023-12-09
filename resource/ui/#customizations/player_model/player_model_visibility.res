@@ -1,0 +1,1 @@
+#base "../../../../cfg/hud_player_model.txt"

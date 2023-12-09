@@ -42,11 +42,4 @@
 		"subimage"		"glyph_alert"
 		"tooltip"		"#MMenu_ReportPlayer"
 	}
-	"ConsoleButton"
-	{
-		"label"			""
-		"command" 		"engine toggleconsole"
-		"subimage"		"glyph_vr"
-		"tooltip" 		"#GameUI_Console"
-	}
 }

@@ -1,0 +1,18 @@
+// load the base configuration
+//exec default.cfg
+r_decal_cullsize 1
+
+// Setup custom controller
+exec joystick.cfg
+
+// Run a user script file if present
+exec autoexec.cfg
+exec hud_customizations.cfg
+exec hud_crosshairs.cfg
+
+// Stuff command line statements
+stuffcmds
+
+// Display the startup level
+startupmenu
+sv_unlockedchapters 99

@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$baseTexture"			"vgui\white"
+	"$vertexalpha"			"1"
+	"$alpha"				"0"
+	"$translucent"			"1"
+	"$vertexcolor"			"1"
+	"$no_fullbright"		"1"
+}
