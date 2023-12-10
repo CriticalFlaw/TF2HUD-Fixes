@@ -355,7 +355,8 @@
 
 		if_mvm
 		{
-			"visible"		"0"
+			"xpos"				"405"
+			"ypos"				"265"
 		}
 	}
 	"ServerLabel"
