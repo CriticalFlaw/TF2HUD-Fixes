@@ -8,7 +8,7 @@ exec joystick.cfg
 // Run a user script file if present
 exec autoexec.cfg
 exec hud_customizations.cfg
-exec hud_crosshairs.cfg
+exec hud_crosshair.cfg
 
 // Stuff command line statements
 stuffcmds

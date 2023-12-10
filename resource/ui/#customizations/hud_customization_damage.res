@@ -111,7 +111,7 @@
 						"proportionaltoparent"				"1"
 						"labelText"							""
 						"font"								""
-						"command"							"engine hud_damage_float_build"
+						"command"							"engine hud_float_damage_build"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 					}
@@ -187,7 +187,7 @@
 						"proportionaltoparent"				"1"
 						"labelText"							""						
 						"font"								""
-						"command"							"engine hud_damage_float_secondary"
+						"command"							"engine hud_float_damage_secondary"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 					}
@@ -228,7 +228,7 @@
 					"enabled"							"1"
 					"proportionaltoparent"				"1"
 					"use_proportional_insets"			"1"
-					"labelText"							"Damage Font"
+					"labelText"							"Last Damage Done Font"
 					"font"								"ItemFontNameSmallest"
 					"textAlignment"						"center"
 					"textinsetx"						"5"
@@ -305,7 +305,7 @@
 						"proportionaltoparent"				"1"
 						"labelText"							""
 						"font"								""
-						"command"							"engine hud_damage_build"
+						"command"							"engine hud_last_damage_build"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 					}
@@ -381,7 +381,7 @@
 						"proportionaltoparent"				"1"
 						"labelText"							""	
 						"font"								""
-						"command"							"engine hud_damage_secondary"
+						"command"							"engine hud_last_damage_secondary"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 					}
@@ -457,7 +457,7 @@
 						"proportionaltoparent"				"1"
 						"labelText"							""	
 						"font"								""
-						"command"							"engine hud_damage_off"
+						"command"							"engine hud_last_damage_off"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 					}

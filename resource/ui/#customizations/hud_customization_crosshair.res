@@ -127,7 +127,7 @@
 						"font"								"ItemFontNameSmall"
 						"textAlignment"						"center"
 						"font"								""
-						"command"							"engine hud_crosshair_on"
+						"command"							"engine hud_crosshair_off"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 

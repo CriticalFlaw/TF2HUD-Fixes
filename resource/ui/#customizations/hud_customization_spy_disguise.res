@@ -111,7 +111,7 @@
 						"proportionaltoparent"				"1"
 						"labelText"							""						
 						"font"								""
-						"command"							"engine hud_disguise_on"
+						"command"							"engine hud_spy_disguise_on"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 					}
@@ -187,7 +187,7 @@
 						"proportionaltoparent"				"1"
 						"labelText"							""
 						"font"								""
-						"command"							"engine hud_disguise_off"
+						"command"							"engine hud_spy_disguise_off"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
 					}

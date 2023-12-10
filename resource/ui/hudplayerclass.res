@@ -1,6 +1,6 @@
-#base "#customizations/crosshairs/hudcrosshairs.res"
+#base "#customizations/crosshair/crosshair.res"
 #base "#customizations/speedometer/speedometer.res"
-#base "#customizations/disguise/disguise.res"
+#base "#customizations/spy_disguise/spy_disguise.res"
 #base "#customizations/player_model/player_model.res"
 
 "Resource/UI/HudPlayerClass.res"
@@ -82,29 +82,6 @@
 		"teambg_2_lodef"	"../hud/character_red_bg_lodef"
 		"teambg_3"		"../hud/character_blue_bg"
 		"teambg_3_lodef"	"../hud/character_blue_bg_lodef"
-	}
-
-	"classmodelpanelBG"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"classmodelpanelBG"
-		"xpos"			"-1"		[$WIN32]
-		"xpos_minmode"	"-15"		[$WIN32]
-		"ypos"			"r60"	[$WIN32]
-		"ypos_minmode"		"r40"	[$WIN32]
-		"xpos"			"41"	[$X360]
-		"ypos"			"r82"	[$X360]
-		"zpos"			"1"		
-		"wide"			"109"
-		"tall"			"50"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"
-		"image"				"../hud/character_red_bg_clipped"	
-		"teambg_2"			"../hud/character_red_bg_clipped"
-		"teambg_2_lodef"	"../hud/character_red_bg_lodef_clipped"
-		"teambg_3"			"../hud/character_blue_bg_clipped"
-		"teambg_3_lodef"	"../hud/character_blue_bg_lodef_clipped"
 	}
 
 	"CarryingWeapon"

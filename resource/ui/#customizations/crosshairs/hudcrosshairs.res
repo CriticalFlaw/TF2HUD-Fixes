@@ -1,5 +1,0 @@
-#base "hudcrosshairs_visibility.res"
-#base "hudcrosshairs_style.res"
-#base "hudcrosshairs_size.res"
-#base "hudcrosshairs_color.res"
-#base "hudcrosshairs_base.res"

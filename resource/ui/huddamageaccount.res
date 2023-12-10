@@ -1,2 +1,2 @@
-#base "#customizations/damage/damage.res"
-#base "#customizations/damage/damage_float.res"
+#base "#customizations/damage/last_damage.res"
+#base "#customizations/damage/float_damage.res"
