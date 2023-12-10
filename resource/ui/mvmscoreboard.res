@@ -36,7 +36,7 @@
 		"xpos"			"463"
 		"ypos"			"243"
 		"wide"			"150"
-		"tall"			"22"
+		"tall"			"20"
 		"zpos"			"1"
 		"visible"		"1"
 		
@@ -64,7 +64,7 @@
 			"xpos"			"0"
 			"ypos"			"11"
 			"wide"			"150"
-			"tall"			"11"
+			"tall"			"10"
 			"fgcolor"		"tanlight"
 		}
 	}
@@ -97,9 +97,8 @@
 		"fieldName"		"MvMPlayerList"
 		"xpos"			"35"
 		"ypos"			"83"
-		"zpos"			"10"
 		"wide"			"530"
-		"tall"			"290"
+		"tall"			"150"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -127,7 +126,7 @@
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"400"
-			"tall"			"136"
+			"tall"			"135"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
