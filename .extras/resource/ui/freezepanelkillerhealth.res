@@ -1,1 +1,0 @@
-#base "SpectatorTournamentGUIHealth.res"

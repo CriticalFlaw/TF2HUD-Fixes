@@ -1,9 +1,0 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "vgui\logos\ImprovedKillIcons_BloodRedImpacts\dneg"
-	"$translucent"		"1"
-	"$vertexcolor"		"1"
-	"$vertexalpha"		"1"
-	"$ignorez"			"1"
-	"$no_fullbright"	1
-}

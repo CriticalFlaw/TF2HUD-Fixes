@@ -1606,7 +1606,7 @@
 		
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"1"		
+		"zpos"			"6"		
 		"wide"			"480"
 		"tall"			"480"
 		
@@ -1617,7 +1617,7 @@
 		
 		"render_texture"	"0"
 		"fov"			"25"
-		"allow_rot"		"1"
+		"allow_rot"		"0"
 
 		"paintbackground" "1"		
 		"paintbackgroundenabled" "1"

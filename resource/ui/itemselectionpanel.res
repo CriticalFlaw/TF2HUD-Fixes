@@ -186,7 +186,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BottomLine"
 		"xpos"			"c-305"
-		"ypos"			"322"
+		"ypos"			"330"
 		"zpos"			"2"
 		"wide"			"610"
 		"tall"			"10"

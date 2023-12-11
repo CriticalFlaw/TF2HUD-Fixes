@@ -10,13 +10,13 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 				
-		"team1_player_base_offset_x"		"-135"
+		"team1_player_base_offset_x"		"-75"
 		"team1_player_base_y"				"0"
-		"team1_player_delta_x"				"-50"
+		"team1_player_delta_x"				"-47"
 		"team1_player_delta_y"				"0"
-		"team2_player_base_offset_x"		"85"
+		"team2_player_base_offset_x"		"25"
 		"team2_player_base_y"				"0"
-		"team2_player_delta_x"				"50"
+		"team2_player_delta_x"				"47"
 		"team2_player_delta_y"				"0"
 		
 		"playerpanels_kv"
@@ -195,8 +195,8 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
 				"font"			"DefaultSmall"
-				"xpos"			"2"
-				"ypos"			"8"
+				"xpos"			"25"
+				"ypos"			"17"
 				"zpos"			"6"
 				"wide"			"25"
 				"tall"			"15"
@@ -204,7 +204,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
-				"textAlignment"	"south"
+				"textAlignment"	"north"
 				"fgcolor"		"0 255 0 255"
 			}
 			
@@ -224,6 +224,12 @@
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
 				//"fgcolor"		"235 226 202 255"
+			}
+			
+			if_mvm
+			{
+				"wide"		"55"
+				"tall"		"35"
 			}
 		}
 		
@@ -375,7 +381,7 @@
 		"bgcolor_override"		"255 255 255 0"
 		"PaintBackgroundType"	"0"
 		
-		"model_center_y"	"1"
+		"model_ypos"		"20"
 		"model_center_x"	"1"
 		"model_wide"		"80"
 		"model_tall"		"50"
@@ -401,7 +407,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"ItemFontAttribSmall"
+			"font"			"DefaultSmall"
 			"xpos"			"10"
 			"ypos"			"3"
 			"zpos"			"1"
