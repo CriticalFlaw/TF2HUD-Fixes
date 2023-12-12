@@ -51,6 +51,7 @@
 - [Metisz](https://github.com/Metisz) for the high-quality [Loading Screen](https://gamebanana.com/mods/285046).
 - [Hypnootize](https://github.com/Hypnootize) for the [HUD Crosshairs](https://github.com/Hypnootize/TF2-HUD-Crosshairs).
 - [Jofre-Problem](https://github.com/Jofre-Problem) for the matchmaking stats on the main menu.
+- [quickkennedy](https://github.com/quickkennedy) for the quake-style [speedometer](https://www.teamfortress.tv/61625/speedometer-in-any-hud).
 
 ### Suggested Mods
 *Following mods do not fit the scope of this project, but should work alongside the HUD.*
