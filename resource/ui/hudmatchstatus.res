@@ -320,7 +320,7 @@
 			"xpos_minmode"	"39"
 			"xpos_hidef"	"114"
 			"xpos_lodef"	"114"
-			"ypos"			"2"
+			"ypos"			"11"
 			"ypos_minmode"	"6"
 			"ypos_hidef"	"15"
 			"ypos_lodef"	"18"
@@ -368,11 +368,11 @@
 
 		"team1_grow_dir" "west"
 		"team1_base_x"	"c-50"
-		"team1_max_expand"	"150"
+		"team1_max_expand"	"200"
 
 		"team2_grow_dir" "east"
 		"team2_base_x"	"c50"
-		"team2_max_expand"	"150"
+		"team2_max_expand"	"200"
 
 		"playerpanels_kv"
 		{
