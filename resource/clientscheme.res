@@ -1048,17 +1048,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"MatchmakingDialogMenuSmall"
-		{
-			"1"
-			{
-				"name"		"TF2 Secondary"
-				tall		"47"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
 		"PerformanceModeSmall"
 		{
 			"1"
@@ -1221,28 +1210,6 @@ Scheme
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"HDRDemoText"
-		{
-			"1"
-			{
-				"name"		"TF2 Secondary"
-				"tall"		"24"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"Ui"
-		{
-			"1"
-			{
-				"name"		"TF2 Secondary"
-				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1540,26 +1507,6 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"12"
-				"antialias" "1"
-				"weight"	"500"
-			}
-		}
-		"MenuMedium"
-		{
-			"1"
-			{
-				"name"		"TF2"
-				"tall"		"15"
-				"antialias" "1"
-				"weight"	"500"
-			}
-		}
-		"MenuSmall"
-		{
-			"1"
-			{
-				"name"		"TF2"
-				"tall"		"15"
 				"antialias" "1"
 				"weight"	"500"
 			}
