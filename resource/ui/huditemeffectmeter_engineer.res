@@ -4,7 +4,7 @@
 {
 	HudItemEffectMeter
 	{
-		"xpos"			"r232"	[$WIN32]
+		"xpos"			"r245"	[$WIN32]
 		"xpos_minmode"	"r220"	[$WIN32]
 	}
 }
