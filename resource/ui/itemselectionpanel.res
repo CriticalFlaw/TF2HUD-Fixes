@@ -205,7 +205,7 @@
 		"font"			"HudFontMediumBold"
 		"labelText"		"#PrimaryWeapon"
 		"textAlignment"	"west"
-		"xpos"			"c-55"
+		"xpos"			"c-150"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"375"
