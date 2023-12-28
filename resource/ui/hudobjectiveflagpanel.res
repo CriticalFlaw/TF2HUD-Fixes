@@ -359,7 +359,7 @@
 		
 		"if_specialdelivery"
 		{
-			"ypos"			"r77"
+			"ypos"			"r132"
 			"visible"		"0"
 		}
 	}		
@@ -464,12 +464,14 @@
 		"if_hybrid"
 		{
 			"visible"	"0"
-			"ypos"		"r100"
+			"ypos"		"r116"
 		}
 		
 		"if_hybrid_single"
 		{
 			"xpos"		"c-80"
+			"xpos_minmode"	"c-72"
+			"ypos_minmode"	"r95"
 		}
 		
 		"if_hybrid_double"
@@ -512,7 +514,7 @@
 		"if_hybrid"
 		{
 			"visible"	"0"
-			"ypos"		"r100"
+			"ypos"		"r116"
 		}
 		
 		"if_hybrid_single"
@@ -551,7 +553,7 @@
 		
 		"if_hybrid"
 		{
-			"ypos"		"r100"
+			"ypos"		"r116"
 		}
 		
 		"if_specialdelivery"
