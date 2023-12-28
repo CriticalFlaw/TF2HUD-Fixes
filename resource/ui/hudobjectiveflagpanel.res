@@ -520,6 +520,8 @@
 		"if_hybrid_single"
 		{
 			"xpos"		"c-80"
+			"xpos_minmode"	"c-72"
+			"ypos_minmode"	"r95"
 		}
 		
 		"if_hybrid_double"
