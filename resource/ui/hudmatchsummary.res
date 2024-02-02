@@ -238,7 +238,7 @@
 	 			"ControlName"		"EditablePanel"
 				"fieldName"		"BlueTeamPanel"
 				"xpos"			"-320"
-				"ypos"			"20"
+				"ypos"			"25"
 				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -461,23 +461,23 @@
 						"enabled"		"1"
 						"tabPosition"	"0"
 						"autoresize"	"0"
-						"linespacing"	"25"
-						"linegap"		"0"
+						"linespacing"	"24"
+						"linegap"		"4"
 						//"show_columns"	"1"
 
 						"medal_width"	"s.08"
 						"avatar_width"	"s.08"
-						"spacer"		"2"
+						"spacer"		"s.01"
 						"name_width"	"s.19"
 						"class_width"	"s.04"
 						"award_width"	"s.04"
 						"stats_width"	"s.08"
-						"horiz_inset"	"0"
+						"horiz_inset"	"4"
 
 						if_large
 						{
-							"tall"			"340"
-							"linegap"		"0"
+							"tall"			"314"
+							"linegap"		"1"
 						}
 					}
 				}
@@ -489,7 +489,7 @@
 					"ypos"			"117"
 					"zpos"			"0"
 					"wide"			"p.2"
-					"tall"			"205"
+					"tall"			"225"
 					"autoResize"	"0"
 					"pinCorner"		"0"
 					"visible"		"1"
@@ -499,7 +499,7 @@
 					if_large
 					{
 						"ypos"			"57"
-						"tall"			"340"
+						"tall"			"335"
 					}
 				}
 			}
@@ -508,7 +508,7 @@
 	 			"ControlName"		"EditablePanel"
 				"fieldName"		"RedTeamPanel"
 				"xpos"			"320"
-				"ypos"			"20"
+				"ypos"			"25"
 				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -730,23 +730,23 @@
 						"enabled"		"1"
 						"tabPosition"	"0"
 						"autoresize"	"0"
-						"linespacing"	"25"
-						"linegap"		"0"
+						"linespacing"	"24"
+						"linegap"		"4"
 						//"show_columns"	"1"
 
 						"medal_width"	"s.08"
 						"avatar_width"	"s.08"
-						"spacer"		"2"
+						"spacer"		"s.01"
 						"name_width"	"s.19"
 						"class_width"	"s.04"
 						"award_width"	"s.04"
 						"stats_width"	"s.08"
-						"horiz_inset"	"0"
+						"horiz_inset"	"4"
 
 						if_large
 						{
-							"tall"			"340"
-							"linegap"		"0"
+							"tall"			"314"
+							"linegap"		"1"
 						}
 					}
 				}
@@ -758,7 +758,7 @@
 					"ypos"			"117"
 					"zpos"			"0"
 					"wide"			"p.2"
-					"tall"			"205"
+					"tall"			"225"
 					"autoResize"	"0"
 					"pinCorner"		"0"
 					"visible"		"1"
@@ -768,7 +768,7 @@
 					if_large
 					{
 						"ypos"			"57"
-						"tall"			"340"
+						"tall"			"335"
 					}
 				}
 			}
