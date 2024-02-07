@@ -139,7 +139,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"MapInfoWatchIntro"
-		"xpos"			"c-50"
+		"xpos"			"c-75"
 		"ypos"			"r40"
 		"ypos_lodef"			"r64"
 		"ypos_hidef"			"r54"
