@@ -476,7 +476,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"c148"
+		"xpos"			"r215"
 		"ypos"			"28"
 		"zpos"			"10"
 		"wide"			"32"
@@ -579,7 +579,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WatchStreamButton"
-		"xpos"			"c188"
+		"xpos"			"r175"
 		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"
@@ -652,7 +652,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButton"
-		"xpos"			"c228"
+		"xpos"			"r135"
 		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"
@@ -725,7 +725,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"c268"
+		"xpos"			"r95"
 		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"
@@ -2789,7 +2789,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ShowHUDOptonsButton"
-		"xpos"			"c308"
+		"xpos"			"r53"
 		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"
