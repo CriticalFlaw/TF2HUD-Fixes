@@ -670,7 +670,6 @@
 		"wide"	 "640"
 		"tall"	 "480"
 	}
-	
 	HudAnimationInfo
 	{
 		"fieldName" "HudAnimationInfo"
@@ -679,7 +678,6 @@
 		"wide"	 "640"
 		"tall"	 "480"
 	}
-	
 	CBudgetPanel
 	{
 		"fieldName" "CBudgetPanel"
@@ -688,7 +686,6 @@
 		"wide"	 "640"
 		"tall"	 "480"
 	}
-	
 	CTextureBudgetPanel
 	{
 		"fieldName" "CTextureBudgetPanel"
@@ -706,6 +703,7 @@
 		"wide"	 "1280"
 		"tall"	 "1024"
 	}
+
 
 	HudLocation
 	{
@@ -1076,6 +1074,7 @@
 		"tall"					"100"
 	}
 
+
 	HudTeamGoalTournament
 	{
 		"fieldName"				"HudTeamGoalTournament"
@@ -1137,7 +1136,6 @@
 		"wide"					"320"
 		"tall"					"100"
 	}
-	
 	HudTournament
 	{
 		"fieldName"				"HudTournament"
@@ -1386,6 +1384,7 @@
 		"tall"			"150"
 	}
 
+
 	"CTFStreakNotice"
 	{
 		"fieldName"		"CTFStreakNotice"
@@ -1521,3 +1520,4 @@
 		"alpha"					"100"
 	}
 }
+
