@@ -73,7 +73,7 @@
 		"xpos"			"c-300"	[$WIN32]
 		"xpos_minmode"	"0"
 		"xpos"			"c-200"	[$X360]
-		"ypos"			"50"	[$WIN32]
+		"ypos"			"80"	[$WIN32]
 		"ypos_minmode"	"3"		[$WIN32]
 		"ypos"			"67"	[$X360]
 		"ypos_hidef"	"79"
@@ -142,7 +142,7 @@
 		"xpos"			"c-85"
 		"xpos_hidef"	"c-65"
 		"xpos_lodef"	"40"
-		"ypos"			"68"
+		"ypos"			"98"
 		"ypos_hidef"	"90"
 		"ypos_lodef"	"30"	
 		"wide"			"170"
