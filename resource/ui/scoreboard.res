@@ -578,7 +578,7 @@
 		
 		if_mvm
 		{
-			"ypos"		"428"
+			"ypos"		"357"
 		}
 	}	
 	"SpectatorsInQueue"
