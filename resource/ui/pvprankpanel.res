@@ -189,7 +189,7 @@
 		"ypos"			"20"
 		"zpos"			"-1"
 		"wide"			"260"
-		"tall"			"f40"
+		"tall"			"f42"
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"proportionaltoparent"	"1"
