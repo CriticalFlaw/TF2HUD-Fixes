@@ -44,7 +44,7 @@
 		"xpos"					"42"
 		"ypos"					"30"
 		"zpos"					"2"
-		"wide"					"41"
+		"wide"					"42"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
@@ -60,6 +60,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"TFFontSmall"
+		"allcaps"               "1"
 	}
 
 	"ItemEffectMeter"
