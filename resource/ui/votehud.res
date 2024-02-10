@@ -534,7 +534,7 @@
 		"fieldName"			"VoteSetupDialog"
 		"xpos"				"c-200"
 		"ypos"				"c-150"
-		"wide"				"420"
+		"wide"				"400"
 		"tall"				"310"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -554,7 +554,7 @@
 		"issue_fgcolor"		"TanLight"
 		"issue_fgcolor_disabled"	"TanDark"
 		
-		"parameter_width"	"200"
+		"parameter_width"	"168"
 
 		"TitleLabel"
 		{
@@ -599,7 +599,7 @@
 			"xpos"		"190"
 			"ypos"		"38"
 			"zpos"		"2"
-			"wide"		"227"
+			"wide"		"200"
 			"tall"		"200"
 			"pinCorner"		"0"
 			"visible"		"1"
