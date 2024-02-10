@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/6818236/135372003-c609a9af-6765-4a3d-9964-d6875868c4f3.png)
 <p align="center">
   <p align="center">
-    A compilation of bug fixes, QOL changes and minor visual tweaks to the default Team Fortress 2 HUD.
+    Bug fixes and minor visual improvements to the default Team Fortress 2 HUD.
     <br />
     <a href="https://steamcommunity.com/workshop/filedetails/?id=2153598398">Steam Workshop</a> · <a href="https://steamcommunity.com/workshop/filedetails/?id=2156577890">TF2 Community Fix-Up Pack</a> · <a href="https://gamebanana.com/mods/26450">GameBanana</a> · <a href="https://github.com/CriticalFlaw/TF2HUD.Editor/releases/latest">HUD Editor</a>
   </p>
@@ -36,21 +36,19 @@
 - Updated the Item Testing screen to not overlap with the matchmaking dashboard.
 - Updated the Replay screen's header and footer to match other main menu screens.
 
+### Acknowledgements
+- [PapaPeach](https://github.com/PapaPeach) and [Hypnootize](https://github.com/Hypnootize) for log-based customizations method and panel.
+- [Tkain](https://gamebanana.com/members/1582147) for the high-quality [TF2 Logo](https://gamebanana.com/mods/27061).
+- [Metisz](https://github.com/Metisz) for the high-quality [Loading Screen](https://gamebanana.com/mods/285046).
+- [Hypnootize](https://github.com/Hypnootize) for the [HUD Crosshairs](https://github.com/Hypnootize/TF2-HUD-Crosshairs).
+- [Jofre-Problem](https://github.com/Jofre-Problem) for the matchmaking stats on the main menu.
+- [impale1](https://github.com/impale1) for the match summary and vote panel fixes.
+- [Eerorri](https://github.com/Eerorri) for the Capture the Flag UI fixes.
+
 ### Suggested Mods
-*Following recommended visual mods did not fit the scope of the project, but should work nicely alongside the HUD.*
-- [HD TF2 Menu Logo](https://gamebanana.com/mods/27061) by [Tkain](https://gamebanana.com/members/1582147)
-- [HD Loading Screens](https://gamebanana.com/mods/285046) by [Tkain](https://gamebanana.com/members/1582147)
+*Following mods do not fit the scope of this project, but should work alongside the HUD.*
+- [Missing Killicons Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959) by [NeoDement](https://github.com/NeoDement).
 - [HD Menu Event Backgrounds](https://gamebanana.com/mods/406953) by [Tkain](https://gamebanana.com/members/1582147)
 - [Upscaled Menu Character Images](https://gamebanana.com/mods/287264) by [AtomicTEM](https://gamebanana.com/members/1528272)
 - [Sloofy's Overhauled UI Portraits](https://gamebanana.com/mods/26400) by [Sloofy](https://gamebanana.com/members/1625037)
-- **[Fixed 16:9 Loading Screen](https://gamebanana.com/mods/397571)** by [Corndog Ninja](https://gamebanana.com/members/890406).
-- **[Missing Killicons Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959)** by [NeoDement](https://github.com/NeoDement).
-- **High Resolution TF2 Logo** by [Metisz](https://github.com/Metisz).
-- Transparent Viewmodels. Requires the [mastercomfig](https://mastercomfig.com/app/) add-on of the same name.
-- **[HUD Crosshairs](https://github.com/Hypnootize/TF2-HUD-Crosshairs)** by [Hypnotize](https://github.com/Hypnootize).
-- Buttons for changes team colors on the Loadout screen.
-- Matchmaking stats on the main menu by [Jofre-Problem](https://github.com/Jofre-Problem).
-- Navigating Backpack, Armory, Item Selection and store pages using the **A** and **D** keys.
-- Large-numbers for the player health and damage dealt values.
-- Minmode variant of the Player Destruction UI.
-- Console button on the main menu.
+- [Fixed 16:9 Loading Screen](https://gamebanana.com/mods/397571) by [Corndog Ninja](https://gamebanana.com/members/890406).
