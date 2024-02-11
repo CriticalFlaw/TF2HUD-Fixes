@@ -51,7 +51,8 @@
 		"ypos"			"0"
 		"ypos_minmode"	"2"
 		"zpos"			"5"
-		"wide"			"55"
+		"wide"			"55" [$WINDOWS]
+		"wide"			"56" [$LINUX]
 		"tall"			"40"
 		"tall_minmode"	"38"
 		"tall_lodef"	"45"
@@ -75,7 +76,8 @@
 		"ypos_hidef"	"2"
 		"ypos_lodef"	"2"
 		"zpos"			"5"
-		"wide"			"55"
+		"wide"			"55" [$WINDOWS]
+		"wide"			"56" [$LINUX]
 		"tall"			"40"
 		"tall_minmode"	"39"
 		"tall_lodef"	"45"
