@@ -119,8 +119,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ZoomButton"
-		"xpos"			"r45"
-		"ypos"			"30"
+		"xpos"			"r24"
+		"ypos"			"51"
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"

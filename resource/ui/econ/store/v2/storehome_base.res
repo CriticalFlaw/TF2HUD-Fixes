@@ -22,7 +22,7 @@
 		"item_controls_xoffset"	"2"
 		"item_controls_yoffset"	"2"
 		
-		"max_cart_model_panels"	"8"
+		"max_cart_model_panels"	"11"
 		
 		"item_ypos"		"40"
 		"item_mod_wide"	"40"
@@ -143,11 +143,11 @@
 		"cart_labels_kv"
 		{
 			"font"			"HudFontSmallestBold"
-			"textAlignment"	"north-east"
+			"textAlignment"	"center"
 			"xpos"			"c-61"
 			"ypos"			"32"
 			"zpos"			"15"
-			"wide"			"16"
+			"wide"			"21"
 			"tall"			"10"
 			"autoResize"	"1"
 			"pinCorner"		"0"	
@@ -431,7 +431,7 @@
 		"xpos"			"c-238"
 		"ypos"			"305"
 		"zpos"			"12"
-		"wide"			"56"
+		"wide"			"72"
 		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
