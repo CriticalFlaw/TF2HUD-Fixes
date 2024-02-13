@@ -631,7 +631,7 @@
 		"fieldName"		"ClassImage"
 		"xpos"			"22"
 		"xpos_lodef"	"12"
-		"ypos"			"352"
+		"ypos"			"rs1.392"
 		"zpos"			"3"
 		"wide"			"92"
 		"tall"			"92"
@@ -642,6 +642,7 @@
 		
 		if_mvm
 		{
+		    "ypos"			"rs1.390"
 			"visible"		"1"
 		}
 	}
@@ -651,7 +652,7 @@
 		"fieldName"		"classmodelpanel"
 		
 		"xpos"			"-10"
-		"ypos"			"183"
+		"ypos"			"rs1.140"
 		"zpos"			"10"		
 		"wide"			"130"
 		"tall"			"260"
@@ -668,6 +669,7 @@
 
 		if_mvm
 		{
+		    "ypos"			"rs1.138"
 			"visible"		"0"
 		}
 				
