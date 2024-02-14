@@ -459,7 +459,8 @@
 					"xpos"			"10"
 					"ypos"			"5"
 					"zpos"			"0"
-					"wide"			"100"
+					"wide"			"100" [$WINDOWS]
+					"wide"			"110" [$LINUX]
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
@@ -477,7 +478,8 @@
 					"xpos"			"10"
 					"ypos"			"25"
 					"zpos"			"0"
-					"wide"			"100"
+					"wide"			"100" [$WINDOWS]
+					"wide"			"110" [$LINUX]
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
@@ -495,7 +497,8 @@
 					"xpos"			"10"
 					"ypos"			"45"
 					"zpos"			"0"
-					"wide"			"100"
+					"wide"			"100" [$WINDOWS]
+					"wide"			"110" [$LINUX]
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
@@ -514,7 +517,8 @@
 					"xpos"			"c0"
 					"ypos"			"5"
 					"zpos"			"0"
-					"wide"			"100"
+					"wide"			"100" [$WINDOWS]
+					"wide"			"121" [$LINUX]
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
@@ -532,7 +536,8 @@
 					"xpos"			"c0"
 					"ypos"			"25"
 					"zpos"			"0"
-					"wide"			"100"
+					"wide"			"100" [$WINDOWS]
+					"wide"			"121" [$LINUX]
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
@@ -569,7 +574,8 @@
 					"xpos"			"c0"
 					"ypos"			"45"
 					"zpos"			"0"
-					"wide"			"100"
+					"wide"			"100" [$WINDOWS]
+					"wide"			"121" [$LINUX]
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
