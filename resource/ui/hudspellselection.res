@@ -118,7 +118,7 @@
 		"xpos_minmode"	"46"
 		"ypos_minmode"	"37"
 		"wide"			"20"
-		"tall"			"19"
+		"tall"			"20"
 		"fgcolor"		"tanlight"
 	}
 }
