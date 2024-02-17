@@ -297,8 +297,8 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
-			"xpos"			"rs1-10"
-			"ypos"			"0"
+			"xpos"			"rs1-5"
+			"ypos"			"-1"
 			"wide"			"f10"
 			"tall"			"200"
 			"proportionaltoparent"	"1"
@@ -332,7 +332,7 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"CurrentXPLabel"
-					"xpos"			"0"
+					"xpos"			"s-0.0001"
 					"ypos"			"rs1"
 					"zpos"			"0"
 					"wide"			"100"
@@ -368,9 +368,9 @@
 				{
 					"Controlname"	"EditablePanel"
 					"fieldName"		"ProgressBarsContainer"
-					"xpos"			"5"
+					"xpos"			"s0.004"
 					"ypos"			"rs1-10"
-					"wide"			"p1"
+					"wide"			"p0.991"
 					"tall"			"7"
 					"proportionaltoparent"	"1"
 
@@ -423,10 +423,10 @@
 			{
 				"ControlName"	"EditablePanel"
 				"fieldName"		"Stats"
-				"xpos"			"5"
-				"ypos"			"rs1-35"
+				"xpos"			"0"
+				"ypos"			"rs1.741"
 				"wide"			"f0"
-				"tall"			"p0.35"
+				"tall"			"p0.3003"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 				"bgcolor_override"	"0 0 0 100"
