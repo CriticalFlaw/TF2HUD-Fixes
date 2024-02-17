@@ -122,6 +122,7 @@
 		"fieldName"			"CarriedContainer"
 		"xpos"				"0"
 		"ypos"				"r100"
+		"xpos_minmode"	    "125"
 		"ypos_minmode"	    "r90"
 		"zpos"				"1"
 		"wide"				"100"
