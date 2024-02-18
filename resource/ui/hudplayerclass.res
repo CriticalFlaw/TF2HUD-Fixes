@@ -25,7 +25,7 @@
 		"fieldName"		"PlayerStatusClassImage"
 		"xpos"			"25"	[$WIN32]
 		"xpos_minmode"	"15"	[$WIN32]
-		"ypos"			"r88"	[$WIN32]
+		"ypos"			"rs1.2"	[$WIN32]
 		"ypos_minmode"	"r54"	[$WIN32]
 		"xpos"			"57"	[$X360]
 		"ypos"			"r110"	[$X360]
