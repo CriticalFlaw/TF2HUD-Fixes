@@ -710,22 +710,22 @@
 			"ControlName"	"SectionedListPanel"
 			"fieldName"		"BluePlayerList"
 			"xpos"			"6"
-			"ypos"			"38"
+			"ypos"			"40"
 			"zpos"			"1"
 			"wide"			"136"
-			"tall"			"175"
+			"tall"			"163"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"autoresize"	"3"
-			"linespacing"	"25"
-			"linegap"		"0"
+			"linespacing"	"21"
+			"linegap"		"4"
 			//"show_columns"	"1"
 
 			if_large
 			{
-				"tall"			"315"
+				"tall"			"312"
 			}
 		}
 		"BluePlayerListBG"
@@ -736,7 +736,7 @@
 			"ypos"			"30"
 			"zpos"			"0"
 			"wide"			"139"
-			"tall"			"215"
+			"tall"			"176"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -848,22 +848,22 @@
 			"ControlName"	"SectionedListPanel"
 			"fieldName"		"RedPlayerList"
 			"xpos"			"6"
-			"ypos"			"38"
+			"ypos"			"40"
 			"zpos"			"1"
 			"wide"			"136"
-			"tall"			"175"
+			"tall"			"163"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"autoresize"	"3"
-			"linespacing"	"25"
-			"linegap"		"0"
+			"linespacing"	"21"
+			"linegap"		"4"
 			//"show_columns"	"1"
 
 			if_large
 			{
-				"tall"			"315"
+				"tall"			"312"
 			}
 		}
 		"RedPlayerListBG"
@@ -874,7 +874,7 @@
 			"ypos"			"30"
 			"zpos"			"0"
 			"wide"			"139"
-			"tall"			"215"
+			"tall"			"176"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
