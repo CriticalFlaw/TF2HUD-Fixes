@@ -238,7 +238,7 @@
 	 			"ControlName"		"EditablePanel"
 				"fieldName"		"BlueTeamPanel"
 				"xpos"			"-320"
-				"ypos"			"25"
+				"ypos"			"0"
 				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -262,7 +262,7 @@
 
 					if_large
 					{
-						"ypos"			"39"
+						"ypos"			"64"
 					}
 				}
 				"BlueTeamScore"
@@ -284,7 +284,7 @@
 
 					if_large
 					{
-						"ypos"			"43"
+						"ypos"			"68"
 					}
 
 				}
@@ -308,7 +308,7 @@
 
 					if_large
 					{
-						"ypos"			"44"
+						"ypos"			"69"
 					}
 				}
 				"BlueTeamWinner"
@@ -330,7 +330,7 @@
 
 					if_large
 					{
-						"ypos"			"43"
+						"ypos"			"68"
 					}
 				}
 				"BlueTeamWinnerDropshadow"
@@ -353,7 +353,7 @@
 
 					if_large
 					{
-						"ypos"			"44"
+						"ypos"			"69"
 					}
 				}
 				"BlueTeamImage"
@@ -372,7 +372,7 @@
 
 					if_large
 					{
-						"ypos"			"29"
+						"ypos"			"54"
 					}
 				}
 				"BlueTeamLabel"
@@ -409,7 +409,7 @@
 
 					if_large
 					{
-						"ypos"			"40"
+						"ypos"			"65"
 					}
 				}
 				"BlueLeaderAvatarBG"
@@ -427,7 +427,7 @@
 
 					if_large
 					{
-						"ypos"			"38"
+						"ypos"			"63"
 					}
 				}
 				"BluePlayerListParent"
@@ -444,7 +444,7 @@
 
 					if_large
 					{
-						"ypos"			"77"
+						"ypos"			"102"
 						"tall"			"340"
 					}
 
@@ -456,7 +456,7 @@
 						"ypos"			"0"
 						"zpos"			"1"
 						"wide"			"p.465"
-						"tall"			"205"
+						"tall"			"179"
 						"visible"		"1"
 						"enabled"		"1"
 						"tabPosition"	"0"
@@ -476,7 +476,7 @@
 
 						if_large
 						{
-							"tall"			"314"
+							"tall"			"310"
 							"linegap"		"1"
 						}
 					}
@@ -489,7 +489,7 @@
 					"ypos"			"117"
 					"zpos"			"0"
 					"wide"			"p.2"
-					"tall"			"225"
+					"tall"			"206"
 					"autoResize"	"0"
 					"pinCorner"		"0"
 					"visible"		"1"
@@ -498,7 +498,7 @@
 
 					if_large
 					{
-						"ypos"			"57"
+						"ypos"			"82"
 						"tall"			"335"
 					}
 				}
@@ -508,7 +508,7 @@
 	 			"ControlName"		"EditablePanel"
 				"fieldName"		"RedTeamPanel"
 				"xpos"			"320"
-				"ypos"			"25"
+				"ypos"			"0"
 				"zpos"			"0"
 				"wide"			"f0"
 				"tall"			"f0"
@@ -532,7 +532,7 @@
 
 					if_large
 					{
-						"ypos"			"39"
+						"ypos"			"64"
 					}
 				}						
 				"RedTeamScore"
@@ -554,7 +554,7 @@
 
 					if_large
 					{
-						"ypos"			"43"
+						"ypos"			"68"
 					}
 				}
 				"RedTeamScoreDropshadow"
@@ -577,7 +577,7 @@
 
 					if_large
 					{
-						"ypos"			"44"
+						"ypos"			"69"
 					}
 				}
 				"RedTeamWinner"
@@ -599,7 +599,7 @@
 
 					if_large
 					{
-						"ypos"			"43"
+						"ypos"			"68"
 					}
 				}
 				"RedTeamWinnerDropshadow"
@@ -622,7 +622,7 @@
 
 					if_large
 					{
-						"ypos"			"44"
+						"ypos"			"69"
 					}
 				}
 				"RedTeamImage"
@@ -641,7 +641,7 @@
 
 					if_large
 					{
-						"ypos"			"20"
+						"ypos"			"45"
 					}
 				}
 				"RedTeamLabel"
@@ -678,7 +678,7 @@
 
 					if_large
 					{
-						"ypos"			"40"
+						"ypos"			"65"
 					}
 				}
 				"RedLeaderAvatarBG"
@@ -696,7 +696,7 @@
 
 					if_large
 					{
-						"ypos"			"38"
+						"ypos"			"63"
 					}
 				}
 				"RedPlayerListParent"
@@ -713,7 +713,7 @@
 
 					if_large
 					{
-						"ypos"			"77"
+						"ypos"			"102"
 						"tall"			"340"
 					}
 			
@@ -725,7 +725,7 @@
 						"ypos"			"0"
 						"zpos"			"1"
 						"wide"			"p.465"
-						"tall"			"205"
+						"tall"			"179"
 						"visible"		"1"
 						"enabled"		"1"
 						"tabPosition"	"0"
@@ -745,7 +745,7 @@
 
 						if_large
 						{
-							"tall"			"314"
+							"tall"			"310"
 							"linegap"		"1"
 						}
 					}
@@ -758,7 +758,7 @@
 					"ypos"			"117"
 					"zpos"			"0"
 					"wide"			"p.2"
-					"tall"			"225"
+					"tall"			"206"
 					"autoResize"	"0"
 					"pinCorner"		"0"
 					"visible"		"1"
@@ -767,7 +767,7 @@
 
 					if_large
 					{
-						"ypos"			"57"
+						"ypos"			"82"
 						"tall"			"335"
 					}
 				}
