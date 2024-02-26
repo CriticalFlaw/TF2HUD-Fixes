@@ -5,7 +5,7 @@
 	{
 		 "CarriedImage"
 		 {
-			 "image"                                             "../vgui/replay/thumbnails/selbyen_pickup"
+			 "image"	"replay/thumbnails/selbyen_pickup"
 		 }
 	}
 	"ScoreContainer"
@@ -14,12 +14,12 @@
 		 {
 			 "FlagImageBlue"
 			 {
-					 "image"                                             "../vgui/replay/thumbnails/selbyen_pickup"
+					 "image"	"replay/thumbnails/selbyen_pickup"
 					 "zpos"			"100"
 			 }
 			 "FlagImageRed"
 			 {
-					 "image"                                             "../vgui/replay/thumbnails/selbyen_pickup"
+					 "image"	"replay/thumbnails/selbyen_pickup"
 					 "zpos"			"100"
 			 }
 		 }
