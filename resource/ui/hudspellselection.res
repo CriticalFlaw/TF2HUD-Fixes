@@ -3,6 +3,13 @@
 	HudSpellMenu
 	{
 		"xpos"			"160"
+		"xpos_minmode"			"101"
+		"ypos_minmode"			"r60"
+		
+		"if_killstreak_visible"
+		{
+			"ypos_minmode"			"r90"
+		}
 	}
 			
 	"ItemEffectMeterBG"
