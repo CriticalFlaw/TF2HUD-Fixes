@@ -24,7 +24,7 @@
 		"fieldName"		"StatPanelClassImage"
 		"xpos"			"0"
 		"xpos_lodef"	"3"
-		"ypos"			"30"
+		"ypos"			"rs6.26"
 		"ypos_lodef"	"17"
 		"zpos"			"1"
 		"wide"			"72"
