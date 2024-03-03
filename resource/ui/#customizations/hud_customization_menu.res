@@ -4,8 +4,8 @@
 	{
 		"ControlName"				"EditablePanel"
 		"fieldName"					"SafeMode"
-		"xpos"						"cs-0.4"
-		"ypos"						"cs-0.5+17"
+		"xpos"						"cs-0.5"
+		"ypos"						"cs-0.5"
 		"wide"						"507"
 		"tall"						"320"
 		"zpos"						"50"
