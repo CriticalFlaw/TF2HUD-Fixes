@@ -71,15 +71,12 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"c-300"	[$WIN32]
-		"xpos_minmode"	"0"
 		"xpos"			"c-200"	[$X360]
 		"ypos"			"80"	[$WIN32]
-		"ypos_minmode"	"3"		[$WIN32]
 		"ypos"			"67"	[$X360]
 		"ypos_hidef"	"79"
 		"ypos_lodef"	"85"
 		"wide"			"600"	[$WIN32]
-		"wide_minmode"	"300"
 		"wide"			"400"	[$X360]
 		"tall"			"18"
 		"tall_hidef"		"23"
@@ -89,7 +86,6 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"textAlignment_minmode"		"west"
 		"use_proportional_insets_minmode"	"1"
 		"textinsetx_minmode"				"5"
 		"font"			"HudFontMediumSmallSecondary"
