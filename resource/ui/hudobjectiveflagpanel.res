@@ -344,6 +344,7 @@
 		"fieldName"		"CarriedImage"
 		"xpos"			"c-23"
 		"ypos"			"r120"
+		"ypos_minmode"	"r105"
 		"zpos"			"10"
 		"wide"			"45"
 		"tall"			"45"
@@ -355,11 +356,13 @@
 		"if_hybrid"
 		{
 			"ypos"		"r142"
+			"ypos_minmode"	"r115"
 		}
 		
 		"if_specialdelivery"
 		{
-			"ypos"			"r132"
+			"ypos"			"r110"
+			"ypos_minmode"	"r94"
 			"visible"		"0"
 		}
 	}		
@@ -471,7 +474,7 @@
 		{
 			"xpos"		"c-80"
 			"xpos_minmode"	"c-72"
-			"ypos_minmode"	"r95"
+			"ypos_minmode"	"r90"
 		}
 		
 		"if_hybrid_double"
@@ -481,7 +484,8 @@
 
 		"if_specialdelivery"
 		{
-			"ypos"		"r100"
+			"ypos"		"r79"
+			"ypos_minmode"	"r63"
 		}
 		
 		"if_no_flags"
@@ -531,7 +535,8 @@
 
 		"if_specialdelivery"
 		{
-			"ypos"		"r100"
+			"ypos"		"r79"
+			"ypos_minmode"	"r63"
 		}
 		
 		"if_no_flags"
@@ -545,22 +550,28 @@
 		"ControlName"	"CTFArrowPanel"
 		"fieldName"		"CaptureFlag"
 		"xpos"			"c-40"
+		"xpos_minmode"	"c-32"
 		"ypos"			"r95"	[$WIN32]
+		"ypos_minmode"	"r80"	[$WIN32]
 		"ypos"			"r116"	[$X360]
 		"zpos"			"5"
 		"wide"			"80"
+		"wide_minmode"	"65"
 		"tall"			"80"
+		"tall_minmode"	"65"
 		"visible"		"0"
 		"enabled"		"1"
 		
 		"if_hybrid"
 		{
 			"ypos"		"r116"
+			"ypos_minmode"	"r90"
 		}
 		
 		"if_specialdelivery"
 		{
-			"ypos"		"r100"
+			"ypos"		"r80"
+			"ypos_minmode"	"r63"
 		}
 	}
 
@@ -600,15 +611,27 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SpecCarriedImage"
-		"xpos"			"c-50"
-		"ypos"			"r137"	[$WIN32]
+		"xpos"			"c-30"
+		"ypos"			"r110"	[$WIN32]
 		"ypos"			"r158"	[$X360]
 		"zpos"			"10"
-		"wide"			"100"
-		"tall"			"100"
+		"wide"			"60"
+		"tall"			"60"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_carried_red"
 		"scaleImage"	"1"
+
+		"if_hybrid"
+		{
+			"ypos"		"r150"
+			"ypos_minmode"	"r125"
+		}
+		
+		"if_specialdelivery"
+		{
+			"ypos"			"r115"
+			"ypos_minmode"	"r100"
+		}
 	}			
 }
