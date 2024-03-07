@@ -48,9 +48,7 @@
 					
 				if_mvm
 				{
-					"xpos"				"5"
 					"ypos"				"25"
-					"wide"				"40"
 					"textAlignment"		"center"
 					"font"				"PlayerPanelPlayerName"
 				}
