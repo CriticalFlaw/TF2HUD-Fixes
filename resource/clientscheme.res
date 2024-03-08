@@ -1243,7 +1243,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
-				"tall"		"15"	[$LINUX]
+				"tall"		"17"	[$LINUX]
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -2505,8 +2505,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -2515,8 +2514,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2525,8 +2523,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2539,8 +2536,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -2549,8 +2545,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -2559,8 +2554,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -2573,8 +2567,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -3047,8 +3040,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"0"
 				"blur"		"3"
@@ -3061,8 +3053,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -3074,8 +3065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -3087,8 +3077,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -3100,8 +3089,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"
+				"name"		"Verdana"
 				"tall"		"30"
 				"weight"	"400"
 				"additive"	"0"
