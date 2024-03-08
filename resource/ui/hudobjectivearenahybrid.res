@@ -739,7 +739,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"			"BlueScoreValueContainer"
-			"xpos"				"80"
+			"xpos"				"70"
 			"ypos"				"r48"
 			"zpos"				"10"
 			"wide"				"60"
@@ -776,7 +776,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"ScoreShadow"
-				"xpos"			"c-26"
+				"xpos"			"c-25"
 				"ypos"			"c-19"
 				"xpos_minmode"	"c2"
 				"ypos_minmode"	"c-17"
@@ -800,7 +800,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"			"RedScoreValueContainer"
-			"xpos"				"r140"
+			"xpos"				"r130"
 			"ypos"				"r48"
 			"zpos"				"10"
 			"wide"				"60"
@@ -837,7 +837,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"ScoreShadow"
-				"xpos"			"c-26"
+				"xpos"			"c-25"
 				"ypos"			"c-19"
 				"xpos_minmode"	"c-47"
 				"ypos_minmode"	"c-17"
