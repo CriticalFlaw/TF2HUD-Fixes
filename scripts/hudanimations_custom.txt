@@ -1,15 +1,3 @@
-event HudTournamentSetupPanelOpen
-{
-	Animate HudTournamentSetup	Position	"c-90 -70"	Linear 0.0 0.001
-	Animate HudTournamentSetup	Position	"c-90 90"	Spline 0.001 0.2
-}
-
-event HudTournamentSetupPanelClose
-{
-	Animate HudTournamentSetup	Position	"c-90 90"	Linear 0.0 0.001
-	Animate HudTournamentSetup	Position	"c-90 -70"	Spline 0.001 0.2
-}
-
 //==================================================================================
 
 event DamagedPlayer
