@@ -6,7 +6,7 @@
 		"fieldName"				"HudTournament"
 				
 		"xpos"					"c-125"
-		"ypos"					"0"
+		"ypos"					"25"
 		"wide"					"250"
 		"tall"					"480"
 		"proportionaltoparent"	"1"
