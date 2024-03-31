@@ -10,13 +10,13 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 				
-		"team1_player_base_offset_x"		"-75"
+		"team1_player_base_offset_x"		"-135"
 		"team1_player_base_y"				"0"
-		"team1_player_delta_x"				"-47"
+		"team1_player_delta_x"				"-50"
 		"team1_player_delta_y"				"0"
-		"team2_player_base_offset_x"		"25"
+		"team2_player_base_offset_x"		"85"
 		"team2_player_base_y"				"0"
-		"team2_player_delta_x"				"47"
+		"team2_player_delta_x"				"50"
 		"team2_player_delta_y"				"0"
 		
 		"playerpanels_kv"
@@ -195,8 +195,8 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
 				"font"			"DefaultSmall"
-				"xpos"			"25"
-				"ypos"			"17"
+				"xpos"			"2"
+				"ypos"			"8"
 				"zpos"			"6"
 				"wide"			"25"
 				"tall"			"15"
@@ -204,7 +204,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
-				"textAlignment"	"north"
+				"textAlignment"	"south"
 				"fgcolor"		"0 255 0 255"
 			}
 			
@@ -402,7 +402,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"DefaultSmall"
+			"font"			"ItemFontAttribSmall"
 			"xpos"			"10"
 			"ypos"			"3"
 			"zpos"			"1"

@@ -88,8 +88,8 @@
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"CarryingWeapon"
-		"xpos"					"15"
-		"xpos_minmode"			"0"
+		"xpos"					"20"
+		"xpos_minmode"			"90"
 		"ypos"					"r27"
 		"ypos_minmode"			"r36"
 		"zpos"					"100"
