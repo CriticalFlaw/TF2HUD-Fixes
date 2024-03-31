@@ -20,7 +20,7 @@
 		"fieldName"		"TopBar"
 		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"54"	[$WIN32]
+		"tall"			"84"	[$WIN32]
 		"tall_minmode"			"20"	[$WIN32]
 		"tall"			"104"	[$X360]		
 		"wide"			"f0"
@@ -49,22 +49,20 @@
 	}
 	"bottombarblank"
 	{
-		"ControlName"		"Panel"
+		"ControlName"	"Panel"
 		"fieldName"		"bottombarblank"
-		"xpos"			"0"
-		"ypos"			"r0"	[$WIN32]
+		"xpos"			"9999"
+		"ypos"			"r70"	[$WIN32]
 		"ypos"			"r90"	[$X360]		
-		"ypos_minmode"	"r0"
+		"ypos_minmode"	"r57"
 		"tall"			"70"	[$WIN32]		// this needs to match the size of BottomBar
-		"tall_minmode"	"0"		
 		"tall"			"90"	[$X360]		
 		"wide"			"f0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"visible_minmode"		"0"
-		"enabled"		"1"
-		"tabPosition"		"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"tabPosition"	"0"
 	}
 	"ReinforcementsLabel"
 	{
@@ -72,7 +70,7 @@
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"c-300"	[$WIN32]
 		"xpos"			"c-200"	[$X360]
-		"ypos"			"80"	[$WIN32]
+		"ypos"			"50"	[$WIN32]
 		"ypos"			"67"	[$X360]
 		"ypos_hidef"	"79"
 		"ypos_lodef"	"85"
@@ -138,7 +136,7 @@
 		"xpos"			"c-85"
 		"xpos_hidef"	"c-65"
 		"xpos_lodef"	"40"
-		"ypos"			"98"
+		"ypos"			"68"
 		"ypos_hidef"	"90"
 		"ypos_lodef"	"30"	
 		"wide"			"170"
