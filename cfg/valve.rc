@@ -5,14 +5,18 @@ r_decal_cullsize 1
 // Setup custom controller
 exec joystick.cfg
 
-// Run a user script file if present
+// run a user script file if present
 exec autoexec.cfg
 exec hud_customizations.cfg
 exec hud_crosshair.cfg
 
-// Stuff command line statements
+//
+// stuff command line statements
+//
 stuffcmds
 
-// Display the startup level
+// display the startup level
 startupmenu
-sv_unlockedchapters 99
+
+// FOR XBOX CERT
+//sv_unlockedchapters 99
