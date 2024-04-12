@@ -144,7 +144,7 @@
 				{
 					"xpos"				"4"
 					"ypos"				"21"
-					"wide"				"p0.9"
+					"wide"				"p0.84"
 					"tall"				"p0.22"
 					"textAlignment"		"center"
 					"font"				"PlayerPanelPlayerName"
