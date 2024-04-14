@@ -22,6 +22,6 @@
 		"tall"				"f0"
 		"font"				"Size-18"
 		"textAlignment"		"center"
-		"fgcolor"			"CrosshairWhite"
+		"fgcolor"			"Crosshair"
 	}
 }

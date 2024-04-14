@@ -58,7 +58,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fov"			"70"
+			"fov"			"80"
 			"proportionaltoparent"	"1"
 
 			if_mini
@@ -206,7 +206,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"NameLabel"
-			"xpos"			"65"
+			"xpos"			"58"
 			"ypos"			"5"
 			"wide"			"170"
 			"zpos"			"100"
@@ -229,7 +229,7 @@
 		{
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine1"
-			"xpos"			"65"
+			"xpos"			"58"
 			"ypos"			"19"
 			"wide"			"195"
 			"zpos"			"100"
@@ -260,7 +260,7 @@
 		{
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine2"
-			"xpos"			"65"
+			"xpos"			"58"
 			"ypos"			"29"
 			"wide"			"195"
 			"zpos"			"100"
@@ -297,7 +297,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
-			"xpos"			"rs1-5"
+			"xpos"			"rs1-13"
 			"ypos"			"-1"
 			"wide"			"f10"
 			"tall"			"200"

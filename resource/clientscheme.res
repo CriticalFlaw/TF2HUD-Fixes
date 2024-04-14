@@ -1,3 +1,4 @@
+#base "ui/#customizations/crosshair/crosshair_color.res"
 #base "ui/#customizations/crosshair/crosshair_scheme.res"
 
 //
