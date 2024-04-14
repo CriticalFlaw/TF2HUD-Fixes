@@ -259,7 +259,7 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"cs-0.5-256"
+		"xpos"			"cs-0.5-264"
 		"ypos"			"cs-0.5-120"
 
 		"zpos"			"-51"
@@ -278,7 +278,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
-		"xpos"			"cs-0.5-44"
+		"xpos"			"cs-0.5-52"
 		"ypos"			"cs-0.5-134"
 		"wide"			"15"
 		"tall"			"15"
@@ -332,7 +332,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"RankTooltipPanel"
-		"xpos"			"c-285"
+		"xpos"			"c-292"
 		"ypos"			"99"
 		"zpos"			"-1"
 		"wide"			"8"
@@ -407,7 +407,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"RankBorder"
-		"xpos"			"c-290"
+		"xpos"			"c-297"
 		"ypos"			"94"
 		"zpos"			"-100"
 		"wide"			"260"
@@ -1379,7 +1379,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"c-290"
+		"xpos"			"c-297"
 		"ypos"			"260"
 		"zpos"			"5"
 		"wide"			"260"
@@ -1505,7 +1505,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"EventPromo"
-		"xpos"			"c-290"
+		"xpos"			"c-297"
 		"ypos"			"160"
 		"zpos"			"-55"
 		"wide"			"270"
@@ -2182,9 +2182,9 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterSetupButton"
 		"xpos"			"c-295"
-		"ypos"			"rs1-18"
+		"ypos"			"437"
 		"wide"			"100"
-		"tall"			"26"
+		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
@@ -2243,9 +2243,9 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
 		"xpos"			"c-172"
-		"ypos"			"rs1-18"
+		"ypos"			"437"
 		"wide"			"100"
-		"tall"			"26"
+		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"

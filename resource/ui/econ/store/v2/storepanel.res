@@ -118,7 +118,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CloseButton"
-		"xpos"			"c-300"
+		"xpos"			"c-295"
 		"ypos"			"437"
 		"zpos"			"2"
 		"wide"			"100"
