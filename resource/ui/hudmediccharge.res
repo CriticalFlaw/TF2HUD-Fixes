@@ -200,4 +200,5 @@
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"scaleImage"	"1"	
 	}
+	
 }
