@@ -89,75 +89,42 @@
 		"playerpanels_kv"
 		{
 			"visible"		"0"
-			"wide"			"50"
-			"tall"			"33"
+			"wide"			"55"
+			"tall"			"35"
 			"zpos"			"1"
 			
 			"color_ready"	"0 255 0 220"
 			"color_notready"	"0 0 0 220"
 			
-			if_mvm
-			{
-				"wide"		"55"
-				"tall"		"35"
-			}
-						
 			if_competitive
 			{
 				"wide"		"45"
 				"tall"		"29"
 			}
 
-			if_readymode
-			{
-				"wide"		"55"
-				"tall"		"35"
-			}
-			
 			"playername"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"DefaultVerySmall"
-				"xpos"			"5"
-				"ypos"			"24"
+				"font"			"PlayerPanelPlayerName"
+				"xpos"			"4"
+				"ypos"			"25"
 				"zpos"			"5"
-				"wide"			"50"
+				"wide"			"48"
 				"tall"			"8"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"labelText"		"%playername%"
-				"textAlignment"	"north-west"
+				"textAlignment"	"center"
 				//"fgcolor"		"235 226 202 255"
 					
-				if_mvm
-				{
-					"xpos"				"4"
-					"ypos"				"25"
-					"wide"			"48"
-					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
-				}
-
 				if_competitive
 				{
-					"xpos"				"4"
 					"ypos"				"21"
 					"wide"				"p0.84"
 					"tall"				"p0.22"
-					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
 					"proportionaltoparent" "1"
-				}
-
-				if_readymode
-				{
-					"xpos"				"4"
-					"ypos"				"25"
-					"wide"				"48"
-					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
 				}
 			}
 			
