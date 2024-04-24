@@ -49,7 +49,7 @@
 	}
 	"bottombarblank"
 	{
-		"ControlName"	"Panel"
+		"ControlName"		"Panel"
 		"fieldName"		"bottombarblank"
 		"xpos"			"9999"
 		"ypos"			"r70"	[$WIN32]
@@ -62,7 +62,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"tabPosition"	"0"
+		"tabPosition"		"0"
 	}
 	"ReinforcementsLabel"
 	{

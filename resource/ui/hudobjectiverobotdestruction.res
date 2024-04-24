@@ -18,12 +18,13 @@
 		"robot_y_offset"		"47"
 		"robot_x_step"			"23"
 		"robot_y_step"			"0"
+		
 		"left_steal_edge_offset_minmode"	"75"
 		"right_steal_edge_offset_minmode"	"75"
-		"robot_x_offset_minmode"		"61"
-		"robot_y_offset_minmode"		"36"
-		"robot_x_step_minmode"			"20"
-		
+		"robot_x_offset_minmode"			"61"
+		"robot_y_offset_minmode"			"36"
+		"robot_x_step_minmode"				"20"
+
 		"color_blue"			"84 111 127 255"
 		"color_red"				"171 59 59 255"
 
@@ -256,7 +257,7 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"proportionalToParent"	"1"
-
+		
 			"ScoreOutline"
 			{
 				"fieldName"				"ScoreOutline"
@@ -300,10 +301,10 @@
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
-					"textAlignment"	"west"
+					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"TanLight"
+					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 				}
 
@@ -318,10 +319,10 @@
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
-					"textAlignment"	"west"
+					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"Black"
+					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 				}
 
@@ -336,15 +337,15 @@
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
-					"textAlignment"	"west"
+					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"TanLight"
+					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"               "VictoryLabel"
-					"pin_corner_to_sibling"        "7"
-					"pin_to_sibling_corner"        "5"
+					"pin_corner_to_sibling"        "7"          
+					"pin_to_sibling_corner"        "5"  
 				}
 
 				"VictoryLabelTimeShadow"
@@ -358,15 +359,15 @@
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
-					"textAlignment"	"west"
+					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"Black"
+					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"               "VictoryLabel"
-					"pin_corner_to_sibling"        "7"
-					"pin_to_sibling_corner"        "5"
+					"pin_corner_to_sibling"        "7"          
+					"pin_to_sibling_corner"        "5"  
 				}
 			}
 
@@ -449,10 +450,10 @@
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
-					"textAlignment"	"west"
+					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"TanLight"
+					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 				}
 
@@ -467,10 +468,10 @@
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
-					"textAlignment"	"west"
+					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"Black"
+					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 				}
 
@@ -485,15 +486,15 @@
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
-					"textAlignment"	"west"
+					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"TanLight"
+					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"               "VictoryLabel"
-					"pin_corner_to_sibling"        "7"
-					"pin_to_sibling_corner"        "5"
+					"pin_corner_to_sibling"        "7"          
+					"pin_to_sibling_corner"        "5"  
 				}
 
 				"VictoryLabelTimeShadow"
@@ -507,15 +508,15 @@
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
-					"textAlignment"	"west"
+					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"Black"
+					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"               "VictoryLabel"
-					"pin_corner_to_sibling"        "7"
-					"pin_to_sibling_corner"        "5"
+					"pin_corner_to_sibling"        "7"          
+					"pin_to_sibling_corner"        "5"  
 				}
 			}
 
@@ -601,15 +602,15 @@
 				"tall"			"35"
 				"visible"		"1"
 				"enabled"		"1"
-				"textAlignment"	"west"
+				"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
-				"fgcolor"		"TanLight"
+				"fgcolor"		"TanLight"		
 				"proportionalToParent"	"1"
-			}
-
+			}	
+		
 			"ScoreShadow"
 			{
 				"ControlName"	"CExLabel"
@@ -623,12 +624,12 @@
 				"tall"			"35"
 				"visible"		"1"
 				"enabled"		"1"
-				"textAlignment"	"west"
+				"textAlignment"	"west"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
-				"fgcolor"		"Black"
+				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}
 		}
@@ -660,15 +661,15 @@
 				"tall"			"35"
 				"visible"		"1"
 				"enabled"		"1"
-				"textAlignment"	"east"
+				"textAlignment"	"east"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
-				"fgcolor"		"TanLight"
-				"proportionalToParent"	"1"
-			}
-
+				"fgcolor"		"TanLight"	
+				"proportionalToParent"	"1"	
+			}	
+		
 			"ScoreShadow"
 			{
 				"ControlName"	"CExLabel"
@@ -682,12 +683,12 @@
 				"tall"			"35"
 				"visible"		"1"
 				"enabled"		"1"
-				"textAlignment"	"east"
+				"textAlignment"	"east"	
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
-				"fgcolor"		"Black"
+				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}
 		}

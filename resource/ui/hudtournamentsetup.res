@@ -18,13 +18,13 @@
 
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
-
+		
 		"draw_corner_width"	"8"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"8"
+		"draw_corner_height" 	"8"	
 	}
 
 	"TournamentSetupLabel"
-	{
+	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentLabel"
 		"font"			"HudFontSmallBold"
@@ -43,7 +43,7 @@
 	}
 
 	"TournamentTeamNameLabel"
-	{
+	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentTeamNameLabel"
 		"font"			"HudFontSmallest"
@@ -143,7 +143,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"command"		"teamready"
+		"command"		"teamready" 
 		"default"		"1"
 		"font"			"HudFontSmallestBold"
 		"fgcolor"		"FooterBGBlack"

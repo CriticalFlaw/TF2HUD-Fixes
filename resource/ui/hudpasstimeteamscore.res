@@ -29,9 +29,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_bg_left"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 	}
-
+		
 	"RightSideBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -48,9 +48,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_bg_right"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 	}
-
+		
 	"OutlineBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -67,91 +67,87 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_bg_outline"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 	}
 	
 	"BlueScore"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
-		"xpos"			"c-130"
+		"xpos"			"c-120"
 		"ypos"			"r67"
 		"xpos_minmode"	"c-100"
 		"ypos_minmode"	"r67"
 		"zpos"			"8"
-		"wide"			"75"
+		"wide"			"80"
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"west"
+		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 		"font_minmode"	"HudFontMedium"
 		"fgcolor"		"TanLight"
-	}
-
+	}	
+		
 	"BlueScoreShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScoreShadow"
-		"xpos"			"c-128"
+		"xpos"			"c-118"
 		"ypos"			"r66"
 		"xpos_minmode"	"c-98"
 		"ypos_minmode"	"r66"
 		"zpos"			"7"
-		"wide"			"75"
+		"wide"			"80"
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"west"
+		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 		"font_minmode"	"HudFontMedium"
 		"fgcolor"		"Black"
-	}
-
+	}	
+							
 	"RedScore"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScore"
-		"xpos"			"c57"
+		"xpos"			"c42"
 		"ypos"			"r67"
 		"xpos_minmode"	"c28"
 		"ypos_minmode"	"r67"
 		"zpos"			"8"
-		"wide"			"75"
+		"wide"			"80"
 		"tall"			"35"
-		"tall_hidef"	"100"
-		"tall_lodef"	"75"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"east"
+		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
 		"font_minmode"	"HudFontMedium"
-		"fgcolor"		"TanLight"
-	}
-
+		"fgcolor"		"TanLight"		
+	}	
+		
 	"RedScoreShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScoreShadow"
-		"xpos"			"c59"
+		"xpos"			"c44"
 		"ypos"			"r66"
 		"xpos_minmode"	"c30"
 		"ypos_minmode"	"r66"
 		"zpos"			"7"
-		"wide"			"75"
+		"wide"			"80"
 		"tall"			"35"
-		"tall_hidef"	"100"
-		"tall_lodef"	"75"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"east"
+		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
 		"font_minmode"	"HudFontMedium"
-		"fgcolor"		"Black"
+		"fgcolor"		"Black"		
 	}
 
 	"PlayingToCluster"
@@ -183,8 +179,8 @@
 			"brighttext"	"0"
 			"font"			"HudFontSmall"
 			"fgcolor"		"TanLight"
-		}
-
+		}	
+				
 		"PlayingToBG"
 		{
 			"ControlName"	"CTFImagePanel"
@@ -198,7 +194,7 @@
 			"enabled"		"1"
 			"image"			"../hud/objectives_flagpanel_bg_playingto"
 			"image_hidef"	"../hud/objectives_flagpanel_bg_playingto_hidef"
-			"scaleImage"	"1"
+			"scaleImage"	"1"	
 		}
 	}
 }
