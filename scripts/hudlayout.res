@@ -203,7 +203,6 @@
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"r162"	[$WIN32]
-		"xpos_minmode"			"r135"	[$WIN32]
 		"ypos"					"r152"	[$WIN32]
 		"ypos_minmode"			"r134"	[$WIN32]
 		"xpos"					"r194"	[$X360]
@@ -819,7 +818,7 @@
 		"tall"					"200"
 		"visible"				"1"
 		"enabled"				"1"
-		"separator_width"		"5"	// distance between the icons (including their backgrounds)
+		"separator_width"		"9"	// distance between the icons (including their backgrounds)
 		"separator_height"		"7"
 		"height_offset"			"0"	[$WIN32] // distance from the bottom of the panel
 		"height_offset"			"26"	[$X360]
@@ -1027,10 +1026,10 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r157"	[$WIN32]
-		"xpos_minmode"	"r60"	[$WIN32]
+		"xpos"			"r162"	[$WIN32]
+		"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r75"	[$WIN32]
+		"ypos_minmode"	"r32"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"
@@ -1211,7 +1210,6 @@
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"0"
-		"zpos"					"1"
 		"wide"					"f0"
 		"tall"					"100"
 	}

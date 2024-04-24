@@ -75,15 +75,15 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"scaleImage"	"1"
-				}
-			}
+				}				
+			}		
 		}
 		
 		"SaxxySettings"
 		{
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"-101"
+			"zpos"			"-101"		
 			"wide"			"f0"
 			"tall"			"480"
 			
@@ -121,7 +121,7 @@
 				"zpos"			"9"
 			}
 		}
-	}
+	}	
 
 	"mouseoveritempanel"
 	{
@@ -208,11 +208,11 @@
 			"image"		"../console/title_team_halloween2014_widescreen"
 		}
 		if_halloween_4
-		{
+		{	
 			"image"		"../console/title_team_halloween2015_widescreen"
 		}
 		if_halloween_5
-		{
+		{	
 			"image"		"../console/title_scream_fortress_2017_widescreen"
 		}
 		if_fullmoon
@@ -228,7 +228,7 @@
 			"image"		"../console/background_xmas2023_widescreen"
 		}
 	}
-	
+					
 	"TFLogoImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -243,7 +243,7 @@
 		"image"			"../vgui/replay/thumbnails/main_menu_logo"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
-	}
+	}	
 	
 	"TFCharacterImage"
 	{
@@ -304,7 +304,7 @@
 		"sound_released"	"vo/null.mp3"
 		"actionsignallevel" "1"
 		"proportionaltoparent"	"1"
-		
+				
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"paintbackground"	"1"
@@ -329,7 +329,7 @@
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 			"keyboardinputenabled" "0"
-		}
+		}		
 	}
 
 	"RankTooltipPanel"
@@ -345,7 +345,7 @@
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
 		"image"			"info"
-		"scaleImage"	"1"
+		"scaleImage"	"1"	
 		"alpha"			"75"
 	}
 	
@@ -405,7 +405,7 @@
 		"image"			"gc_dc"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
-	}
+	}	
 
 	"RankBorder"
 	{
@@ -474,7 +474,7 @@
 			"fgcolor_override"	"235 226 202 255"
 			"auto_wide_tocontents" "1"
 		}
-	}
+	}	
 
 	"Notifications_ShowButtonPanel"
 	{
@@ -510,7 +510,7 @@
 			"image"			"glyph_achievements"
 			"scaleImage"	"1"
 			"drawcolor" "210 125 33 255"
-		}
+		}				
 		
 		"Notifications_CountLabel"
 		{
@@ -530,7 +530,7 @@
 			"enabled"		"1"
 			"fgcolor_override"	"255 255 255 255"
 		}
-		
+	
 		"Notifications_ShowButtonPanel_SB"
 		{
 			"ControlName"	"CExImageButton"
@@ -648,7 +648,7 @@
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
 				"keyboardinputenabled" "0"
-			}
+			}		
 		}
 	}
 
@@ -696,7 +696,7 @@
 			"sound_released"	"vo/null.mp3"
 			"actionsignallevel" "2"
 			"proportionaltoparent"	"1"
-			
+				
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
@@ -721,7 +721,7 @@
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
 				"keyboardinputenabled" "0"
-			}
+			}		
 		}
 	}
 	
@@ -894,9 +894,9 @@
 				"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
-			}
-		}
-		
+			}				
+		}	
+
 		"MOTD_HeaderIcon"
 		{
 			"ControlName"	"ImagePanel"
@@ -911,7 +911,7 @@
 			"image"			"class_icons/filter_all_motd"
 			"scaleImage"	"1"
 		}
-		
+			
 		"MOTD_TitleLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -1073,7 +1073,7 @@
 			"defaultBgColor_override" "46 43 42 255"
 			"armedFgColor_override" "235 226 202 255"
 			"depressedFgColor_override" "235 226 202 255"
-		}
+		}	
 		
 		"MOTD_PrevButton"
 		{
@@ -1843,7 +1843,6 @@
 		} // Background
 
 	} // EventPromo
-	
 
 	"ShowPromoCodesButton"
 	{
@@ -2384,7 +2383,7 @@
 			"scaleImage"	"1"
 		}				
 	}
-
+	
 	"SettingsButton"
 	{
 		"ControlName"	"CExImageButton"
@@ -2890,7 +2889,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ShowHUDOptonsButton"
-		"xpos"			"r53"
+		"xpos"			"r55"
 		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"

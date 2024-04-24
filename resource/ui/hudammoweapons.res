@@ -71,7 +71,7 @@
 		"xpos_minmode"	"9"
 		"xpos_hidef"	"2"
 		"ypos"			"11"
-		"ypos_minmode"	"2"
+		"ypos_minmode"	"3"
 		"ypos_hidef"	"2"
 		"ypos_lodef"	"2"
 		"zpos"			"5"

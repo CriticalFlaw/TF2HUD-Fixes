@@ -291,7 +291,7 @@
 		"enabled"				"1"
 		"zpos"					"-400"
 		"xpos"					"0"
-		"ypos"					"-12"
+		"ypos"					"0"
 		"wide"					"150"
 		"tall"					"16"
 		"textAlignment"			"center"

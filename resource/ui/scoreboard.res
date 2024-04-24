@@ -669,7 +669,7 @@
 
 		if_mvm
 		{
-		    "ypos"			"rs1.138"
+		    "ypos"			"rs1.140"
 			"visible"		"0"
 		}
 				
@@ -721,7 +721,7 @@
 		"xpos"			"115"
 		"ypos"			"377"
 		"zpos"			"3"
-		"wide"			"200"
+		"wide"			"300"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"

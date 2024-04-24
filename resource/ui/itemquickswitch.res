@@ -122,7 +122,7 @@
 		"xpos"			"35"
 		"ypos"			"30"
 		"wide"			"240"
-		"tall"			"125"
+		"tall"			"120"
 		"PaintBackgroundType"	"2"
 		"fgcolor_override"	"59 54 48 255"
 		"bgcolor_override"	"200 187 161 0"
