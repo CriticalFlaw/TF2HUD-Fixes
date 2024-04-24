@@ -43,8 +43,8 @@
 		{
 			"ControlName"					"CExButton"
 			"fieldName"						"CloseButton"
-			"xpos"							"rs1-3"
-			"ypos"							"3"
+			"xpos"							"rs1-5"
+			"ypos"							"5"
 			"zpos"							"20"
 			"wide"							"20"
 			"tall"							"20"
