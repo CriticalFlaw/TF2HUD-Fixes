@@ -1,18 +1,14 @@
 ---
 name: Bug Report
-about: Report an issue with this mod so it can be fixed.
+about: Report an issue with the mod.
 title: "[BUG] ..."
-labels: bug report
-assignees: ''
+labels: issue
+assignees: 'criticalflaw'
 
 ---
 
-**Issue**
-A clear and concise description of what the issue is.
-
-**Specifications**
-Additional information about the issue: operating system, resolution and steps taken to reproduce.
-If applicable, specify if the TF2 HUD Editor was used or if customizations from the `extras` folder have been applied.
+**Describe the issue.**
+A clear and concise description of the issue with the mod. Please specify the operating system, resolutions and steps to reproduce the issue.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, please include screenshots to show the issue you're reporting.

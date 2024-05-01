@@ -1,14 +1,11 @@
 ---
-name: Feature Request
-about: Suggest an idea for this mod.
+name: Change Request
+about: Request a change to the mod.
 title: "[REQUEST] ..."
-labels: community request
-assignees: ''
+labels: request
+assignees: 'criticalflaw'
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what you'd like to be added to the mod.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Describe the change request.**
+A clear and concise description of the requested change. Please include links or screenshots, if applicable.

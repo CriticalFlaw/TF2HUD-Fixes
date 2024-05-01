@@ -779,6 +779,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
+				"tall"		"23"	[$LINUX]
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -789,6 +790,7 @@ Scheme
 			"2"
 			{
 				"name"		"TF2"
+				"tall"		"31"	[$LINUX]
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -799,6 +801,7 @@ Scheme
 			"3"
 			{
 				"name"		"TF2"
+				"tall"		"43"	[$LINUX]
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -808,6 +811,7 @@ Scheme
 			"4"
 			{
 				"name"		"TF2"
+				"tall"		"47"	[$LINUX]
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -817,6 +821,7 @@ Scheme
 			"5"
 			{
 				"name"		"TF2"
+				"tall"		"51"	[$LINUX]
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -829,6 +834,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"43"	[$LINUX]
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -842,6 +848,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"34"	[$LINUX]
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -855,6 +862,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
+				"tall"		"35"	[$LINUX]
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -867,6 +875,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
+				"tall"		"29"	[$LINUX]
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -878,6 +887,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"29"	[$LINUX]
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -889,6 +899,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
+				"tall"		"23"	[$LINUX]
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -901,6 +912,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
+				"tall"		"23"	[$LINUX]
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -912,6 +924,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"23"	[$LINUX]
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -923,6 +936,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"17"	[$LINUX]
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -934,6 +948,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
+				"tall"		"17"	[$LINUX]
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -947,6 +962,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
+				"tall"		"17"	[$LINUX]
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -960,6 +976,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
+				"tall"		"13"	[$LINUX]
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -972,6 +989,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"15"	[$LINUX]
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -983,6 +1001,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"13"	[$LINUX]
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -994,6 +1013,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"13"	[$LINUX]
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1040,6 +1060,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
+				"tall"		"14"	[$LINUX]
 				"tall"		"15"
 				"weight"	"500"
 				"additive"	"0"
@@ -1073,6 +1094,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Build"
+				"tall"		"15"	[$LINUX]
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1205,6 +1227,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2 Secondary"
+				"tall"		"17"	[$LINUX]
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -1218,6 +1241,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
+				"tall"		"15"	[$LINUX]
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -1278,6 +1302,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
+				"tall"		"14"	[$LINUX]
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1288,6 +1313,7 @@ Scheme
 			"2"
 			{
 				"name"		"TF2"
+				"tall"		"14"	[$LINUX]
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -1299,6 +1325,7 @@ Scheme
 			"3"
 			{
 				"name"		"TF2"
+				"tall"		"17"	[$LINUX]
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1308,6 +1335,7 @@ Scheme
 			"4"
 			{
 				"name"		"TF2"
+				"tall"		"20"	[$LINUX]
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1317,6 +1345,7 @@ Scheme
 			"5"
 			{
 				"name"		"TF2"
+				"tall"		"23"	[$LINUX]
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1383,6 +1412,7 @@ Scheme
 			"1"
 			{
 				"name"  "Team Fortress" // tf.ttf
+				"tall"	"27"	[$LINUX]
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -1483,6 +1513,7 @@ Scheme
 			"1"
 			{
 				"name"		"TF2"
+				"tall"		"23"	[$LINUX]
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1529,6 +1560,7 @@ Scheme
 			"1"
 			{
 				"name"			"TF2 Professor"
+				"tall"			"27"	[$LINUX]
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"

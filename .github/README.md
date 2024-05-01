@@ -40,12 +40,22 @@
 - Updated the Item Testing screen to not overlap with the matchmaking dashboard.
 - Updated the Replay screen's header and footer to match other main menu screens.
 
+#### Additional Changes
+- A customizations menu for toggling the crosshair, speedometer, damage numbers, transparent viewmodels and more.
+- Matchmaking stats on the main menu.
+- Buttons for changing team colors on the Loadout screen.
+- Navigation shortcut keys for multiple menu pages - A key for left and D for right.
+- High-quality item images.
+- An alternate health indicator.
+   - Enabled by copying contents of `resource/ui/customizations/health` into `resource/ui`
+   
 ### Acknowledgements
 - [PapaPeach](https://github.com/PapaPeach) and [Hypnootize](https://github.com/Hypnootize) for log-based customizations method and panel.
 - [Tkain](https://gamebanana.com/members/1582147) for the high-quality [TF2 Logo](https://gamebanana.com/mods/27061).
 - [Metisz](https://github.com/Metisz) for the high-quality [Loading Screen](https://gamebanana.com/mods/285046).
 - [Hypnootize](https://github.com/Hypnootize) for the [HUD Crosshairs](https://github.com/Hypnootize/TF2-HUD-Crosshairs).
 - [Jofre-Problem](https://github.com/Jofre-Problem) for the matchmaking stats on the main menu.
+- [quickkennedy](https://github.com/quickkennedy) for the quake-style [speedometer](https://www.teamfortress.tv/61625/speedometer-in-any-hud).
 - [impale1](https://github.com/impale1) for the match summary and vote panel fixes.
 - [Eerorri](https://github.com/Eerorri) for the Capture the Flag UI fixes.
 
