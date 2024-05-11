@@ -207,7 +207,7 @@
 						"visible"							"1"
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
-						"labelText"							"6"
+						"labelText"							"7"
 						"font"								"ItemFontNameSmall"
 						"textAlignment"						"center"
 						"Command"							"engine hud_killfeed_rows_7"
