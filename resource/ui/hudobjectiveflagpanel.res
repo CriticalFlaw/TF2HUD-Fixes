@@ -581,8 +581,10 @@
 		"fieldName"		"PoisonIcon"
 		"xpos"			"cs-0.5"
 		"ypos"			"r75"
+		"ypos_minmode"	"r63"
 		"zpos"			"6"
 		"wide"			"40"
+		"wide_minmode"	"30"
 		"tall"			"o1"
 		"visible"		"0"
 		"enabled"		"1"
@@ -596,6 +598,7 @@
 		"fieldName"		"PoisonTimeLabel"
 		"xpos"			"cs-0.5"
 		"ypos"			"r65"
+		"ypos_minmode"	"r58"
 		"zpos"			"6"
 		"wide"			"40"
 		"tall"			"20"
@@ -604,6 +607,7 @@
 		"textAlignment"	"center"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontMediumBold"
+		"font_minmode"	"HudFontMediumSmallBold"
 		"fgcolor"		"TanLight"
 	}
 	
