@@ -3,7 +3,7 @@ name: Change Request
 about: Request a change to the mod.
 title: "[REQUEST] ..."
 labels: request
-assignees: 'criticalflaw'
+assignees: 
 
 ---
 
