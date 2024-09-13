@@ -278,8 +278,9 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"16" [!$LINUX]
+				"tall"		"17" [!$LINUX]
 				"tall"		"18" [$LINUX]
+				"antialias"	"1"
 				"weight"	"500"
 			}
 		}
@@ -289,8 +290,9 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana Bold" [$POSIX]
-				"tall"		"16" [!$LINUX]
+				"tall"		"17" [!$LINUX]
 				"tall"		"18" [$LINUX]
+				"antialias"	"1"
 				"weight"	"1000"
 			}
 		}
@@ -312,8 +314,9 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"12" [!$POSIX]
+				"tall"		"14" [!$POSIX]
 				"tall"		"15" [$POSIX]
+				"antialias"	"1"
 				"weight"	"0"
 			}
 		}
@@ -336,6 +339,7 @@ Scheme
 				"name"		"Verdana" [$OSX]
 				"tall"		"12"
 				"weight"	"0"
+				"antialias"	"1"
 			}
 		}
 
@@ -347,6 +351,7 @@ Scheme
 				"name"		"Verdana" [$OSX]
 				"tall"		"18"
 				"weight"	"0"
+				"antialias"	"1"
 			}
 		}
 		"UiBold"
@@ -494,6 +499,7 @@ Scheme
 				"tall"		"14" [$LINUX]
 				"tall"		"12"
 				"weight"	"500"
+				"antialias"	"1"
 			}
 		}
 
@@ -835,7 +841,7 @@ Scheme
 			"1"
 			{
 				"name"		"Tahoma"
-				"tall"		"16"
+				"tall"		"17"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
@@ -843,7 +849,7 @@ Scheme
 			"2"
 			{
 				"name"		"Tahoma"
-				"tall"		"16"
+				"tall"		"17"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
@@ -851,7 +857,7 @@ Scheme
 			"3"
 			{
 				"name"		"Tahoma"
-				"tall"		"16"
+				"tall"		"17"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
@@ -860,7 +866,7 @@ Scheme
 			"4"
 			{
 				"name"		"Tahoma"
-				"tall"		"19"
+				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
@@ -869,7 +875,7 @@ Scheme
 			"5"
 			{
 				"name"		"Tahoma"
-				"tall"		"19"
+				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
