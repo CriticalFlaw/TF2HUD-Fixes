@@ -278,7 +278,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"17" [!$LINUX]
+				"tall"		"18" [!$LINUX]
 				"tall"		"18" [$LINUX]
 				"antialias"	"1"
 				"weight"	"500"
@@ -290,7 +290,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana Bold" [$POSIX]
-				"tall"		"17" [!$LINUX]
+				"tall"		"18" [!$LINUX]
 				"tall"		"18" [$LINUX]
 				"antialias"	"1"
 				"weight"	"1000"
@@ -302,7 +302,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"16" [!$LINUX]
+				"tall"		"18" [!$LINUX]
 				"tall"		"18" [$LINUX]
 				"weight"	"500"
 				"underline" "1"
@@ -314,7 +314,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"14" [!$POSIX]
+				"tall"		"15" [!$POSIX]
 				"tall"		"15" [$POSIX]
 				"antialias"	"1"
 				"weight"	"0"
@@ -326,7 +326,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"13"
+				"tall"		"15"
 				"weight"	"0"
 				"dropshadow" "1"
 			}
@@ -337,7 +337,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"12"
+				"tall"		"13"
 				"weight"	"0"
 				"antialias"	"1"
 			}
@@ -349,7 +349,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"18"
+				"tall"		"19"
 				"weight"	"0"
 				"antialias"	"1"
 			}
@@ -497,7 +497,7 @@ Scheme
 				"name"		 "Verdana" [$OSX]
 				"tall"		"11" [$OSX]
 				"tall"		"14" [$LINUX]
-				"tall"		"12"
+				"tall"		"13"
 				"weight"	"500"
 				"antialias"	"1"
 			}
