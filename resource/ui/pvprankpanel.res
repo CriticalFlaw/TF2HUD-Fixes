@@ -53,12 +53,12 @@
 			"ypos"			"cs-0.5+2"
 			"zpos"			"0"		
 			"wide"			"o1"
-			"tall"			"p0.12"
+			"tall"			"62"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fov"			"70"
+			"fov"			"45"
 			"proportionaltoparent"	"1"
 
 			if_mini
@@ -67,6 +67,7 @@
 				"ypos"		"cs-0.5"
 				"wide"		"200"
 				"tall"		"200"
+				"fov"		"70"
 			}
 
 			"paintbackground"	"0"
