@@ -13,15 +13,16 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"medal_width"		"20"
-		"avatar_width"		"65"
+		"medal_width"		"28"
+		"medal_column_width" "18"
+		"avatar_width"		"28"
 		"spacer"			"5"
 		"name_width"		"118"
-		"nemesis_width"		"25"
-		"class_width"		"25"
-		"score_width"		"30"
-		"ping_width"		"25"
-		"killstreak_width"	"15"
+		"nemesis_width"		"15"
+		"class_width"		"15"
+		"score_width"		"25"
+		"ping_width"		"19"
+		"killstreak_width"	"18"
 		"killstreak_image_width" "15"
 	}
 	"BlueScoreBG"
@@ -353,8 +354,8 @@
 		
 		if_mvm
 		{
-			"xpos"				"415"
-			"ypos"				"265"
+			"xpos"			"415"
+			"ypos"			"265"
 		}
 	}
 	"ServerLabel"
@@ -642,7 +643,7 @@
 		
 		if_mvm
 		{
-		    "ypos"			"rs1.390"
+			"ypos"			"rs1.390"
 			"visible"		"1"
 		}
 	}
@@ -669,7 +670,7 @@
 
 		if_mvm
 		{
-		    "ypos"			"rs1.140"
+			"ypos"			"rs1.140"
 			"visible"		"0"
 		}
 				

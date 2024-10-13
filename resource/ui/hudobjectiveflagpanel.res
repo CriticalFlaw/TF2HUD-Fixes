@@ -343,8 +343,9 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CarriedImage"
 		"xpos"			"c-23"
-		"ypos"			"r120"
+		"ypos"			"r120"	[$WIN32]
 		"ypos_minmode"	"r105"
+		"ypos"			"r158"	[$X360]
 		"zpos"			"10"
 		"wide"			"45"
 		"tall"			"45"
@@ -355,7 +356,7 @@
 		
 		"if_hybrid"
 		{
-			"ypos"		"r142"
+			"ypos"			"r142"
 			"ypos_minmode"	"r115"
 		}
 		
@@ -464,39 +465,39 @@
 		"visible"		"1"
 		"enabled"		"1"
 		
+		"if_mvm"
+		{
+			"xpos_minmode"	"c-75"
+			"ypos_minmode"	"r75"
+		}
+		
 		"if_hybrid"
 		{
-			"visible"	"0"
-			"ypos"		"r116"
+			"visible"		"0"
+			"ypos"			"r116"
 		}
 		
 		"if_hybrid_single"
 		{
-			"xpos"		"c-80"
+			"xpos"			"c-80"
 			"xpos_minmode"	"c-72"
 			"ypos_minmode"	"r90"
 		}
 		
 		"if_hybrid_double"
 		{
-			"xpos"		"c-115"
+			"xpos"			"c-115"
 		}
 
 		"if_specialdelivery"
 		{
-			"ypos"		"r79"
+			"ypos"			"r79"
 			"ypos_minmode"	"r63"
 		}
 		
 		"if_no_flags"
 		{
-			"visible"	"0"
-		}
-		
-		"if_mvm"
-		{
-			"xpos_minmode"	"c-75"
-			"ypos_minmode"	"r75"
+			"visible"		"0"
 		}
 	}
 			
@@ -517,31 +518,31 @@
 				
 		"if_hybrid"
 		{
-			"visible"	"0"
-			"ypos"		"r116"
+			"visible"		"0"
+			"ypos"			"r116"
 		}
 		
 		"if_hybrid_single"
 		{
-			"xpos"		"c-80"
+			"xpos"			"c-80"
 			"xpos_minmode"	"c-72"
 			"ypos_minmode"	"r95"
 		}
 		
 		"if_hybrid_double"
 		{
-			"xpos"		"c-45"
+			"xpos"			"c-45"
 		}
 
 		"if_specialdelivery"
 		{
-			"ypos"		"r79"
+			"ypos"			"r79"
 			"ypos_minmode"	"r63"
 		}
 		
 		"if_no_flags"
 		{
-			"visible"	"0"
+			"visible"		"0"
 		}
 	}	
 			
@@ -556,21 +557,21 @@
 		"ypos"			"r116"	[$X360]
 		"zpos"			"5"
 		"wide"			"80"
-		"wide_minmode"	"65"
 		"tall"			"80"
+		"wide_minmode"	"65"
 		"tall_minmode"	"65"
 		"visible"		"0"
 		"enabled"		"1"
 		
 		"if_hybrid"
 		{
-			"ypos"		"r116"
+			"ypos"			"r116"
 			"ypos_minmode"	"r90"
 		}
 		
 		"if_specialdelivery"
 		{
-			"ypos"		"r80"
+			"ypos"			"r80"
 			"ypos_minmode"	"r63"
 		}
 	}
@@ -628,7 +629,7 @@
 
 		"if_hybrid"
 		{
-			"ypos"		"r150"
+			"ypos"			"r150"
 			"ypos_minmode"	"r125"
 		}
 		
