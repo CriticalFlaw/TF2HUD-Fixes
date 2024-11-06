@@ -1,1 +1,1 @@
-#base "../../../../cfg/hud_player_model.txt"
+#base "../../../../../../cfg/hud_player_model.txt"
