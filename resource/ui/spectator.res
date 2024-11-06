@@ -70,7 +70,7 @@
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"c-300"	[$WIN32]
 		"xpos"			"c-200"	[$X360]
-		"ypos"			"58"	[$WIN32]
+		"ypos"			"40"	[$WIN32]
 		"ypos"			"67"	[$X360]
 		"ypos_hidef"	"79"
 		"ypos_lodef"	"85"
@@ -133,13 +133,13 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ClassOrTeamLabel"
-		"xpos"			"c-85"
+		"xpos"			"0"
 		"xpos_hidef"	"c-65"
 		"xpos_lodef"	"40"
-		"ypos"			"73"
+		"ypos"			"44"
 		"ypos_hidef"	"90"
 		"ypos_lodef"	"30"	
-		"wide"			"170"
+		"wide"			"120"
 		"wide_hidef"	"130"
 		"wide_lodef"	"220"
 		"tall"			"15"
@@ -152,7 +152,7 @@
 		"visible"		"0"	[$X360]
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ChangeTeam"
-		"textAlignment"		"center"
+		"textAlignment"		"east"
 		"textAlignment_lodef"		"north-west"
 		"font"			"SpectatorKeyHints"
 		"font_hidef"	"HudFontSmallest"
