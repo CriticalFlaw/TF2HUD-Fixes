@@ -284,7 +284,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowBackpack"
 		"xpos"			"c100"
-		"ypos"			"330"
+		"ypos"			"331"
 		"zpos"			"20"
 		"wide"			"200"
 		"tall"			"25"
