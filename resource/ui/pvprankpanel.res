@@ -67,7 +67,6 @@
 				"ypos"		"cs-0.5"
 				"wide"		"200"
 				"tall"		"200"
-				"fov"		"70"
 			}
 
 			"paintbackground"	"0"
