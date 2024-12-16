@@ -278,8 +278,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"18" [!$LINUX]
-				"tall"		"18" [$LINUX]
+				"tall"		"17"
 				"antialias"	"1"
 				"weight"	"500"
 			}
@@ -290,8 +289,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana Bold" [$POSIX]
-				"tall"		"18" [!$LINUX]
-				"tall"		"18" [$LINUX]
+				"tall"		"17"
 				"antialias"	"1"
 				"weight"	"1000"
 			}
@@ -302,8 +300,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"18" [!$LINUX]
-				"tall"		"18" [$LINUX]
+				"tall"		"17"
 				"weight"	"500"
 				"underline" "1"
 			}
@@ -314,8 +311,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"15" [!$POSIX]
-				"tall"		"15" [$POSIX]
+				"tall"		"14"
 				"antialias"	"1"
 				"weight"	"0"
 			}
@@ -349,7 +345,7 @@ Scheme
 			{
 				"name"		"Tahoma" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"19"
+				"tall"		"18"
 				"weight"	"0"
 				"antialias"	"1"
 			}
@@ -496,8 +492,8 @@ Scheme
 				"name"		 "Lucida Console" [$X360]
 				"name"		 "Verdana" [$OSX]
 				"tall"		"11" [$OSX]
-				"tall"		"14" [$LINUX]
-				"tall"		"13"
+				"tall"		"13" [$LINUX]
+				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
 			}
