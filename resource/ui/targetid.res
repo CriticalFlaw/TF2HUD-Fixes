@@ -117,7 +117,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%targetdata%"
-		"textAlignment"		"west"
+		"textAlignment"		"Left"
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
@@ -163,7 +163,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"KillstreakIconAnchor"
 		"xpos"			"cs-0.5+87"
-		"xpos_minmode"	"cs-0.5+85"
+		"xpos_minmode"	"cs-0.5+82"
 		"ypos"			"20"
 		"ypos_minmode"	"16"
 		"wide"			"f0"
