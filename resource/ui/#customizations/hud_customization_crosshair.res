@@ -151,7 +151,7 @@
 					"xpos"								"3"
 					"ypos"								"0"
 					"zpos"								"20"
-					"wide"								"285"
+					"wide"								"288"
 					"tall"								"f18"
 					"visible"							"1"
 					"enabled"							"1"
@@ -2212,7 +2212,7 @@
 				{
 					"ControlName"						"EditablePanel"
 					"fieldName"							"HUD_Crosshair_Size"
-					"xpos"								"3"
+					"xpos"								"0"
 					"ypos"								"0"
 					"zpos"								"20"
 					"wide"								"67"
@@ -2527,7 +2527,7 @@
 				{
 					"ControlName"						"EditablePanel"
 					"fieldName"							"HUD_Crosshair_Color"
-					"xpos"								"3"
+					"xpos"								"0"
 					"ypos"								"0"
 					"zpos"								"20"
 					"wide"								"82"
